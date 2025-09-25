@@ -1,12 +1,19 @@
 const express = require("express")
 const { default: helmet } = require("helmet")
 const dotenv = require("dotenv")
-const { json, success } = require("zod")
 const cors = require("cors")
 const compression = require("compression")
 const morgan = require("morgan")
 dotenv.config()
 
+const config = require("./config/environment")
+const logger = require("./utils/logger")
+
+
+// routes
+const authRoutes = require("./routes/auth.routes")
+const exerciseRoutes = require("./routes/exercise.routes")
+const errorHandler = require("./middleware/error.middleware")
 
 const app = express()
 
@@ -14,7 +21,7 @@ const app = express()
 //middlewares
 app.use(helmet())
 app.use(cors({
-    origin: process.env.FRONTEND_URL,
+    origin: config.FRONTEND_URL,
     allowedHeaders: ["Content-Type", "Authorization"],
     methods: ["GET", "PUT", "POST", "DELETE", "OPTIONS"],
     credentials: true
@@ -24,7 +31,7 @@ app.use(compression())
 app.use(express.json({ limit: "10mb" }))
 app.use(express.urlencoded({ extended: true, limit: "10mb" }))
 
-if (process.env.NODE_ENV === "development") {
+if (config.NODE_ENV === "development") {
     app.use(morgan("dev"))
 }
 else {
@@ -41,12 +48,15 @@ app.get("/health", (req, res) => {
         status: "OK",
         message: "Backend health 100%",
         timestamp: new Date().toISOString(),
-        environment: process.env.NODE_ENV,
+        environment: config.NODE_ENV,
         version: "1.0.0"
     })
 })
+app.use("/auth",authRoutes)
+app.use("/exercise",exerciseRoutes)
 
-app.get("*", (req, res) => {
+
+app.use("/:path", (req, res) => {
     res.status(404).json({
         message: "404 route not found",
         success: false,
@@ -54,14 +64,21 @@ app.get("*", (req, res) => {
     })
 })
 
+app.use(errorHandler)
 
 
-app.listen(process.env.PORT, () => {
-    console.log("Server is running on port", process.env.PORT)
+
+const server = app.listen(config.PORT,() => {
+    logger.info(`🚀 FitAI Backend Server running on port ${config.PORT}`);
+  logger.info(`📱 Environment: ${config.NODE_ENV}`);
+  logger.info(`🌐 Health check: http://localhost:${config.PORT}/health`);
 })
 
 process.on("SIGTERM", () => {
-
+    logger.info("SIGTERM received shutting down gracefully")
+    server.close(() => {
+        logger.info("Process Terminated")
+    })
 })
 
 module.exports = app
