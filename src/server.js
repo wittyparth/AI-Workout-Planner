@@ -14,48 +14,54 @@ const app = express()
 //middlewares
 app.use(helmet())
 app.use(cors({
-    origin : process.env.FRONTEND_URL,
-    allowedHeaders : ["Content-Type","Authorization"],
-    methods : ["GET","PUT","POST","DELETE","OPTIONS"],
-    credentials : true
+    origin: process.env.FRONTEND_URL,
+    allowedHeaders: ["Content-Type", "Authorization"],
+    methods: ["GET", "PUT", "POST", "DELETE", "OPTIONS"],
+    credentials: true
 }))
 app.use(compression())
 
-app.use(express.json({limit:"10mb"}))
-app.use(express.urlencoded({extended:true,limit:"10mb"}))
+app.use(express.json({ limit: "10mb" }))
+app.use(express.urlencoded({ extended: true, limit: "10mb" }))
 
-if(process.env.NODE_ENV==="development"){
+if (process.env.NODE_ENV === "development") {
     app.use(morgan("dev"))
 }
-else{
+else {
     app.use(morgan("combined"))
 }
 
 
-app.get("/",(req,res)=>{
+app.get("/", (req, res) => {
     res.send("Home Page")
 })
 
-app.get("/health",(req,res)=>{
+app.get("/health", (req, res) => {
     res.status(200).json({
-        status : "OK",
+        status: "OK",
         message: "Backend health 100%",
-        timestamp : new Date().toISOString(),
-        environment : process.env.NODE_ENV,
-        version : "1.0.0"
+        timestamp: new Date().toISOString(),
+        environment: process.env.NODE_ENV,
+        version: "1.0.0"
     })
 })
 
-app.get("*",(req,res)=>{
+app.get("*", (req, res) => {
     res.status(404).json({
-        message : "404 route not found",
-        success : false,
-        path : req.originalUrl
+        message: "404 route not found",
+        success: false,
+        path: req.originalUrl
     })
 })
 
 
 
-app.listen(process.env.PORT,()=>{
-    console.log("Server is running on port",process.env.PORT)
+app.listen(process.env.PORT, () => {
+    console.log("Server is running on port", process.env.PORT)
 })
+
+process.on("SIGTERM", () => {
+
+})
+
+module.exports = app
