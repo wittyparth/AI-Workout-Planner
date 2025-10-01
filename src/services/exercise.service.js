@@ -1,8 +1,3 @@
-/**
- * Exercise Service
- * Business logic for exercise data management
- */
-
 const path = require('path');
 const FileSystemUtil = require('../utils/fileSystem');
 const logger = require('../utils/logger');
@@ -132,7 +127,7 @@ class ExerciseService {
             if (normalizedCriteria.search) {
                 const searchTerm = normalizedCriteria.search.toLowerCase();
                 filteredExercises = filteredExercises.filter(exercise => {
-                    return exercise.name.toLowerCase().includes(searchTerm) ||
+                    return exercise?.name?.toLowerCase().includes(searchTerm) ||
                         exercise.description.toLowerCase().includes(searchTerm) ||
                         exercise.alternativeNames.some(name =>
                             name.toLowerCase().includes(searchTerm)
@@ -148,10 +143,13 @@ class ExerciseService {
             }
 
             // Apply pagination
+            logger.debug(`page - ${normalizedCriteria.page}, limit - ${normalizedCriteria.limit}`);
             const page = parseInt(normalizedCriteria.page) || 1;
-            const limit = parseInt(normalizedCriteria.limit) || 20;
+            const limit = parseInt(normalizedCriteria.limit) || 10;
             const startIndex = (page - 1) * limit;
             const endIndex = startIndex + limit;
+
+            logger.debug(`startIndex - ${startIndex}, endIndex - ${endIndex} limit - ${limit}`);
 
             const paginatedExercises = filteredExercises.slice(startIndex, endIndex);
 

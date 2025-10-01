@@ -1,8 +1,3 @@
-/**
- * Exercise Routes
- * Route definitions for exercise-related endpoints
- */
-
 const express = require('express');
 const ExerciseController = require('../controllers/exercise.controller');
 
@@ -23,20 +18,6 @@ const router = express.Router();
  *          - category: Exercise category (push|pull|legs|upper_body|lower_body|full_body|core|cardio|flexibility|warmup|cooldown)
  */
 router.get('/', ExerciseController.getAllExercises);
-
-/**
- * @route   GET /api/v1/exercises/filters
- * @desc    Get available filter options for exercises
- * @access  Public
- */
-router.get('/filters', ExerciseController.getExerciseFilters);
-
-/**
- * @route   GET /api/v1/exercises/stats
- * @desc    Get exercise library statistics
- * @access  Public
- */
-router.get('/stats', ExerciseController.getExerciseStats);
 
 /**
  * @route   POST /api/v1/exercises/search
@@ -78,5 +59,20 @@ router.put('/:id', ExerciseController.updateExercise);
  * @params  id: Exercise ID
  */
 router.delete('/:id', ExerciseController.deleteExercise);
+
+/**
+ * @route   GET /api/v1/exercises/filters
+ * @desc    Get available filter options for exercises
+ * @access  Public
+ */
+router.get('/filters', ExerciseController.getExerciseFilters);
+
+/**
+ * @route   GET /api/v1/exercises/stats
+ * @desc    Get exercise library statistics
+ * @access  Public
+ */
+router.get('/stats', ExerciseController.getExerciseStats);
+
 
 module.exports = router;

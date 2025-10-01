@@ -16,10 +16,10 @@ class ExerciseController {
             return ResponseUtil.paginated(
                 res,
                 result.exercises,
+                'Exercises retrieved successfully',
                 result.pagination.page,
                 result.pagination.limit,
                 result.pagination.total,
-                'Exercises retrieved successfully'
             );
         } catch (error) {
             logger.error('Error getting exercises', error);
@@ -62,10 +62,10 @@ class ExerciseController {
             return ResponseUtil.paginated(
                 res,
                 result.exercises,
+                'Exercise search completed successfully',
                 result.pagination.page,
                 result.pagination.limit,
                 result.pagination.total,
-                'Exercise search completed successfully'
             );
         } catch (error) {
             logger.error('Error searching exercises', error);

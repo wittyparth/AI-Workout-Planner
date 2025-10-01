@@ -371,21 +371,5 @@
     "createdAt": "2025-09-22T00:00:00Z",
     "updatedAt": "2025-09-22T00:00:00Z",
     "version": "1.0.0"
-  },
-  {
-    "muscleGroups": [
-      "chest",
-      "shoulders"
-    ],
-    "difficulty": "beginner",
-    "equipment": [
-      "bodyweight"
-    ],
-    "page": 1,
-    "limit": 5,
-    "id": "EX000006",
-    "createdAt": "2025-09-28T15:19:16.465Z",
-    "updatedAt": "2025-09-28T15:19:16.465Z",
-    "version": "1.0.0"
   }
 ]

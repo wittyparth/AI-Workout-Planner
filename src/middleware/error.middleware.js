@@ -1,17 +1,18 @@
 const logger = require("../utils/logger")
+const { NODE_ENV } = require("../config/environment")
 
-const errorHandler = (err,req,res,next) => {
+const errorHandler = (err, req, res, next) => {
 
-    let error = {...err}
-    error.message = err.message
-    logger.error(`Error ${err}`,{
-        stack : err.stack,
-        url : req.url,
-        method : req.method,
-        ip : req.ip
-    })
+  let error = { ...err }
+  error.message = err.message
+  logger.error(`Error ${err}`, {
+    stack: err.stack,
+    url: req.url,
+    method: req.method,
+    ip: req.ip
+  })
 
-    // Mongoose bad ObjectId
+  // Mongoose bad ObjectId
   if (err.name === 'CastError') {
     const message = 'Resource not found';
     error = { message, statusCode: 404 };
