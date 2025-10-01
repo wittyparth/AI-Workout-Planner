@@ -52,8 +52,8 @@ app.get("/health", (req, res) => {
         version: "1.0.0"
     })
 })
-app.use("/auth",authRoutes)
-app.use("/exercise",exerciseRoutes)
+app.use("/api/v1/auth", authRoutes)
+app.use("/api/v1/exercises", exerciseRoutes)
 
 
 app.use("/:path", (req, res) => {
@@ -68,10 +68,10 @@ app.use(errorHandler)
 
 
 
-const server = app.listen(config.PORT,() => {
+const server = app.listen(config.PORT, () => {
     logger.info(`🚀 FitAI Backend Server running on port ${config.PORT}`);
-  logger.info(`📱 Environment: ${config.NODE_ENV}`);
-  logger.info(`🌐 Health check: http://localhost:${config.PORT}/health`);
+    logger.info(`📱 Environment: ${config.NODE_ENV}`);
+    logger.info(`🌐 Health check: http://localhost:${config.PORT}/health`);
 })
 
 process.on("SIGTERM", () => {
