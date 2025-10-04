@@ -8,6 +8,7 @@ dotenv.config()
 
 const config = require("./config/environment")
 const logger = require("./utils/logger")
+connectToDatabase = require("./models/connectDatabase")
 
 
 // routes
@@ -16,6 +17,10 @@ const exerciseRoutes = require("./routes/exercise.routes")
 const errorHandler = require("./middleware/error.middleware")
 
 const app = express()
+
+
+
+connectToDatabase()
 
 
 //middlewares
@@ -76,8 +81,9 @@ const server = app.listen(config.PORT, () => {
     logger.info(`🌐 Health check: http://localhost:${config.PORT}/health`);
 })
 
-process.on("SIGTERM", () => {
+process.on("SIGTERM", async () => {
     logger.info("SIGTERM received shutting down gracefully")
+    await mongoose.connection.close()
     server.close(() => {
         logger.info("Process Terminated")
     })
