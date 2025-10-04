@@ -15,6 +15,7 @@ connectToDatabase = require("./models/connectDatabase")
 const authRoutes = require("./routes/auth.routes")
 const exerciseRoutes = require("./routes/exercise.routes")
 const errorHandler = require("./middleware/error.middleware")
+const verifyToken = require("./middleware/auth.middleware")
 
 const app = express()
 
@@ -60,7 +61,7 @@ app.get("/health", (req, res) => {
     })
 })
 app.use("/api/v1/auth", authRoutes)
-app.use("/api/v1/exercises", exerciseRoutes)
+app.use("/api/v1/exercises", verifyToken, exerciseRoutes)
 
 
 app.use("/:path", (req, res) => {

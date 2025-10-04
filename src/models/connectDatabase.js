@@ -5,7 +5,7 @@ const { default: mongoose } = require('mongoose');
 console.log(MONGODB_URI);
 async function connectToDatabase() {
     try {
-        const client = await mongoose.connect(MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true });
+        const client = await mongoose.connect(MONGODB_URI);
         if (client) {
             logger.info(`Connected to database: ${MONGODB_URI}`);
             return client
