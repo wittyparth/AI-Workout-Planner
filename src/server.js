@@ -1,5 +1,5 @@
 const express = require("express")
-const { default: helmet } = require("helmet")
+const helmet = require("helmet")
 const dotenv = require("dotenv")
 const cors = require("cors")
 const compression = require("compression")
@@ -16,6 +16,7 @@ const authRoutes = require("./routes/auth.routes")
 const exerciseRoutes = require("./routes/exercise.routes")
 const errorHandler = require("./middleware/error.middleware")
 const verifyToken = require("./middleware/auth.middleware")
+const { rateLimiter } = require("./middleware/ratelimit.middleware")
 
 const app = express()
 
@@ -45,6 +46,8 @@ if (config.NODE_ENV === "development") {
 else {
     app.use(morgan("combined"))
 }
+
+app.use(rateLimiter(15, 1000))
 
 
 app.get("/", (req, res) => {

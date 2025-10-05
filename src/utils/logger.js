@@ -15,6 +15,9 @@ class Logger {
             console.log(`[DEBUG] ${new Date().toISOString()} - ${message}`, meta)
         }
     }
+    security(event, meta = {}) {
+        console.log(`[SECURITY] ${new Date().toISOString()} ${event} - ${JSON.stringify(meta)} `)
+    }
 }
 
 module.exports = new Logger()
