@@ -25,6 +25,11 @@ const config = {
     MAX_FILE_SIZE: process.env.MAX_FILE_SIZE || 5 * 1024 * 1024, // 5MB
     ALLOWED_FILE_TYPES: process.env.ALLOWED_FILE_TYPES || ["image/jpeg", "image/png", "image/gif"],
 
+    EMAIl_HOST : process.env.EMAIl_HOST || "smtp.gmail.com",
+    EMAIL_PORT : process.env.EMAIL_PORT || 587,
+    EMAIL_USER : process.env.EMAIL_USER || "",
+    EMAIL_PASS : process.env.EMAIL_PASS || "",
+
 }
 const requriedEnvVars = ["JWT_SECRET"]
 

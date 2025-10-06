@@ -1,10 +1,12 @@
 const { JWT_SECRET } = require("../config/environment")
-const RefreshTokenModel = require("../models/auth.models")
+const {RefreshTokenModel,PasswordResetTokenModel} = require("../models/auth.models")
 const User = require("../models/user.models")
 const logger = require("../utils/logger")
 const bcrypt = require("bcryptjs")
 const jwt = require("jsonwebtoken")
+const crypto = require("crypto")
 const util = require('util')
+const EmailService = require("./email.service")
 
 class authService {
     static async register(data) {
@@ -81,6 +83,52 @@ class authService {
             throw error
         }
     }
+
+
+    static async generatePasswordResetToken(email,ip) {
+        try {
+            const user = await User.findOne({ email }).lean()
+            if (!user) throw new Error("User not found")
+            const randomToken = crypto.randomBytes(32).toString("hex")
+            const hashedRandomToken = crypto.createHash("sha256").update(randomToken).digest("hex")
+            const expiresAt = Date.now() + 60 * 60 * 1000 // 1 hour from now
+            console.log(user)
+            const generatedToken = await PasswordResetTokenModel.create({
+                userId: user._id,
+                token: hashedRandomToken,
+                expiresAt,
+                used : false,
+                ipAddress : ip
+            })
+            await EmailService.sendPasswordResetEmail(email,randomToken)
+            return randomToken
+        } catch (error) {
+            logger.error(`Error generating password reset token in auth.service.js - ${error.message}`, error)
+            throw error
+        }
+    }
+    static async resetPassword(data){
+        try {
+            const {token,newPassword} = data
+            console.log(data)
+            const hashedToken  = crypto.createHash("sha256").update(token).digest("hex")
+            const isValidToken = await PasswordResetTokenModel.findOne({token : hashedToken}).lean()
+            console.log(isValidToken)
+            if(!isValidToken) return {message : "Invalid token"}
+            if(isValidToken.used) return {message : "Token already used"}
+            if(isValidToken.expiresAt < Date.now()) return {message : "Token expired"}
+            await PasswordResetTokenModel.findByIdAndUpdate(isValidToken._id,{$set : {used : true}})
+            const hashedPassword = await bcrypt.hash(newPassword, 12)
+            const user = await User.findByIdAndUpdate(isValidToken.userId, { $set : { password: hashedPassword } })
+            return {message : "success",user}
+        }
+        catch(error){
+            logger.error(`Error in resetPassword service - ${error.message}`, error)
+            throw error
+        }
+    }
+
+    
 }
 
 module.exports = authService

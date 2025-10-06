@@ -72,6 +72,31 @@ class authController {
             return ResponseUtil.error(res, "There was an error while getting token with refresh token", 500)
         }
     }
+
+    static async forgotPassword(req,res){
+        try {
+            const {email} = req.body
+            const ip = req.ip || req.headers['x-forwarded-for'] || req.connection.remoteAddress
+            const resetToken = await authService.generatePasswordResetToken(email,ip)
+            console.log("Email will be sent to user with reset token:", resetToken)
+            return ResponseUtil.success(res,{resetToken},"Password reset token generated successfully")
+        } catch (error) {
+            logger.error(`Error in forgot password controller - ${error.message}`, error)
+            return ResponseUtil.error(res, "Error in forgot password controller", 500)
+        }
+    }
+
+    static async resetPassword(req,res){
+        try {
+            const data = req.body
+            const result = await authService.resetPassword(data)
+            if(result.message !== "success") return ResponseUtil.error(res,result.message,400)
+            return ResponseUtil.success(res,result.user,"Password reset successfully")
+        } catch (error) {
+            logger.error(`Error in reset password controller - ${error.message}`, error)
+            return ResponseUtil.error(res, "Error in reset password controller", 500)
+        }
+    }
 }
 
 module.exports = authController
