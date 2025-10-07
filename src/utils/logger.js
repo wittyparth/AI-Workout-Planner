@@ -1,23 +1,28 @@
-const { NODE_ENV } = require("../config/environment")
+const { createLogger, format, transports } = require('winston');
+const { combine, timestamp, printf, json } = format;
 
-class Logger {
-    info(message, meta = {}) {
-        console.log(`[INFO] ${new Date().toISOString()} - ${message}`, meta)
-    }
-    warn(message, meta = {}) {
-        console.warn(`[WARN] ${new Date().toISOString()} - ${message}`, meta)
-    }
-    error(message, meta = {}) {
-        console.error(`[ERROR] ${new Date().toISOString()} - ${message}`, meta)
-    }
-    debug(message, meta = {}) {
-        if (NODE_ENV === "development") {
-            console.log(`[DEBUG] ${new Date().toISOString()} - ${message}`, meta)
-        }
-    }
-    security(event, meta = {}) {
-        console.log(`[SECURITY] ${new Date().toISOString()} ${event} - ${JSON.stringify(meta)} `)
-    }
-}
+const logFormat = printf(({ level, message, timestamp, meta }) => {
+  return `${timestamp} [${level}] : ${message} ${meta ? JSON.stringify(meta) : ''}`;
+});
 
-module.exports = new Logger()
+const logger = createLogger({
+  level: process.env.LOG_LEVEL || 'info',
+  format: combine(
+    timestamp(),
+    // for production you may prefer json(), for console dev use printf()
+    process.env.NODE_ENV === 'production' ? json() : logFormat
+  ),
+  transports: [
+    new transports.Console(), // dev friendly
+    new transports.File({ filename: 'logs/error.log', level: 'error' }),
+    new transports.File({ filename: 'logs/combined.log' }),
+  ],
+  exceptionHandlers: [
+    new transports.File({ filename: 'logs/exceptions.log' })
+  ],
+  rejectionHandlers: [
+    new transports.File({ filename: 'logs/rejections.log' })
+  ]
+});
+
+module.exports = logger;

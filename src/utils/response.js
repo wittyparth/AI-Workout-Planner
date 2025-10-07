@@ -9,7 +9,7 @@ class ResponseUtil {
     }
 
     static error(res, message = "Error Occured", statusCode = "500", errors = null) {
-        res.status(statusCode).json({
+        return res.status(statusCode).json({
             errors,
             timeStamp: new Date().toISOString(),
             message,
@@ -19,7 +19,7 @@ class ResponseUtil {
 
     static paginated(res, data = null, message = "Success", page, limit, total) {
         const totalPages = Math.ceil(total / limit)
-        res.status(200).json({
+        return res.status(200).json({
             success: true,
             message,
             data,

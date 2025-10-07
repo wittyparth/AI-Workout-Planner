@@ -2,39 +2,93 @@ const logger = require("../utils/logger")
 const { NODE_ENV } = require("../config/environment")
 
 const errorHandler = (err, req, res, next) => {
+  err.statusCode = err.statusCode || 500;
+  err.status = err.status || 'error';
 
-  let error = { ...err }
-  error.message = err.message
-  logger.error(`Error ${err}`, {
-    stack: err.stack,
-    url: req.url,
-    method: req.method,
-    ip: req.ip
+  // Log error with full context
+  const errorLog = {
+    requestId: req.id,
+    error: {
+      message: err.message,
+      stack: err.stack,
+      statusCode: err.statusCode,
+      isOperational: err.isOperational
+    },
+    request: {
+      method: req.method,
+      path: req.path,
+      body: req.body,
+      query: req.query,
+      params: req.params,
+      user: req.user ? { id: req.user.userId, email: req.user.email } : null,
+      ip: req.ip
+    },
+    timestamp: new Date().toISOString()
+  };
+
+  // Different logging based on environment
+  if (NODE_ENV === 'development') {
+    logger.error('Error occurred', errorLog);
+    
+    // Development response (full details)
+    return res.status(err.statusCode).json({
+      success: false,
+      message: err.message,
+      requestId: req.id,
+      stack: err.stack,
+      details: err.details
+    });
+  }
+
+  // Production response (safe details only)
+  if (err.isOperational) {
+    // Trusted error: send details
+    return res.status(err.statusCode).json({
+      success: false,
+      message: err.message,
+      requestId: req.id,
+      details: err.details
+    });
+  }
+
+  // Programming error: don't leak details
+  logger.error('Programming error', errorLog);
+  return res.status(500).json({
+    success: false,
+    message: 'An unexpected error occurred',
+    requestId: req.id
+  });
+};
+
+const requestContextMiddleware = (req, res, next) => {
+  req.id = crypto.randomUUID()
+  req.startTime = Date.now()
+  res.setHeader('X-Request-ID', req.id)
+
+  logger.info(`Request started`,{
+    requestId : req.id,
+    method : req.method,
+    path : req.path,
+    ip : req.ip,
+    userAgent : req.get('User-Agent') || '',
+    timestamp : new Date().toISOString()
   })
 
-  // Mongoose bad ObjectId
-  if (err.name === 'CastError') {
-    const message = 'Resource not found';
-    error = { message, statusCode: 404 };
-  }
-
-  // Mongoose duplicate key
-  if (err.code === 11000) {
-    const message = 'Duplicate field value entered';
-    error = { message, statusCode: 400 };
-  }
-
-  // Mongoose validation error
-  if (err.name === 'ValidationError') {
-    const message = Object.values(err.errors).map(val => val.message);
-    error = { message, statusCode: 400 };
-  }
-
-  res.status(error.statusCode || 500).json({
-    success: false,
-    message: error.message || 'Server Error',
-    ...(NODE_ENV === 'development' && { stack: err.stack })
+  res.on('finish', () => {
+    const duration = Date.now() - req.startTime;
+    
+    logger.info('Request completed', {
+      requestId: req.id,
+      method: req.method,
+      path: req.path,
+      statusCode: res.statusCode,
+      duration: `${duration}ms`,
+      userId: req.user?.userId
+    });
   });
+  
+  next()
+
 }
 
-module.exports = errorHandler
+module.exports = {errorHandler, requestContextMiddleware}

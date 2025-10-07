@@ -10,6 +10,7 @@ const EmailService = require("./email.service")
 
 class authService {
     static async register(data) {
+        console.log(data)
         const { email, password } = data
         try {
             const hashedPassword = await bcrypt.hash(password, 12)
@@ -18,9 +19,12 @@ class authService {
             if (existingUser) {
                 return { user: existingUser, message }
             }
-            const userDoc = await User.create({ email, password: hashedPassword })
-            const user = await User.findById(userDoc._id).lean()
-            return { user, message }
+            const emailVerificationToken = crypto.randomBytes(32).toString("hex")
+            const hashedEmailVerificationToken = crypto.createHash("sha256").update(emailVerificationToken).digest("hex")
+
+            const user = await User.create({ email, password: hashedPassword,emailVerificationToken : hashedEmailVerificationToken,emailVerificationExpiry : new Date(new Date() + 7 * 24 * 60 * 1000)})
+            await EmailService.sendRegistrationVerificationEmail(email,emailVerificationToken)
+            return { user : user.toObject(), message }
         } catch (error) {
             logger.error(`Error in register service: ${error.message}`, error)
             throw error
@@ -66,12 +70,10 @@ class authService {
     static async refreshToken(token) {
         try {
             const tokenDoc = await RefreshTokenModel.find({ token: token })
-            console.log(tokenDoc)
-            console.log(token)
+            if (!tokenDoc || tokenDoc.length === 0) return { message: "invalid", token: "" }
             const userData = jwt.decode(token)
-            console.log(userData)
+            if(!userData || !userData.id) return { message: "invalid", token: "" }
             const user = await User.findById(userData.id).lean()
-            console.log(user)
             if (!user) return { message: "invalid", token: "" }
             const acessToken = jwt.sign({ id: userData.id }, JWT_SECRET, { expiresIn: "1h" })
 
@@ -131,14 +133,29 @@ class authService {
     static async logout(data) {
         try {
             const { refreshToken } = data
-            const deletedToken = await RefreshTokenModel.findByIdAndDelete({ token: refreshToken }).lean()
+            const deletedToken = await RefreshTokenModel.findOneAndDelete({ token: refreshToken }).lean()
+            return deletedToken
         } catch (error) {
             logger.error(`Error in logout service - ${error.message}`, error)
             throw error
         }
     }
 
-
+    static async confirmEmail(token){
+        try {
+            console.log(token)
+            const hashedToken = crypto.createHash("sha256").update(token).digest("hex")
+            const user = await User.findOne({emailVerificationToken : hashedToken})
+            if(!user) return {message : "Invalid or expired token"}
+            user.emailVerified = true
+            // user.emailVerificationToken = ""
+            // user.emailVerificationExpiry = ""
+            await user.save()
+            return {message : "success", user}
+        } catch (error) {
+            logger.error(`Error in confirm email service - ${error.message}`, error)
+        }
+    }
 }
 
 module.exports = authService

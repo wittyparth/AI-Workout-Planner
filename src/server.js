@@ -14,8 +14,8 @@ connectToDatabase = require("./models/connectDatabase")
 // routes
 const authRoutes = require("./routes/auth.routes")
 const exerciseRoutes = require("./routes/exercise.routes")
-const errorHandler = require("./middleware/error.middleware")
-const verifyToken = require("./middleware/auth.middleware")
+const {requestContextMiddleware} = require("./middleware/error.middleware")
+const {verifyToken,verifyEmailWithGrace, verifyEmail} = require("./middleware/auth.middleware")
 const { rateLimiter } = require("./middleware/ratelimit.middleware")
 
 const app = express()
@@ -47,6 +47,8 @@ else {
     app.use(morgan("combined"))
 }
 
+app.use(requestContextMiddleware)
+
 app.use(rateLimiter(15, 1000))
 
 
@@ -64,7 +66,7 @@ app.get("/health", (req, res) => {
     })
 })
 app.use("/api/v1/auth", authRoutes)
-app.use("/api/v1/exercises", verifyToken, exerciseRoutes)
+app.use("/api/v1/exercises", verifyToken,verifyEmailWithGrace, exerciseRoutes)
 
 
 app.use("/:path", (req, res) => {
@@ -75,7 +77,7 @@ app.use("/:path", (req, res) => {
     })
 })
 
-app.use(errorHandler)
+// app.use(errorHandler)
 
 
 

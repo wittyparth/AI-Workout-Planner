@@ -18,7 +18,7 @@ class authController {
                     userAgent: "web",
                     sucess: true
                 }
-                logger.security("login_sucess", details)
+                logger.info("user_registered", details)
                 return ResponseUtil.success(res, data.user, "User registered successfully", 201)
             }
         } catch (error) {
@@ -39,7 +39,7 @@ class authController {
                     userAgent: "web",
                     sucess: true
                 }
-                logger.security("login_sucess", details)
+                logger.info("login_sucess", details)
                 return ResponseUtil.success(res, user, "Succesfully logged in", 203)
             }
             else if (message === "invalid") {
@@ -58,14 +58,6 @@ class authController {
             if (message === "invalid") {
                 ResponseUtil.error(res, "Invalid Refresh token", 401)
             }
-            // const details = {
-            //     timeStamp: new Date().toISOString(),
-            //     event: "login_sucess",
-            //     userId: req.user._id,
-            //     userAgent: "web",
-            //     sucess: true
-            // }
-            // logger.security("login_sucess", details)
             return ResponseUtil.success(res, { acessToken }, "Succesfully fetched token from refresh token")
         } catch (error) {
             logger.error(`Error while trying to create refresh token - ${error}`)
@@ -95,6 +87,31 @@ class authController {
         } catch (error) {
             logger.error(`Error in reset password controller - ${error.message}`, error)
             return ResponseUtil.error(res, "Error in reset password controller", 500)
+        }
+    }
+
+    static async logout(req,res){
+        try {
+            const { refreshToken } = req.body
+            const result = await authService.logout({ refreshToken })
+            if (!result) return ResponseUtil.error(res, "Error while logging out", 500)
+            return ResponseUtil.success(res, result, "Successfully logged out")
+        } catch (error) {
+            logger.error(`Error in logout controller - ${error.message}`, error)
+        }
+    }
+
+    static async confirmRegistration(req,res){
+        try {
+            const { emailVerificationToken } = req.query
+            console.log("In auth controller ",JSON.stringify(req.query))
+            const result = await authService.confirmEmail(emailVerificationToken)
+            if (result.message === "success") {
+                return ResponseUtil.success(res, result.user, "Email confirmed successfully")
+            }
+            return ResponseUtil.error(res, result.message, 400)
+        } catch (error) {
+            logger.error(`Error in confirm registration controller - ${error.message}`, error)
         }
     }
 }

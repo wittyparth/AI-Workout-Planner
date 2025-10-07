@@ -14,7 +14,11 @@ const resetPasswordSchema = zod.object({
 })  
 
 const refreshTokenSchema = zod.object({
-    token : zod.string().min(1,"Token is required")
+    refreshToken : zod.string().min(1,"Token is required")
 })
 
-module.exports = { userSchema, forgotPasswordSchema, resetPasswordSchema,refreshTokenSchema }
+const emailVerificationSchema = zod.object({
+    emailVerificationToken : zod.string().min(1,"Token is required")
+})
+
+module.exports = { userSchema, forgotPasswordSchema, resetPasswordSchema,refreshTokenSchema, emailVerificationSchema }
