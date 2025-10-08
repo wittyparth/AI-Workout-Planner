@@ -1,0 +1,1112 @@
+﻿id,tweetText,tweetURL,type,tweetAuthor,handle,replyCount,quoteCount,retweetCount,likeCount,views,bookmarkCount,createdAt,allMediaURL,videoURL
+1975563614783492398,your not a dev if you don't know these files https://t.co/WD6gG15I3W,https://x.com/freshakafrancis/status/1975563614783492398,tweet,Døzie,@freshakafrancis,0,2,1,5,146,1,2025-10-07 19:37:24,https://pbs.twimg.com/media/G2qcl9hXoAAofTI.png,
+1972930484238999820,@siddharthwv Why you lying,https://x.com/freshakafrancis/status/1972930484238999820,tweet,Døzie,@freshakafrancis,0,0,0,1,23,0,2025-09-30 13:14:17,,
+1972929573110399251,@rabois And you’re proud of yourself,https://x.com/freshakafrancis/status/1972929573110399251,tweet,Døzie,@freshakafrancis,0,0,0,0,147,0,2025-09-30 13:10:40,,
+1972927944818667703,"Moving my projects off vercel
+
+Rauch used to be someone I look up to buh with this I can say that it’s over 
+
+What??????",https://x.com/freshakafrancis/status/1972927944818667703,tweet,Døzie,@freshakafrancis,0,2,0,9,2175,0,2025-09-30 13:04:11,,
+1972741238630789376,"Took sometime to really understand how JavaScript works under the hood
+
+All I can say is kudos to the guys that wrote the v8 engine https://t.co/NE9h5AbH0O",https://x.com/freshakafrancis/status/1972741238630789376,tweet,Døzie,@freshakafrancis,0,2,0,3,571,1,2025-09-30 00:42:17,https://pbs.twimg.com/media/G2CVsM_XoAAPIXU.jpg,
+1970149779825906111,"File streaming in nextjs 
+
+fs.createReadStream → streams file chunks instead of loading whole file into memory.
+
+NextResponse → wraps the stream and sends it back to client. https://t.co/gyb1aOm7hj",https://x.com/freshakafrancis/status/1970149779825906111,tweet,Døzie,@freshakafrancis,1,2,1,9,907,4,2025-09-22 21:04:45,https://pbs.twimg.com/media/G1dgfrqX0AQnKD2.jpg,
+1969853841286807819,what do you think about this vercel vscode theme?? https://t.co/vogF7FWZLl,https://x.com/freshakafrancis/status/1969853841286807819,tweet,Døzie,@freshakafrancis,1,2,0,5,563,0,2025-09-22 01:28:48,https://pbs.twimg.com/media/G1ZTc0VW4AArus9.jpg,
+1969055918512918915,"found this repo specially for vibe coders 
+
+it teaches you how to prompt an ai and get the best results 
+
+link in threads 
+thank me later https://t.co/w7yMAylfxZ",https://x.com/freshakafrancis/status/1969055918512918915,tweet,Døzie,@freshakafrancis,1,2,0,6,488,2,2025-09-19 20:38:08,https://pbs.twimg.com/amplify_video_thumb/1969055532443975681/img/yOlmBGuxOTDB3Fjs.jpg,https://video.twimg.com/amplify_video/1969055532443975681/vid/avc1/1082x720/UASpiNtbOodmIuKV.mp4?tag=14
+1968759131893825606,"@iamdillion Damnnn, congratulations dwag",https://x.com/freshakafrancis/status/1968759131893825606,tweet,Døzie,@freshakafrancis,0,0,0,1,54,0,2025-09-19 00:58:49,,
+1968345403763691627,"the ultimate git roadmap
+
+all you need to know in git
+
+&gt;basics
+&gt;fundamental commands
+&gt;working with branches
+&gt;remote repositories
+&gt;undoing changes
+&gt;advance git concepts
+&gt;collaboration workflows
+&gt;git internals
+&gt;git best practice
+&gt;gui and git hosting 
+
+broke each step in threads",https://x.com/freshakafrancis/status/1968345403763691627,tweet,Døzie,@freshakafrancis,12,2,1,11,3668,6,2025-09-17 21:34:49,,
+1967699108661260370,@_Raji_Mahmud_ bruhh tf???,https://x.com/freshakafrancis/status/1967699108661260370,tweet,Døzie,@freshakafrancis,2,0,0,1,29,0,2025-09-16 02:46:40,,
+1967697393732014213,@gozkybrain4u python,https://x.com/freshakafrancis/status/1967697393732014213,tweet,Døzie,@freshakafrancis,0,0,0,1,22,0,2025-09-16 02:39:51,,
+1967697164873924870,"@rauchg @nextjs alot of people admire nextjs in africa, i pray one day.....",https://x.com/freshakafrancis/status/1967697164873924870,tweet,Døzie,@freshakafrancis,0,0,0,0,165,0,2025-09-16 02:38:56,,
+1967696868873265341,@rauchg @nextjs can you host a nextjs conference in africa we would be glad to see you,https://x.com/freshakafrancis/status/1967696868873265341,tweet,Døzie,@freshakafrancis,0,0,0,0,179,0,2025-09-16 02:37:46,,
+1967646064187748798,"ever streamed ai output &amp; your markdown broke mid-sentence? 
+
+found streamdown in nextjs:
+
+&gt;handles incomplete markdown,
+&gt;supports GFM, math, code, mermaid,
+&gt; drop-in replacement for react-markdown.
+
+streaming + markdown =  smooth. https://t.co/6JiOFfMBSf",https://x.com/freshakafrancis/status/1967646064187748798,tweet,Døzie,@freshakafrancis,1,2,1,18,1327,3,2025-09-15 23:15:53,https://pbs.twimg.com/media/G057piFW0AAAMS8.jpg,
+1967219523486208313,"js tips 💡
+
+best way to swap values in js 
+
+this tip saved my life https://t.co/9haJ9448lO",https://x.com/freshakafrancis/status/1967219523486208313,tweet,Døzie,@freshakafrancis,0,2,1,6,560,1,2025-09-14 19:00:58,https://pbs.twimg.com/media/G0z3fX3WIAA2hQ-.jpg,
+1967128745829167560,Read this books to 10x your backend skills https://t.co/x3xySqW6E9,https://x.com/freshakafrancis/status/1967128745829167560,tweet,Døzie,@freshakafrancis,2,3,1,10,2411,5,2025-09-14 13:00:15,https://pbs.twimg.com/media/G0ylKMYWIAApGYh.jpg,
+1966086282901176680,"use size and fill props  to make images responsive and  adapt to different screen size
+
+fill → makes the image take up the parent container.
+
+sizes → tells the browser how much space the image should take depending on screen size. https://t.co/paRtUOQcVq",https://x.com/freshakafrancis/status/1966086282901176680,tweet,Døzie,@freshakafrancis,1,2,0,10,829,4,2025-09-11 15:57:52,https://pbs.twimg.com/media/G0juuclXQAAsvpU.jpg,
+1966082205081387335,"@pathakkmehul hey man check lets connect, this is incredible",https://x.com/freshakafrancis/status/1966082205081387335,tweet,Døzie,@freshakafrancis,1,0,0,1,45,0,2025-09-11 15:41:40,,
+1965416111689924891,"A solid backend dev who understands systems + AI integration will be unstoppable in the next 5 years. 
+
+i just started building a shell to fully understand systems 
+
+wish me luck 😭 https://t.co/7ktjEt0jQy",https://x.com/freshakafrancis/status/1965416111689924891,tweet,Døzie,@freshakafrancis,1,2,1,10,588,2,2025-09-09 19:34:51,https://pbs.twimg.com/media/G0aPPJIXgAAVpZy.jpg,
+1965065090165854334,"Understanding Big-O complexity is the  best thing that has ever happen to me as a programmer.
+
+It’s very easy to understand
+
+Especially the divide and conquer algorithms https://t.co/Oh8pLFfAxZ",https://x.com/freshakafrancis/status/1965065090165854334,tweet,Døzie,@freshakafrancis,4,2,4,16,1327,6,2025-09-08 20:20:01,https://pbs.twimg.com/media/G0VQRx3XQAAWB_q.jpg,
+1964666077864206424,"I use placeholder=""blur"" to better ux
+
+so, nextjs shows a tiny blurred preview of the image until the full image loads https://t.co/aAkAeggil7",https://x.com/freshakafrancis/status/1964666077864206424,tweet,Døzie,@freshakafrancis,26,7,41,756,61412,481,2025-09-07 17:54:29,https://pbs.twimg.com/media/G0PlQkhX0AAbvTu.jpg,
+1964381833803813117,"Stop giving excuses.
+He went from janitor → developer.
+What’s your excuse? (and you are a dev) https://t.co/zk6uoY21x2",https://x.com/freshakafrancis/status/1964381833803813117,tweet,Døzie,@freshakafrancis,1,2,1,8,1492,0,2025-09-06 23:05:00,https://pbs.twimg.com/media/G0Lh6oJXYAAwFGS.jpg,
+1964308138682687767,"just built a static array in js 
+added some basic array methods 
+
+i use vim btw(it helps me to really understand the language)
+
+what do you think about the theme? https://t.co/ABo3KyD2p9",https://x.com/freshakafrancis/status/1964308138682687767,tweet,Døzie,@freshakafrancis,1,2,1,8,2154,3,2025-09-06 18:12:09,https://pbs.twimg.com/media/G0KfRyjW8AAZf7R.jpg,
+1963987776015147078,"Adding priority tells Next.js to preload the image
+
+great for above-the-fold images like logos or hero banners https://t.co/n8UnvRwyaC",https://x.com/freshakafrancis/status/1963987776015147078,tweet,Døzie,@freshakafrancis,5,3,3,60,4567,25,2025-09-05 20:59:09,https://pbs.twimg.com/media/G0F8LqKWcAAFJi8.jpg,
+1963585980130021709,"Mastering algorithms makes you a better programmer they say:
+
+here are algorithm to 10x your programming skills
+
+&gt;sorting algorithms
+&gt;searching algorithms
+&gt;hashing techniques
+&gt;dynamic Programming
+&gt;graph Algorithms
+&gt;others (check threads for more)",https://x.com/freshakafrancis/status/1963585980130021709,tweet,Døzie,@freshakafrancis,8,2,1,19,2083,10,2025-09-04 18:22:33,,
+1963499217327943996,@_devJNS that's smarter,https://x.com/freshakafrancis/status/1963499217327943996,tweet,Døzie,@freshakafrancis,0,0,0,2,51,0,2025-09-04 12:37:48,,
+1963351599948222654,"found a cool tool
+
+Reactscan: helps you see re-renders in real time
+
+super useful for debugging performance in React apps https://t.co/JvFp4JT5C8",https://x.com/freshakafrancis/status/1963351599948222654,tweet,Døzie,@freshakafrancis,4,3,2,40,3766,34,2025-09-04 02:51:13,https://pbs.twimg.com/media/Gz85vnWXYAAk86i.jpg,
+1962866246782746829,"Tried doing bulk insert in postgres with express today. 
+
+Didn’t want to do the normal looping.
+
+Found the ""COPY"" command with pg-copy-streams → inserts millions of rows super fast https://t.co/RvS0N57nqU",https://x.com/freshakafrancis/status/1962866246782746829,tweet,Døzie,@freshakafrancis,0,1,0,7,750,2,2025-09-02 18:42:36,https://pbs.twimg.com/media/Gz2AXXaWMAAT9wg.jpg,
+1962863928494489820,"@cardtonic chai just 1 mark for me to hit the cut off 
+
+thanks once again cardtonic",https://x.com/freshakafrancis/status/1962863928494489820,tweet,Døzie,@freshakafrancis,1,0,0,0,235,0,2025-09-02 18:33:23,,
+1962787919157953004,"start with monolith 
+
+scale with microservice 
+
+buh google decided to be different and still retained monolith 
+(I wonder how they do it with so much infrastructure)",https://x.com/freshakafrancis/status/1962787919157953004,tweet,Døzie,@freshakafrancis,3,2,0,4,880,0,2025-09-02 13:31:21,,
+1962570287469203645,"Rare git commands you probably haven't heard off
+
+they are very important too https://t.co/REAQHJcozb",https://x.com/freshakafrancis/status/1962570287469203645,tweet,Døzie,@freshakafrancis,0,2,2,21,2962,25,2025-09-01 23:06:33,https://pbs.twimg.com/media/GzxzJEnXIAAthnT.jpg,
+1962272639927374062,@rasmickyy Nextjs and convex is good for mvp,https://x.com/freshakafrancis/status/1962272639927374062,tweet,Døzie,@freshakafrancis,0,0,0,1,43,0,2025-09-01 03:23:49,,
+1962262076224577629,@mrnacknack Bro got some riz,https://x.com/freshakafrancis/status/1962262076224577629,tweet,Døzie,@freshakafrancis,0,0,0,1,94,0,2025-09-01 02:41:50,,
+1962221359305486798,"Most APIs don’t fail because of features.
+They fail because of weak testing
+
+Here are 6 testing techniques to secure your API:
+
+-workflow testing
+-endpoint testing
+-performance testing 
+-security testing 
+-data driven testing
+-contract testing
+
+I’ll break each one down in threads",https://x.com/freshakafrancis/status/1962221359305486798,tweet,Døzie,@freshakafrancis,7,3,1,26,1922,20,2025-09-01 00:00:03,,
+1962031923909345286,@chauhantwts He had a good laptop,https://x.com/freshakafrancis/status/1962031923909345286,tweet,Døzie,@freshakafrancis,0,0,0,0,21,0,2025-08-31 11:27:18,,
+1961995882787676569,"The ultimate rest api design Cheatsheet
+
+&gt;Resource naming  
+&gt;HTTP methods  
+&gt;Status codes  
+&gt;Filtering &amp; pagination  
+&gt;JSON format  
+&gt;Versioning  
+&gt;Error handling  
+&gt;Relationships  
+&gt;HATEOAS
+
+As a backend dev you MUST know them 
+
+more in threads",https://x.com/freshakafrancis/status/1961995882787676569,tweet,Døzie,@freshakafrancis,14,2,8,91,5820,74,2025-08-31 09:04:05,,
+1961427551122825269,@rolex_devv Alhamdulillah brother,https://x.com/freshakafrancis/status/1961427551122825269,tweet,Døzie,@freshakafrancis,0,0,0,1,17,0,2025-08-29 19:25:44,,
+1961147015066185823,"@guy_nale Any Fullstack dev here, let’s connect 
+
+I will fb asap",https://x.com/freshakafrancis/status/1961147015066185823,tweet,Døzie,@freshakafrancis,3,0,0,1,165,0,2025-08-29 00:50:59,,
+1961046389544104206,"The ultimate git cheatsheet 
+
+from beginner  → advanced  →  intermediate https://t.co/gp2G26hq4l",https://x.com/freshakafrancis/status/1961046389544104206,tweet,Døzie,@freshakafrancis,26,22,286,2394,211641,2974,2025-08-28 18:11:08,https://pbs.twimg.com/media/GzcJNf-XwAA_Ild.jpg,
+1960388236737404931,"@_devJNS Sound so easy buh
+Difficult 😞",https://x.com/freshakafrancis/status/1960388236737404931,tweet,Døzie,@freshakafrancis,0,0,0,1,52,0,2025-08-26 22:35:52,,
+1960363193672298973,"@Adityapandeydev Not coding 
+Buh consistency can get you this 💯",https://x.com/freshakafrancis/status/1960363193672298973,tweet,Døzie,@freshakafrancis,0,0,0,0,96,0,2025-08-26 20:56:21,,
+1960362879925817549,@fidexcode Not crime but why???,https://x.com/freshakafrancis/status/1960362879925817549,tweet,Døzie,@freshakafrancis,0,0,0,0,5,0,2025-08-26 20:55:07,,
+1960362734429606080,@honour_can_code Easy exam for you then,https://x.com/freshakafrancis/status/1960362734429606080,tweet,Døzie,@freshakafrancis,0,0,0,0,14,0,2025-08-26 20:54:32,,
+1960362519647703224,@_devJNS Nestjs,https://x.com/freshakafrancis/status/1960362519647703224,tweet,Døzie,@freshakafrancis,0,0,0,0,16,0,2025-08-26 20:53:41,,
+1960341328287391833,"i didn't understand DSA till i found this repo 👇
+
+DSA in javascript....
+
+link threads https://t.co/33jPMpJSGd",https://x.com/freshakafrancis/status/1960341328287391833,tweet,Døzie,@freshakafrancis,1,2,4,31,2469,29,2025-08-26 19:29:28,https://pbs.twimg.com/amplify_video_thumb/1960340764166176768/img/lk2b9sSdD3IGDtS7.jpg,https://video.twimg.com/amplify_video/1960340764166176768/vid/avc1/1308x720/jbQEBXN-FRPK3Doa.mp4?tag=14
+1960276068658487500,"Ranking my top ui libraries:
+
+1. Chakra UI
+2. Material UI 
+3. Ant Design
+4. Radix UI
+5. Shadcn UI
+
+that’s my opinion….",https://x.com/freshakafrancis/status/1960276068658487500,tweet,Døzie,@freshakafrancis,5,2,0,9,767,1,2025-08-26 15:10:09,,
+1960098187777130533,"Master these terms and you’re good with api design
+
+Endpoints
+Resquest/Response 
+Rest
+Http methods
+Json
+Status code
+Webhooks 
+Payload
+Api gateway 
+Authentication/Authorization 
+SDK
+Throttling 
+Rate limiting 
+
+Check threads",https://x.com/freshakafrancis/status/1960098187777130533,tweet,Døzie,@freshakafrancis,13,3,3,42,4212,40,2025-08-26 03:23:19,,
+1960083510238253389,@SheHacksMyBrain @gozkybrain4u Aiit no problem,https://x.com/freshakafrancis/status/1960083510238253389,tweet,Døzie,@freshakafrancis,0,0,0,2,13,0,2025-08-26 02:25:00,,
+1960081622164017445,"@SheHacksMyBrain @gozkybrain4u Thank youuuu, pls request and speak",https://x.com/freshakafrancis/status/1960081622164017445,tweet,Døzie,@freshakafrancis,1,0,0,2,9,0,2025-08-26 02:17:29,,
+1960079780529033353,@gozkybrain4u Check this prompt out https://t.co/9Uloh18gwy,https://x.com/freshakafrancis/status/1960079780529033353,tweet,Døzie,@freshakafrancis,0,0,0,2,76,1,2025-08-26 02:10:10,https://pbs.twimg.com/media/GzOaKSWXsAEJv_a.jpg,
+1960078363923808756,@gozkybrain4u It’s called indie hackers,https://x.com/freshakafrancis/status/1960078363923808756,tweet,Døzie,@freshakafrancis,0,0,0,1,47,0,2025-08-26 02:04:33,,
+1960077740012613677,@gozkybrain4u Hold on and build skills,https://x.com/freshakafrancis/status/1960077740012613677,tweet,Døzie,@freshakafrancis,0,0,0,1,54,0,2025-08-26 02:02:04,,
+1960074245653803389,@DevCollynx @gozkybrain4u Yhh 💯,https://x.com/freshakafrancis/status/1960074245653803389,tweet,Døzie,@freshakafrancis,0,0,0,1,10,0,2025-08-26 01:48:11,,
+1960063173957972440,@gozkybrain4u Fullstack devs let’s connect?,https://x.com/freshakafrancis/status/1960063173957972440,tweet,Døzie,@freshakafrancis,2,0,0,6,210,1,2025-08-26 01:04:11,,
+1960001872804339841,"JavaScript Tip 💡 
+
+Use the new Object.groupBy() method to effortlessly group objects by any property in just one line! https://t.co/JzbRJgZ8jV",https://x.com/freshakafrancis/status/1960001872804339841,tweet,Døzie,@freshakafrancis,0,2,0,14,1199,5,2025-08-25 21:00:36,https://pbs.twimg.com/media/GzNTTtqXsAAn3Fx.jpg,
+1959702388886925533,"If Linus Torvalds applied for a junior coding job today…
+
+He’d get rejected.
+
+He doesn’t have “5 years React experience.”
+
+That’s how broken hiring has become. https://t.co/LavndQsOn6",https://x.com/freshakafrancis/status/1959702388886925533,tweet,Døzie,@freshakafrancis,0,2,0,8,1094,1,2025-08-25 01:10:33,https://pbs.twimg.com/media/GzJC7jcXYAAXBAk.jpg,
+1959533407513264141,@_trish_xD Build resend smtp clone for rust devs,https://x.com/freshakafrancis/status/1959533407513264141,tweet,Døzie,@freshakafrancis,0,0,0,1,65,0,2025-08-24 13:59:05,,
+1959323559173710257,"@cardtonic Any Fullstack dev here? Let’s connect
+
+I will fb",https://x.com/freshakafrancis/status/1959323559173710257,tweet,Døzie,@freshakafrancis,0,0,0,1,283,0,2025-08-24 00:05:13,,
+1959288308355170710,"@Therealivii @cardtonic Percentile means the total amount of people you passed in test
+
+If yours was 74th percentile that means you passed 74% of people who took the test
+
+Understood",https://x.com/freshakafrancis/status/1959288308355170710,tweet,Døzie,@freshakafrancis,0,0,0,1,167,1,2025-08-23 21:45:09,,
+1959287864962822164,"@iHaadiYT @cardtonic Chill till the time for the exam for finish has elapsed 
+
+Check by 5:40",https://x.com/freshakafrancis/status/1959287864962822164,tweet,Døzie,@freshakafrancis,1,0,0,0,242,0,2025-08-23 21:43:23,,
+1959287600977514748,"@olamiotan_29 @cardtonic You probably got flagged, did you cheat?",https://x.com/freshakafrancis/status/1959287600977514748,tweet,Døzie,@freshakafrancis,2,0,0,0,88,0,2025-08-23 21:42:20,,
+1959260551038599665,@alexanderm51531 @hulla_ah @cardtonic I got 6th percentile 😭,https://x.com/freshakafrancis/status/1959260551038599665,tweet,Døzie,@freshakafrancis,0,0,0,1,188,0,2025-08-23 19:54:51,,
+1959255414723215559,@alexanderm51531 @hulla_ah @cardtonic Check ur mail,https://x.com/freshakafrancis/status/1959255414723215559,tweet,Døzie,@freshakafrancis,1,0,0,0,205,0,2025-08-23 19:34:26,,
+1959246403068129651,"@hulla_ah @cardtonic 😂 let’s just hope for the best, let’s connect btw",https://x.com/freshakafrancis/status/1959246403068129651,tweet,Døzie,@freshakafrancis,1,0,0,0,125,0,2025-08-23 18:58:38,,
+1959245058873475364,"@hulla_ah @cardtonic Not really u did well sha,
+My problem solving messed me up
+
+Got 
+
+Git = 82nd 
+Clean code = 71st
+Communication = 69th
+Software engineer = 99th 
+Problem solving = 6th 😭 
+
+Really hope @cardtonic grades us according to our skills",https://x.com/freshakafrancis/status/1959245058873475364,tweet,Døzie,@freshakafrancis,1,0,0,0,245,1,2025-08-23 18:53:17,,
+1959243378333274163,@hulla_ah @cardtonic Hope you check how the score is been calculated right??,https://x.com/freshakafrancis/status/1959243378333274163,tweet,Døzie,@freshakafrancis,1,0,0,0,510,0,2025-08-23 18:46:37,,
+1959231175819493612,"@officialv_west @cardtonic Yhh, how was yours??
+
+That problem solving the time was too small for those calculations",https://x.com/freshakafrancis/status/1959231175819493612,tweet,Døzie,@freshakafrancis,1,0,0,0,82,0,2025-08-23 17:58:07,,
+1959226163244470530,@cardtonic I didn’t do any video,https://x.com/freshakafrancis/status/1959226163244470530,tweet,Døzie,@freshakafrancis,1,0,0,0,171,0,2025-08-23 17:38:12,,
+1959200548009238761,@abigail_ak94688 @FeranmiOlak @cardtonic Use incognito mode,https://x.com/freshakafrancis/status/1959200548009238761,tweet,Døzie,@freshakafrancis,0,0,0,0,66,0,2025-08-23 15:56:25,,
+1959200318014529783,@cardtonic If by mistakenly they take the light and your pc disconnects from the internet hope it’s still okay,https://x.com/freshakafrancis/status/1959200318014529783,tweet,Døzie,@freshakafrancis,1,0,0,0,421,0,2025-08-23 15:55:30,,
+1959185612260434045,"went into how js works under the hood:
+
+-Call stack runs your code line by line
+-Heap stores objects
+-Event loop manages async stuff
+  
+under async stufff:
+
+Microtasks queue → registers Promises 
+Macrotasks queue → registers callbacks 
+
+more in threads(js is wild)",https://x.com/freshakafrancis/status/1959185612260434045,tweet,Døzie,@freshakafrancis,7,2,0,18,3212,6,2025-08-23 14:57:04,,
+1959174080420061585,@EmmyIke352 @cardtonic Goodluck dwag,https://x.com/freshakafrancis/status/1959174080420061585,tweet,Døzie,@freshakafrancis,0,0,0,0,72,0,2025-08-23 14:11:15,,
+1959172856543162798,@cardtonic Abeg who don write and how did it go??,https://x.com/freshakafrancis/status/1959172856543162798,tweet,Døzie,@freshakafrancis,1,0,0,1,229,0,2025-08-23 14:06:23,,
+1958985688671498558,@_devJNS Aii congrats dwag,https://x.com/freshakafrancis/status/1958985688671498558,tweet,Døzie,@freshakafrancis,1,0,0,0,12,0,2025-08-23 01:42:39,,
+1958983084302639151,"New career opportunity unlocked!!!
+
+Vibe code cleanup specialist 😂 https://t.co/SRqnjgYyre",https://x.com/freshakafrancis/status/1958983084302639151,tweet,Døzie,@freshakafrancis,5,2,5,92,8455,18,2025-08-23 01:32:18,https://pbs.twimg.com/media/Gy-0uiwWUAAh4Ml.jpg,
+1958977408201101656,@_H_O_V Na cruise 😂,https://x.com/freshakafrancis/status/1958977408201101656,tweet,Døzie,@freshakafrancis,0,0,0,1,10,0,2025-08-23 01:09:44,,
+1958967177614434753,@_H_O_V Bro looks exactly like his dp 😂,https://x.com/freshakafrancis/status/1958967177614434753,tweet,Døzie,@freshakafrancis,1,0,0,0,25,0,2025-08-23 00:29:05,,
+1958965635548877069,@_devJNS It works actually 😂,https://x.com/freshakafrancis/status/1958965635548877069,tweet,Døzie,@freshakafrancis,0,0,0,0,131,0,2025-08-23 00:22:57,,
+1958965322079248720,@codewithsushi 😂 give it a shot,https://x.com/freshakafrancis/status/1958965322079248720,tweet,Døzie,@freshakafrancis,0,0,0,0,4,0,2025-08-23 00:21:43,,
+1958916669197185226,@Adityapandeydev You mean build and crash,https://x.com/freshakafrancis/status/1958916669197185226,tweet,Døzie,@freshakafrancis,0,0,0,1,49,0,2025-08-22 21:08:23,,
+1958916449105265145,@_devJNS Is this a meme??,https://x.com/freshakafrancis/status/1958916449105265145,tweet,Døzie,@freshakafrancis,1,0,0,0,123,0,2025-08-22 21:07:31,,
+1958915858165633074,@Hritik7742 @upen946 How’s that possible dwag??,https://x.com/freshakafrancis/status/1958915858165633074,tweet,Døzie,@freshakafrancis,1,0,0,1,34,0,2025-08-22 21:05:10,,
+1958915655224500620,@marluvstare Code!!!!,https://x.com/freshakafrancis/status/1958915655224500620,tweet,Døzie,@freshakafrancis,0,0,0,0,14,0,2025-08-22 21:04:21,,
+1958915202315067619,"@codewithsushi Read docs + notepad, what a cool tool for coding 😏",https://x.com/freshakafrancis/status/1958915202315067619,tweet,Døzie,@freshakafrancis,1,0,0,1,75,0,2025-08-22 21:02:33,,
+1958914787485557125,@Star_Knight12 I don’t know your reasons buh those guys lie a lot,https://x.com/freshakafrancis/status/1958914787485557125,tweet,Døzie,@freshakafrancis,0,0,0,0,17,0,2025-08-22 21:00:54,,
+1958913616842776605,@trikcode Am I late 😭,https://x.com/freshakafrancis/status/1958913616842776605,tweet,Døzie,@freshakafrancis,0,0,0,3,12,0,2025-08-22 20:56:15,,
+1958912927022322094,@audrlo So inspiring what an amazing journey,https://x.com/freshakafrancis/status/1958912927022322094,tweet,Døzie,@freshakafrancis,0,0,0,0,44,0,2025-08-22 20:53:31,,
+1958912641885171740,@icanvardar Docker 😭,https://x.com/freshakafrancis/status/1958912641885171740,tweet,Døzie,@freshakafrancis,0,0,0,0,15,0,2025-08-22 20:52:23,,
+1958912029957267599,@covede_signs @Kenechukwu505 @cardtonic Yh,https://x.com/freshakafrancis/status/1958912029957267599,tweet,Døzie,@freshakafrancis,0,0,0,0,22,0,2025-08-22 20:49:57,,
+1958895853621358883,"Been doing backend for 4 years now
+
+ (Express → NestJS) has been my stack  for backend 
+
+I wanna transition into using a language for backend, I am thinking of either Go or Rust
+
+Which one would you pick?",https://x.com/freshakafrancis/status/1958895853621358883,tweet,Døzie,@freshakafrancis,20,2,1,43,7508,10,2025-08-22 19:45:40,,
+1958813566607171836,"How to harden your api to avoid attacks
+(specifically for vibe coders)
+
+-use env
+-validate inputs(zod or joi)
+-rate limit your endpoints 
+-always use https
+-use helmet to secure http headers
+-always sanitize data
+-use strong authentication and authorization( jwt)
+
+Check threads",https://x.com/freshakafrancis/status/1958813566607171836,tweet,Døzie,@freshakafrancis,7,2,5,37,3301,20,2025-08-22 14:18:41,,
+1958779222983324050,"@SSWEB5 Any Fullstack here, let’s connect",https://x.com/freshakafrancis/status/1958779222983324050,tweet,Døzie,@freshakafrancis,1,0,0,7,96,0,2025-08-22 12:02:13,,
+1958476314907648496,"common mistakes nextjs devs should avoid:
+
+-misusing the key prop
+-overusing state 
+-not utilizing useEffect properly
+-prop drilling 
+-ignoring composition
+-not leveraging server components / data fetching 
+
+check threads",https://x.com/freshakafrancis/status/1958476314907648496,tweet,Døzie,@freshakafrancis,7,3,4,36,3977,13,2025-08-21 15:58:34,,
+1958274341293985826,@I_am_SamY01 I am definitely going to try it out and give my feedback,https://x.com/freshakafrancis/status/1958274341293985826,tweet,Døzie,@freshakafrancis,1,0,0,1,31,0,2025-08-21 02:36:00,,
+1958274122946892167,@AjuwonOS 100% 😆,https://x.com/freshakafrancis/status/1958274122946892167,tweet,Døzie,@freshakafrancis,0,0,0,1,18,0,2025-08-21 02:35:08,,
+1958129987740905883,@clipra_app Sure,https://x.com/freshakafrancis/status/1958129987740905883,tweet,Døzie,@freshakafrancis,2,0,0,0,18,0,2025-08-20 17:02:24,,
+1958101806556332141,@denicmarko Just give the llm this prompt and thank me later https://t.co/OcMmdn5kLd,https://x.com/freshakafrancis/status/1958101806556332141,tweet,Døzie,@freshakafrancis,0,0,0,2,81,1,2025-08-20 15:10:25,https://pbs.twimg.com/media/GyyTNh3WAAAGAXB.jpg,
+1958080146360991914,"Master these commands and you’re good with git
+
+git init
+git clone
+git status
+git add
+git commit
+git push
+git pull
+git branch
+git checkout 
+git merge
+git diff
+git log
+
+check threads",https://x.com/freshakafrancis/status/1958080146360991914,tweet,Døzie,@freshakafrancis,68,18,135,1257,64945,979,2025-08-20 13:44:20,,
+1957564511935959406,"@yacineMTB Developers in the space, let’s connect",https://x.com/freshakafrancis/status/1957564511935959406,tweet,Døzie,@freshakafrancis,0,0,0,1,67,0,2025-08-19 03:35:24,,
+1957561690653913207,@npminstallme @gozkybrain4u Done,https://x.com/freshakafrancis/status/1957561690653913207,tweet,Døzie,@freshakafrancis,0,0,0,2,12,0,2025-08-19 03:24:11,,
+1957549009028993404,@MiracleAgitan_ Any Fullstack here let’s connect,https://x.com/freshakafrancis/status/1957549009028993404,tweet,Døzie,@freshakafrancis,0,0,0,0,13,0,2025-08-19 02:33:47,,
+1957534660650758242,@gozkybrain4u Shoutout to the listeners,https://x.com/freshakafrancis/status/1957534660650758242,tweet,Døzie,@freshakafrancis,1,0,0,4,126,0,2025-08-19 01:36:46,,
+1957534114745094595,"@TuoyoS26091 Did you just start using docker ??
+
+Docker that I know isn’t worth the hype",https://x.com/freshakafrancis/status/1957534114745094595,tweet,Døzie,@freshakafrancis,3,0,0,2,107,0,2025-08-19 01:34:36,,
+1957533493413503291,"@v0 I would fix the fact that v0 love purple color,
+Without specifying the color v0 always goes with purple and gradient",https://x.com/freshakafrancis/status/1957533493413503291,tweet,Døzie,@freshakafrancis,0,0,0,0,42,0,2025-08-19 01:32:08,,
+1957532670587461999,@immasiddx Frr 😂,https://x.com/freshakafrancis/status/1957532670587461999,tweet,Døzie,@freshakafrancis,0,0,0,0,16,0,2025-08-19 01:28:52,,
+1957532440446267539,@gozkybrain4u @gozkybrain4u do you mind connecting 🤔,https://x.com/freshakafrancis/status/1957532440446267539,tweet,Døzie,@freshakafrancis,0,0,0,1,108,0,2025-08-19 01:27:57,,
+1957531168355516480,@Momentum1962 @gozkybrain4u I have,https://x.com/freshakafrancis/status/1957531168355516480,tweet,Døzie,@freshakafrancis,0,0,0,1,26,0,2025-08-19 01:22:54,,
+1957530911807009053,@dan_22099 @gozkybrain4u Done,https://x.com/freshakafrancis/status/1957530911807009053,tweet,Døzie,@freshakafrancis,0,0,0,1,28,0,2025-08-19 01:21:53,,
+1957529795610419709,@Duyilemi_Code @gozkybrain4u Done,https://x.com/freshakafrancis/status/1957529795610419709,tweet,Døzie,@freshakafrancis,0,0,0,2,24,0,2025-08-19 01:17:27,,
+1957529421033922763,"@gozkybrain4u Any Fullstack here, let’s connect",https://x.com/freshakafrancis/status/1957529421033922763,tweet,Døzie,@freshakafrancis,9,0,0,12,376,0,2025-08-19 01:15:57,,
+1957528962776854902,@josh_d_dev @CodeAdeoluwa Done,https://x.com/freshakafrancis/status/1957528962776854902,tweet,Døzie,@freshakafrancis,0,0,0,1,10,0,2025-08-19 01:14:08,,
+1957517537534710192,"your nextjs api deserves better than just 200 OK
+
+utilize other http statues code to make your api maintainable and developer friendly 
+
+here are other http statues code you probably havent heard off https://t.co/EbAx4BS8PY",https://x.com/freshakafrancis/status/1957517537534710192,tweet,Døzie,@freshakafrancis,1,2,7,80,4924,62,2025-08-19 00:28:44,https://pbs.twimg.com/media/Gyp_J9cW0AAg5bT.jpg,
+1957143801631576265,@brownyacad @cardtonic Done,https://x.com/freshakafrancis/status/1957143801631576265,tweet,Døzie,@freshakafrancis,1,0,0,1,53,0,2025-08-17 23:43:38,,
+1957029524761153955,"90% of the nextjs api methods you touch use either GET or POST.
+
+but here are other http methods you probably haven’t heard of https://t.co/v8AsV4IUp6",https://x.com/freshakafrancis/status/1957029524761153955,tweet,Døzie,@freshakafrancis,2,4,7,53,5425,55,2025-08-17 16:09:33,https://pbs.twimg.com/media/GyjD69oXIAAnIhL.jpg,
+1957004608699560162,@rasmickyy Ai makes me kinda work smart.,https://x.com/freshakafrancis/status/1957004608699560162,tweet,Døzie,@freshakafrancis,0,0,0,0,36,0,2025-08-17 14:30:32,,
+1957004118754578497,@kingdomklelv @_devJNS Not an os buh a Distro to Linux,https://x.com/freshakafrancis/status/1957004118754578497,tweet,Døzie,@freshakafrancis,0,0,0,2,10,0,2025-08-17 14:28:35,,
+1957003945169047762,"@_devJNS I hate macos because of the icon 😆 (I know that sounds weird)
+
+Windows is for people who’s new to pc 
+
+Linux all the way ❤️",https://x.com/freshakafrancis/status/1957003945169047762,tweet,Døzie,@freshakafrancis,1,0,0,2,175,0,2025-08-17 14:27:54,,
+1956755258794734045,"@THESOURCEC0D3 CRUD
+Authentication
+Ai related projects
+
+Tell gpt to generate projects that would help you understand  concepts
+
+Do up to 5-6 projects and those concepts would sink",https://x.com/freshakafrancis/status/1956755258794734045,tweet,Døzie,@freshakafrancis,1,0,0,1,19,0,2025-08-16 21:59:43,,
+1956754120863289612,"@_devJNS Never posting my works on Reddits, those guys are rude 😭",https://x.com/freshakafrancis/status/1956754120863289612,tweet,Døzie,@freshakafrancis,1,0,0,2,95,0,2025-08-16 21:55:11,,
+1956752792049099038,@THESOURCEC0D3 nahh just build and learn as you build,https://x.com/freshakafrancis/status/1956752792049099038,tweet,Døzie,@freshakafrancis,1,0,0,1,16,0,2025-08-16 21:49:54,,
+1956752142229819838,"@jcubic Not a fan of pasta 
+This happens to me when I make noddles",https://x.com/freshakafrancis/status/1956752142229819838,tweet,Døzie,@freshakafrancis,0,0,0,1,13,0,2025-08-16 21:47:20,,
+1956751225732337683,@_devJNS And he’s probably still googling about it,https://x.com/freshakafrancis/status/1956751225732337683,tweet,Døzie,@freshakafrancis,0,0,0,0,31,0,2025-08-16 21:43:41,,
+1956748626476098046,"Who tf still uses page router when app router is the goat in nextjs
+
+found out my guy still on the page router,
+
+bro hates clean architecture",https://x.com/freshakafrancis/status/1956748626476098046,tweet,Døzie,@freshakafrancis,1,2,0,10,1395,1,2025-08-16 21:33:21,,
+1956677549095784917,@jirelfc @cardtonic Are you sure?? Gorilla test is fucking tuff do your research about them,https://x.com/freshakafrancis/status/1956677549095784917,tweet,Døzie,@freshakafrancis,1,0,0,0,82,0,2025-08-16 16:50:55,,
+1956663517387297013,@jirelfc @cardtonic Sorry 😢,https://x.com/freshakafrancis/status/1956663517387297013,tweet,Døzie,@freshakafrancis,1,0,0,1,213,0,2025-08-16 15:55:10,,
+1956456743028089330,@gabrielmfern 💯 One of the hardest quote out there,https://x.com/freshakafrancis/status/1956456743028089330,tweet,Døzie,@freshakafrancis,0,0,0,0,26,0,2025-08-16 02:13:31,,
+1956410927214911868,"found shadcn alternative
+
+chakra ui(is it way better than shadcn?? idk}
+
+plan on implementing it in my next project(would give my feedback after the project)
+
+link in threads https://t.co/T3anIwH7NK",https://x.com/freshakafrancis/status/1956410927214911868,tweet,Døzie,@freshakafrancis,8,2,0,15,2522,5,2025-08-15 23:11:28,https://pbs.twimg.com/amplify_video_thumb/1956410033576574976/img/LOe8gu7k5LI-7p-2.jpg,https://video.twimg.com/amplify_video/1956410033576574976/vid/avc1/1216x720/d0TpFiT9wBPWvPnI.mp4?tag=14
+1956407204531028293,@Abhinavstwt Yh,https://x.com/freshakafrancis/status/1956407204531028293,tweet,Døzie,@freshakafrancis,0,0,0,0,12,0,2025-08-15 22:56:40,,
+1956328918899728432,"we all started here 
+
+who didn’t?
+
+time really flies https://t.co/IBT9JH2GSE",https://x.com/freshakafrancis/status/1956328918899728432,tweet,Døzie,@freshakafrancis,1,3,0,19,1821,2,2025-08-15 17:45:35,https://pbs.twimg.com/media/GyZGUt8XQAIahd1.jpg,
+1956257257294815739,"@icanvardar Are you good??? 
+Why??",https://x.com/freshakafrancis/status/1956257257294815739,tweet,Døzie,@freshakafrancis,0,0,0,0,11,0,2025-08-15 13:00:50,,
+1956097634189340862,@rasmickyy Probably from cursor’s end,https://x.com/freshakafrancis/status/1956097634189340862,tweet,Døzie,@freshakafrancis,0,0,0,0,93,0,2025-08-15 02:26:33,,
+1956072740768694658,"@BenjDicken C is faster than rust right??
+
+Am I the only one seeing it",https://x.com/freshakafrancis/status/1956072740768694658,tweet,Døzie,@freshakafrancis,0,0,0,0,95,0,2025-08-15 00:47:38,,
+1956070817910907367,@serialdotai Random commits 😒,https://x.com/freshakafrancis/status/1956070817910907367,tweet,Døzie,@freshakafrancis,0,0,0,1,8,0,2025-08-15 00:39:59,,
+1956070581083812102,@AkshayNarisetti You don’t have to lie bruhhh,https://x.com/freshakafrancis/status/1956070581083812102,tweet,Døzie,@freshakafrancis,0,0,0,0,22,0,2025-08-15 00:39:03,,
+1956070088882446654,@chithephilomath Let’s connect guys,https://x.com/freshakafrancis/status/1956070088882446654,tweet,Døzie,@freshakafrancis,0,0,0,1,17,0,2025-08-15 00:37:05,,
+1956034383850152267,"ditch useEffect() hook
+
+just found a simpler way to fetch and cache data effortlessly in nextjs
+
+useQuery() from react-query https://t.co/IVgL0h5aPS",https://x.com/freshakafrancis/status/1956034383850152267,tweet,Døzie,@freshakafrancis,7,2,1,30,4140,16,2025-08-14 22:15:13,https://pbs.twimg.com/media/GyU5qkXWEAI_rgS.jpg,
+1955907997252681919,"My stack
+
+&gt; Nextjs - frontend and lightweight backend
+&gt; Redux - state management 
+&gt; Nestjs - heavy backend
+&gt; Jwt/betterauth/oauth - authentication 
+&gt; Mongodb/Postgres - databases
+&gt; Bun - pacakage management 
+&gt; vercel - deployment
+&gt;  lemonsqueezy - payment system
+
+How about you ?",https://x.com/freshakafrancis/status/1955907997252681919,tweet,Døzie,@freshakafrancis,9,3,3,48,4801,35,2025-08-14 13:53:00,,
+1955903378493759557,@Star_Knight12 Have you tried typescript?,https://x.com/freshakafrancis/status/1955903378493759557,tweet,Døzie,@freshakafrancis,0,0,0,0,8,0,2025-08-14 13:34:39,,
+1955903189573886222,@surajtwt_ 😂,https://x.com/freshakafrancis/status/1955903189573886222,tweet,Døzie,@freshakafrancis,0,0,0,0,28,0,2025-08-14 13:33:53,,
+1955902799880843776,@surajtwt_ Most js devs love Audi,https://x.com/freshakafrancis/status/1955902799880843776,tweet,Døzie,@freshakafrancis,1,0,0,1,473,0,2025-08-14 13:32:21,,
+1955727561805242484,"tried soap api in nextjs 
+
+still feels like time travel https://t.co/WH6lBUEpRj",https://x.com/freshakafrancis/status/1955727561805242484,tweet,Døzie,@freshakafrancis,0,2,0,10,1329,3,2025-08-14 01:56:01,https://pbs.twimg.com/media/GyQjzWrXcAAFyFj.jpg,
+1955722804021678303,@marluvstare @cardtonic Aswr 😂,https://x.com/freshakafrancis/status/1955722804021678303,tweet,Døzie,@freshakafrancis,1,0,0,2,88,0,2025-08-14 01:37:06,,
+1955720284498997512,@perpetualuchec5 @GifTeaze @cardtonic Let’s connect,https://x.com/freshakafrancis/status/1955720284498997512,tweet,Døzie,@freshakafrancis,1,0,0,1,9,0,2025-08-14 01:27:06,,
+1955720196829663311,@MP8_Delta @GifTeaze @cardtonic Done,https://x.com/freshakafrancis/status/1955720196829663311,tweet,Døzie,@freshakafrancis,1,0,0,1,15,0,2025-08-14 01:26:45,,
+1955720026092089354,@cardtonic Guys let’s connect incase you write first cuz I don’t think everyone would write at the same time,https://x.com/freshakafrancis/status/1955720026092089354,tweet,Døzie,@freshakafrancis,7,0,0,13,3115,0,2025-08-14 01:26:04,,
+1955718532806656092,@cardtonic You can’t cheat with testGorilla ohh,https://x.com/freshakafrancis/status/1955718532806656092,tweet,Døzie,@freshakafrancis,0,0,0,0,188,0,2025-08-14 01:20:08,,
+1955718298936455187,@cardtonic Fullstack devs let’s connect,https://x.com/freshakafrancis/status/1955718298936455187,tweet,Døzie,@freshakafrancis,0,0,0,0,153,0,2025-08-14 01:19:12,,
+1955718130711335303,@coder0214h @GifTeaze @cardtonic Done,https://x.com/freshakafrancis/status/1955718130711335303,tweet,Døzie,@freshakafrancis,0,0,0,1,10,0,2025-08-14 01:18:32,,
+1955718062826553597,@thatkid_mikey @GifTeaze @cardtonic Done,https://x.com/freshakafrancis/status/1955718062826553597,tweet,Døzie,@freshakafrancis,0,0,0,1,5,0,2025-08-14 01:18:16,,
+1955718003900694987,@Sipe_OG1 @GifTeaze @cardtonic Followed,https://x.com/freshakafrancis/status/1955718003900694987,tweet,Døzie,@freshakafrancis,0,0,0,0,8,0,2025-08-14 01:18:02,,
+1955717920547332377,@nnadijosephnj @GifTeaze @cardtonic Follow back,https://x.com/freshakafrancis/status/1955717920547332377,tweet,Døzie,@freshakafrancis,0,0,0,1,9,0,2025-08-14 01:17:42,,
+1955717851840454788,@codewithjaya @GifTeaze @cardtonic Done,https://x.com/freshakafrancis/status/1955717851840454788,tweet,Døzie,@freshakafrancis,0,0,0,0,5,0,2025-08-14 01:17:26,,
+1955717789391491571,@teegeeofafrica @GifTeaze @cardtonic Followed,https://x.com/freshakafrancis/status/1955717789391491571,tweet,Døzie,@freshakafrancis,0,0,0,1,7,0,2025-08-14 01:17:11,,
+1955717524420546729,@kaybee77770 @GifTeaze @cardtonic Followed,https://x.com/freshakafrancis/status/1955717524420546729,tweet,Døzie,@freshakafrancis,0,0,0,0,6,0,2025-08-14 01:16:07,,
+1955717424289890579,@ifeeee___ @GifTeaze @cardtonic Followed,https://x.com/freshakafrancis/status/1955717424289890579,tweet,Døzie,@freshakafrancis,1,0,0,2,17,0,2025-08-14 01:15:44,,
+1955717372490174888,@GifTeaze @cardtonic Done,https://x.com/freshakafrancis/status/1955717372490174888,tweet,Døzie,@freshakafrancis,0,0,0,0,43,0,2025-08-14 01:15:31,,
+1955592310948851818,"found a cool tool next-sitemap
+
+it helps you generate sitemap &amp; robot.txt for your nextjs project before deployment 
+
+link in threads https://t.co/g0sRGLeBjA",https://x.com/freshakafrancis/status/1955592310948851818,tweet,Døzie,@freshakafrancis,3,2,6,44,3677,33,2025-08-13 16:58:34,https://pbs.twimg.com/media/GyOou3LWMAAcoeN.jpg,
+1955347499008352763,"Brendan Eich.
+
+Without him, there’s no JavaScript.
+
+Without JavaScript, there’s no:
+•Next.js
+•React
+•Express
+•TypeScript
+•NestJS etc
+
+Respect where it’s due 🫡
+He’s a legend https://t.co/EAos4VMMd5",https://x.com/freshakafrancis/status/1955347499008352763,tweet,Døzie,@freshakafrancis,0,2,0,11,1166,1,2025-08-13 00:45:47,https://pbs.twimg.com/media/GyLKLrAXYAATrox.jpg,
+1955346393532432543,@rauchg Thanks rauch,https://x.com/freshakafrancis/status/1955346393532432543,tweet,Døzie,@freshakafrancis,0,0,0,0,62,0,2025-08-13 00:41:23,,
+1955233476107489581,"5 hidden vs code extensions for nextjs 
+
+1. import cost – see package size in editor
+2. error lens – highlight errors inline
+3. nextjs snippets – quick page &amp; api shortcuts
+4. css modules – autocomplete for module.css
+5. thunder client – test API routes",https://x.com/freshakafrancis/status/1955233476107489581,tweet,Døzie,@freshakafrancis,0,2,0,7,704,2,2025-08-12 17:12:41,,
+1954962981550264451,"Besides Zod, other great validation libraries for nextjs include: 
+
+ 1. Yup
+ 2. Vest
+ 3. Superstruct
+ 4. Joi
+ 5. Valibot
+
+which one do you use?   
+
+if you don’t know any, check  threads👇",https://x.com/freshakafrancis/status/1954962981550264451,tweet,Døzie,@freshakafrancis,9,2,0,10,2075,1,2025-08-11 23:17:50,,
+1954876929401913804,"found a cool nextjs library you probably haven't heard of,  Zod
+
+a validation library that you can use to validate form entries on the server side.
+
+honestly, Zod is the best library for form validation(its type-safe). https://t.co/IW4cEb6jHc",https://x.com/freshakafrancis/status/1954876929401913804,tweet,Døzie,@freshakafrancis,21,4,0,47,8525,24,2025-08-11 17:35:54,https://pbs.twimg.com/media/GyEdWhKW4AA2gQx.jpg,
+1954540030640206071,"90% of nextjs apis you touch are ""application/json"".
+
+but here are other common content-type headers
+you probably haven't heard of https://t.co/Ygwj0ZgLhz",https://x.com/freshakafrancis/status/1954540030640206071,tweet,Døzie,@freshakafrancis,14,2,15,170,16773,169,2025-08-10 19:17:11,https://pbs.twimg.com/media/Gx_rnw1XcAAHxVs.jpg,
+1954497307824595435,@eluewisdom_ I actually meant how to add type safety to your hooks,https://x.com/freshakafrancis/status/1954497307824595435,tweet,Døzie,@freshakafrancis,0,0,0,0,24,0,2025-08-10 16:27:25,,
+1954493091559231934,@_devJNS Nest,https://x.com/freshakafrancis/status/1954493091559231934,tweet,Døzie,@freshakafrancis,0,0,0,0,34,0,2025-08-10 16:10:40,,
+1954492989117460859,@shreybirmiwal Sigh.,https://x.com/freshakafrancis/status/1954492989117460859,tweet,Døzie,@freshakafrancis,0,0,0,0,53,0,2025-08-10 16:10:15,,
+1954441585816473812,"Battles of build tools
+
+Which one runs your projects?",https://x.com/freshakafrancis/status/1954441585816473812,tweet,Døzie,@freshakafrancis,1,2,1,6,1673,0,2025-08-10 12:46:00,,
+1954439422490837060,"@rasmickyy @LisingJethro Bro with the aura, congratulations man",https://x.com/freshakafrancis/status/1954439422490837060,tweet,Døzie,@freshakafrancis,0,0,0,0,24,0,2025-08-10 12:37:24,,
+1954282990483415141,@rauchg Also mine 😂,https://x.com/freshakafrancis/status/1954282990483415141,tweet,Døzie,@freshakafrancis,0,0,0,0,111,0,2025-08-10 02:15:48,,
+1954249538912366777,@rasmickyy 💯 @rasmickyy,https://x.com/freshakafrancis/status/1954249538912366777,tweet,Døzie,@freshakafrancis,0,0,0,0,89,0,2025-08-10 00:02:52,,
+1954183562871046615,"Don’t learn nextjs if you don’t know this typescript concepts
+
+1. Hooks
+2. Types &amp; interface 
+3. Generics
+4. Utility Types
+5. Type narrowing &amp; guards
+6. Union &amp; intersection types
+7.  Module declaration 
+8. never, unknown, any
+
+More in threads 👇",https://x.com/freshakafrancis/status/1954183562871046615,tweet,Døzie,@freshakafrancis,12,6,4,46,11779,39,2025-08-09 19:40:43,,
+1954058135049585033,"you need to know these concepts before learning streaming in nextjs
+
+streaming = sending parts of a page to the browser as soon as they’re ready, instead of waiting for the whole page.
+
+check threads :)",https://x.com/freshakafrancis/status/1954058135049585033,tweet,Døzie,@freshakafrancis,3,2,0,6,1391,1,2025-08-09 11:22:18,,
+1953924688834662558,"found a cool tool fuse.js
+
+a tiny js library for super fast fuzzy search. no backend required, works right in the browser.
+
+wanna add it to your nextjs project?
+check threads https://t.co/n6hwBdVg08",https://x.com/freshakafrancis/status/1953924688834662558,tweet,Døzie,@freshakafrancis,1,2,1,21,2732,27,2025-08-09 02:32:02,https://pbs.twimg.com/amplify_video_thumb/1953923051097145344/img/g29xgiXkZ9-UB4Fe.jpg,https://video.twimg.com/amplify_video/1953923051097145344/vid/avc1/1216x720/61BljF3rg4Ust2At.mp4?tag=14
+1953851922248618302,"@jcubic Alright well understood, thanks once gain jakub",https://x.com/freshakafrancis/status/1953851922248618302,tweet,Døzie,@freshakafrancis,0,0,0,0,12,0,2025-08-08 21:42:53,,
+1953841348840136996,@jcubic They patner with them even before they release the model??,https://x.com/freshakafrancis/status/1953841348840136996,tweet,Døzie,@freshakafrancis,1,0,0,0,18,0,2025-08-08 21:00:52,,
+1953751866799480875,"I bet you didn’t know this nextjs / vercel hosting alternatives
+
+1. Pxxl app
+2.Sevalla 
+3. Cyclic 
+4. Flexstack 
+5. Flyio 
+6. Coolify 
+7.  Surge 
+8. Gitlab pages 
+9.  Deno Deploy 
+10. Flight Control
+
+Links in threads 👇",https://x.com/freshakafrancis/status/1953751866799480875,tweet,Døzie,@freshakafrancis,7,3,3,38,3532,18,2025-08-08 15:05:18,,
+1953714754758881508,@WhakeeSui Yh,https://x.com/freshakafrancis/status/1953714754758881508,tweet,Døzie,@freshakafrancis,0,0,0,0,15,0,2025-08-08 12:37:50,,
+1953674003505459671,@elonmusk Why you suddenly interested in grok ever since gpt5 launched,https://x.com/freshakafrancis/status/1953674003505459671,tweet,Døzie,@freshakafrancis,0,0,0,1,55,0,2025-08-08 09:55:54,,
+1953558653891703242,"How did lovable and v0 get access to gpt5 so fast 
+
+Something ain’t right",https://x.com/freshakafrancis/status/1953558653891703242,tweet,Døzie,@freshakafrancis,1,2,0,3,440,0,2025-08-08 02:17:33,,
+1953558147026808930,@systemdesignone Also v0 is open sourcing a vibe coder with Gpt5,https://x.com/freshakafrancis/status/1953558147026808930,tweet,Døzie,@freshakafrancis,1,0,0,0,99,0,2025-08-08 02:15:32,,
+1953557566060917086,"@rauchg @v0 @aisdk First open source vibe coder, can’t wait",https://x.com/freshakafrancis/status/1953557566060917086,tweet,Døzie,@freshakafrancis,0,0,0,0,158,0,2025-08-08 02:13:13,,
+1953521156130050502,"Wanna become good in nextjs??
+
+Build projects!! as if your career depends on it
+
+I have listed couple of them in my page and more are on the way!",https://x.com/freshakafrancis/status/1953521156130050502,tweet,Døzie,@freshakafrancis,2,2,0,13,1560,1,2025-08-07 23:48:32,,
+1953516911938994379,"@WhakeeSui Tiktok: 180k
+Instagram: 38k
+Threads: almost 10k
+Telegram: almost 10k
+YouTube: 2.5k
+Linkedln: 4k
+WhatsApp: 1.6k
+
+Trying achieve it on X 😭",https://x.com/freshakafrancis/status/1953516911938994379,tweet,Døzie,@freshakafrancis,1,0,0,1,55,0,2025-08-07 23:31:41,,
+1953497069227835493,@marluvstare Aiit my boss 😂,https://x.com/freshakafrancis/status/1953497069227835493,tweet,Døzie,@freshakafrancis,1,0,0,1,25,0,2025-08-07 22:12:50,,
+1953487085056283075,@trikcode Where’s curso??,https://x.com/freshakafrancis/status/1953487085056283075,tweet,Døzie,@freshakafrancis,0,0,0,0,9,0,2025-08-07 21:33:09,,
+1953408459342254511,"Don't learn nextjs if you don't know these react concepts 
+
+1. Components
+2. State &amp; Props
+3. useEffect / useState
+4. Lists &amp; Keys
+5. Event Handling
+6. Forms
+7. Conditional Rendering
+8. Lifting State
+9. React Router
+10. State management(context,redux,.. pick one)
+
+more in threads",https://x.com/freshakafrancis/status/1953408459342254511,tweet,Døzie,@freshakafrancis,15,3,5,47,4836,24,2025-08-07 16:20:43,,
+1953372725633831018,@_devJNS JS Loki,https://x.com/freshakafrancis/status/1953372725633831018,tweet,Døzie,@freshakafrancis,0,0,0,1,117,0,2025-08-07 13:58:44,,
+1953372642313933189,"@NikhilWakode003 No
+
+Sir",https://x.com/freshakafrancis/status/1953372642313933189,tweet,Døzie,@freshakafrancis,0,0,0,1,7,0,2025-08-07 13:58:24,,
+1953223350622535794,"@rauchg @v0 Can we  get the source code to your portfolio, I love how minimal it is",https://x.com/freshakafrancis/status/1953223350622535794,tweet,Døzie,@freshakafrancis,0,0,0,0,38,0,2025-08-07 04:05:10,,
+1953147342846144547,"There’s this open source project I really wanted to contribute to, turns out they are using jquery which I have no prior experience with
+
+Should I leave it or learn jquery? 
+
+Pls advice me",https://x.com/freshakafrancis/status/1953147342846144547,tweet,Døzie,@freshakafrancis,1,1,0,5,359,0,2025-08-06 23:03:08,,
+1953118038057721903,"accessible autocomplete dropdown in js 
+
+src in threads https://t.co/tmpQKK0e9W",https://x.com/freshakafrancis/status/1953118038057721903,tweet,Døzie,@freshakafrancis,2,2,0,4,784,1,2025-08-06 21:06:42,https://pbs.twimg.com/amplify_video_thumb/1953117512146513920/img/aPTJ-tMeSuvSBjLn.jpg,https://video.twimg.com/amplify_video/1953117512146513920/vid/avc1/1216x720/fVZaAdKdf1JAHST4.mp4?tag=14
+1953011186074550469,"If your Next.js folder isn’t structured like this, you’re not a pro 👇 https://t.co/xprdLguX8W",https://x.com/freshakafrancis/status/1953011186074550469,tweet,Døzie,@freshakafrancis,15,4,3,100,7961,110,2025-08-06 14:02:06,https://pbs.twimg.com/media/Gxp82SEWUAAvmqN.jpg,
+1952761191002001756,@alexcooldev Linux,https://x.com/freshakafrancis/status/1952761191002001756,tweet,Døzie,@freshakafrancis,0,0,0,0,9,0,2025-08-05 21:28:43,,
+1952723559765193127,"Thought I'd refresh your memory with some core javascript basics
+
+  here are all the array methods https://t.co/Cau4kgrAeK",https://x.com/freshakafrancis/status/1952723559765193127,tweet,Døzie,@freshakafrancis,0,2,0,9,840,4,2025-08-05 18:59:11,https://pbs.twimg.com/media/Gxl3k_JXsAAHjmd.jpg,
+1952663361944002654,"Top js concepts to know before learning next/react
+
+1. callback functions 
+2. map()
+3. promises
+4. filter &amp; find 
+5. destructuring arrays &amp; objects
+6. fetch api &amp; errors 
+7.  async/await
+8. rest &amp; spread operators
+9.  reduce()
+
+explanation in threads",https://x.com/freshakafrancis/status/1952663361944002654,tweet,Døzie,@freshakafrancis,14,3,1,20,1960,11,2025-08-05 14:59:58,,
+1952473089113284900,@Manthan3_tw This is fire bro,https://x.com/freshakafrancis/status/1952473089113284900,tweet,Døzie,@freshakafrancis,0,0,0,2,27,0,2025-08-05 02:23:54,,
+1952472898415026270,@robert_shaw_x https://t.co/eS3DNaJPQ6,https://x.com/freshakafrancis/status/1952472898415026270,tweet,Døzie,@freshakafrancis,0,0,0,0,10,0,2025-08-05 02:23:08,,
+1952472788377460854,@atullchaurasia I love array related questions,https://x.com/freshakafrancis/status/1952472788377460854,tweet,Døzie,@freshakafrancis,0,0,0,0,45,0,2025-08-05 02:22:42,,
+1952472030814609774,@akramcodez Also Ai and system design,https://x.com/freshakafrancis/status/1952472030814609774,tweet,Døzie,@freshakafrancis,0,0,0,1,36,0,2025-08-05 02:19:41,,
+1952470733285994917,@alexcooldev We have more employees than founders,https://x.com/freshakafrancis/status/1952470733285994917,tweet,Døzie,@freshakafrancis,0,0,0,0,9,0,2025-08-05 02:14:32,,
+1952470604713492837,@ionleu That shii died long time ago 😂,https://x.com/freshakafrancis/status/1952470604713492837,tweet,Døzie,@freshakafrancis,0,0,0,0,9,0,2025-08-05 02:14:01,,
+1952470428146180576,"@elonmusk @grok 4.4m under an hour, Elon has studied X algorithm 👀",https://x.com/freshakafrancis/status/1952470428146180576,tweet,Døzie,@freshakafrancis,0,0,0,3,30,0,2025-08-05 02:13:19,,
+1952413667326067108,"Top 6 databases to use in your nextjs projects 
+
+1. Supabase (PostgreSQL db)
+2. Planetscale (MySQL db)
+3. Mongodb (NoSQL db)
+4. Firebase (NoSQL db)
+5. Neon (PostgreSQL db)
+6. Upstash Redis (Redis/ Cache db)
+
+head on to deepnext to get their links https://t.co/bezWUDwXHK",https://x.com/freshakafrancis/status/1952413667326067108,tweet,Døzie,@freshakafrancis,3,2,0,8,1111,4,2025-08-04 22:27:47,https://pbs.twimg.com/amplify_video_thumb/1952413588678746112/img/J4srB2xmGO_kNuiK.jpg,https://video.twimg.com/amplify_video/1952413588678746112/vid/avc1/1216x720/I_CfMlSsAwEHCglP.mp4?tag=14
+1952368162089181385,"found sharp a cool tool that's use to resize and add quality to images in nodejs
+
+link in threads https://t.co/IhqbifCMeG",https://x.com/freshakafrancis/status/1952368162089181385,tweet,Døzie,@freshakafrancis,2,2,0,4,1471,1,2025-08-04 19:26:57,https://pbs.twimg.com/amplify_video_thumb/1952367621740892160/img/AkGUVBAm_q2ErP9y.jpg,https://video.twimg.com/amplify_video/1952367621740892160/vid/avc1/1216x720/Lfqf9NEf1oRLCaNT.mp4?tag=14
+1952302376502587674,"Level up your Next.js app with these 5 Google auth tools! 
+
+1. BetterAuth (easy and simple to use)
+2. Clerk (comes with its own ui)
+3. Nextauth (not beginner friendly)
+4. Firebase auth (clear and simple)
+5. Lucia (Lightweight, but no OAuth by default)
+
+More details in threads",https://x.com/freshakafrancis/status/1952302376502587674,tweet,Døzie,@freshakafrancis,7,2,0,7,1461,4,2025-08-04 15:05:33,,
+1952013802494627921,DeepNext is officially live 🎉 https://t.co/rShAezKQNR,https://x.com/freshakafrancis/status/1952013802494627921,tweet,Døzie,@freshakafrancis,1,2,0,17,2705,3,2025-08-03 19:58:51,https://pbs.twimg.com/media/GxbyNFEXoAARHYz.jpg,
+1951959159500427309,"@pankajkumar_dev We need a degree!!!!!!!, can y’all stop all this we don’t need a degree, it worked for someone doesn’t mean it will work you",https://x.com/freshakafrancis/status/1951959159500427309,tweet,Døzie,@freshakafrancis,1,0,0,2,27,0,2025-08-03 16:21:43,,
+1951958717345210832,@Abhinavstwt Am I the only who doesn’t seem to respect this rule 😂,https://x.com/freshakafrancis/status/1951958717345210832,tweet,Døzie,@freshakafrancis,0,0,0,0,7,0,2025-08-03 16:19:58,,
+1951958470913065290,@gozkybrain4u $1m ngl,https://x.com/freshakafrancis/status/1951958470913065290,tweet,Døzie,@freshakafrancis,0,0,0,1,83,0,2025-08-03 16:18:59,,
+1951958337756500428,"@Star_Knight12 Built an shopping site for a food seller, I got 200 bucks from that project 😂",https://x.com/freshakafrancis/status/1951958337756500428,tweet,Døzie,@freshakafrancis,0,0,0,1,16,0,2025-08-03 16:18:28,,
+1951957944704069948,@heyblake https://t.co/eS3DNaJi0y,https://x.com/freshakafrancis/status/1951957944704069948,tweet,Døzie,@freshakafrancis,0,0,0,1,17,0,2025-08-03 16:16:54,,
+1951953624491262139,"5 ai projects to level up your nextjs skills(beginner level)
+
+1. Ai resume writer
+2. Insta caption generator 
+3. Ai birthday wish writer
+4. Startup name generator 
+5.  Ai tweet rewriter 
+
+More details about each project in threads",https://x.com/freshakafrancis/status/1951953624491262139,tweet,Døzie,@freshakafrancis,5,2,0,4,1987,3,2025-08-03 15:59:44,,
+1951883278039793687,"9 ways to parse a number from a string
+How many of these did you know?
+
+1. parseInt(“6”)
+2. parseFloat(“6”)
+3. Number(“6”) everyone knows this
+4. + ”6”
+5. ~~ ”6”
+7.  “6” /1
+8.  “6” * 1
+9.  “6” - 0",https://x.com/freshakafrancis/status/1951883278039793687,tweet,Døzie,@freshakafrancis,3,3,0,8,1160,2,2025-08-03 11:20:12,,
+1951737637066166608,@AmasCreates https://t.co/kU4NkDos0g,https://x.com/freshakafrancis/status/1951737637066166608,tweet,Døzie,@freshakafrancis,0,0,0,1,13,0,2025-08-03 01:41:28,,
+1951736385653584367,@rauchg It isn’t that easy,https://x.com/freshakafrancis/status/1951736385653584367,tweet,Døzie,@freshakafrancis,0,0,0,0,32,0,2025-08-03 01:36:30,,
+1951732222341382442,Am i the only who thinks that nextauth documentation kind of sucks and it’s a little hard to setup,https://x.com/freshakafrancis/status/1951732222341382442,tweet,Døzie,@freshakafrancis,2,2,1,7,1109,0,2025-08-03 01:19:57,,
+1951674516083773725,@audiencon https://t.co/eS3DNaJPQ6,https://x.com/freshakafrancis/status/1951674516083773725,tweet,Døzie,@freshakafrancis,0,0,0,2,11,0,2025-08-02 21:30:39,,
+1951640606587101649,"Here’s react-debugger (alpha)! Best debugger for React apps. 
+
+Visual component highlighting, real-time props/state/hooks inspection, breakpoints, Zero config.
+
+ 2 steps: add script tag, run command.
+
+Link in threads https://t.co/4x1vhBPdH0",https://x.com/freshakafrancis/status/1951640606587101649,tweet,Døzie,@freshakafrancis,2,1,1,14,1692,4,2025-08-02 19:15:54,https://pbs.twimg.com/amplify_video_thumb/1951640546197295104/img/hmkivVSIXjfvuSmY.jpg,https://video.twimg.com/amplify_video/1951640546197295104/vid/avc1/1138x720/Ddz2OOxixC225a81.mp4?tag=21
+1951584336039248129,"8 useful APIs for Nextjs developers 
+
+1. Fetch api
+2. Geolocation api
+3. Localstorage api
+4. SessionStorage api
+5. Clipboard api
+6. Notification api
+7.  Speech Recognition api
+8. Web storage api
+
+Your are not a nextjs dev if you don’t know them
+
+More details in threads",https://x.com/freshakafrancis/status/1951584336039248129,tweet,Døzie,@freshakafrancis,9,2,7,51,4859,42,2025-08-02 15:32:19,,
+1951519727311798307,"Unfortunately I will be changing the name from Deepreact to Deepnext.
+
+There no deepreact domain available 
+
+So it will be deepnext, an ecosystem of react and next resources",https://x.com/freshakafrancis/status/1951519727311798307,tweet,Døzie,@freshakafrancis,1,0,0,3,203,0,2025-08-02 11:15:35,,
+1951280461377946074,"Instant updates, no waiting for server!
+Great for chat, todos, comments etc
+Here's the useOptimistic hook
+
+in react https://t.co/lYz6IwR4O2",https://x.com/freshakafrancis/status/1951280461377946074,tweet,Døzie,@freshakafrancis,0,0,0,5,480,1,2025-08-01 19:24:49,https://pbs.twimg.com/media/GxRW1VrWQAAW49-.jpg,
+1951215912192704960,"just added top hosting alternatives to deepreact 
+
+more are on the way https://t.co/wyR6espx82",https://x.com/freshakafrancis/status/1951215912192704960,tweet,Døzie,@freshakafrancis,0,0,1,3,516,0,2025-08-01 15:08:19,https://pbs.twimg.com/amplify_video_thumb/1951215580989542499/img/htGo0OgLB9P1DrtZ.jpg,https://video.twimg.com/amplify_video/1951215580989542499/vid/avc1/1216x720/U4nuKbADicgabbg-.mp4?tag=14
+1951196471711138254,"3 project to level up your nextjs skills
+
+1. AI PDF Chat Saas
+2. Trello + Notion clone
+3. Streaming platform with video upload 
+
+More details in threads",https://x.com/freshakafrancis/status/1951196471711138254,tweet,Døzie,@freshakafrancis,3,0,2,10,2061,3,2025-08-01 13:51:04,,
+1950950802186473920,"@rauchg @v0 @FernandoTheRojo @evilrabbit_ Change the name from next.JS to next.TS
+
+I don’t anyone still write js in next",https://x.com/freshakafrancis/status/1950950802186473920,tweet,Døzie,@freshakafrancis,0,0,0,0,40,0,2025-07-31 21:34:52,,
+1950921857294610589,"bro is casually cooking agents that would make me spend less in recruiting 
+
+link in threads https://t.co/Tu4Q5Yf8B1",https://x.com/freshakafrancis/status/1950921857294610589,tweet,Døzie,@freshakafrancis,1,0,2,5,178,1,2025-07-31 19:39:51,https://pbs.twimg.com/amplify_video_thumb/1950921359745241088/img/8OrWaRHDt6c1N_8t.jpg,https://video.twimg.com/amplify_video/1950921359745241088/vid/avc1/1216x720/GfPEIbxFfg0KRV2X.mp4?tag=14
+1950921271354728564,@BatsouElef deepreact an ecosystem of reactjs resources,https://x.com/freshakafrancis/status/1950921271354728564,tweet,Døzie,@freshakafrancis,0,0,0,1,5,0,2025-07-31 19:37:32,,
+1950915969901015176,@BatsouElef to build my product,https://x.com/freshakafrancis/status/1950915969901015176,tweet,Døzie,@freshakafrancis,1,0,0,1,9,0,2025-07-31 19:16:28,,
+1950915740736823343,"@taiomi nigeria to the world 
+
+we are proud of you bro, keep shining",https://x.com/freshakafrancis/status/1950915740736823343,tweet,Døzie,@freshakafrancis,0,0,0,1,41,0,2025-07-31 19:15:33,,
+1950915133233840497,"@KartikeyStack does this guy really have one occupation he steaks with, he does everything 😂
+
+coding, trading etc 
+
+bro is him",https://x.com/freshakafrancis/status/1950915133233840497,tweet,Døzie,@freshakafrancis,0,0,0,1,18,0,2025-07-31 19:13:08,,
+1950906655777989042,"rate this responsiveness out of 10 made 
+
+in next https://t.co/IsRwlWcd9b",https://x.com/freshakafrancis/status/1950906655777989042,tweet,Døzie,@freshakafrancis,0,0,1,5,318,0,2025-07-31 18:39:27,https://pbs.twimg.com/amplify_video_thumb/1950906237324840960/img/epJ_Uke6GicTWIAf.jpg,https://video.twimg.com/amplify_video/1950906237324840960/vid/avc1/1216x720/_pvCy5WZq2sf_yVQ.mp4?tag=14
+1950858750690021565,"Why i would never leave axios 
+
+in react https://t.co/1Q9TQkGXpJ",https://x.com/freshakafrancis/status/1950858750690021565,tweet,Døzie,@freshakafrancis,0,0,1,7,587,2,2025-07-31 15:29:06,https://pbs.twimg.com/media/GxLXOwXWUAAcqup.jpg,
+1950793534245622201,"I am building Deepreact, a website filled with resources related to reactjs/nextjs
+
+resources like jobs, books, tools etc
+
+I am considering renaming it to Reactguru
+
+What do you think?",https://x.com/freshakafrancis/status/1950793534245622201,tweet,Døzie,@freshakafrancis,1,0,2,7,639,0,2025-07-31 11:09:57,,
+1950746871619555419,@rauchg He probably generated using V0 😂. Jk,https://x.com/freshakafrancis/status/1950746871619555419,tweet,Døzie,@freshakafrancis,0,0,0,0,333,0,2025-07-31 08:04:31,,
+1950745872687415404,@rauchg Ceo knows patterns??,https://x.com/freshakafrancis/status/1950745872687415404,tweet,Døzie,@freshakafrancis,0,0,0,0,323,0,2025-07-31 08:00:33,,
+1950598055767445647,"gave GraphQL a try 
+
+in nextjs https://t.co/qAPhQYID17",https://x.com/freshakafrancis/status/1950598055767445647,tweet,Døzie,@freshakafrancis,2,0,2,8,615,1,2025-07-30 22:13:11,https://pbs.twimg.com/media/GxHqQ1ZWIAAm0LU.jpg,
+1950596791868727432,@Adityapandeydev Cuz I don’t have a girlfriend 😂,https://x.com/freshakafrancis/status/1950596791868727432,tweet,Døzie,@freshakafrancis,0,0,0,1,13,0,2025-07-30 22:08:10,,
+1950565836579570076,"ensure you wrap it with &lt;html&gt; and &lt;body&gt; tag
+
+here's the template https://t.co/4wShvAaOw8",https://x.com/freshakafrancis/status/1950565836579570076,tweet,Døzie,@freshakafrancis,0,0,3,4,866,3,2025-07-30 20:05:09,https://pbs.twimg.com/media/GxHNMyIW4AAX7f6.jpg,
+1950536603471856108,"global-not-found.js file lets you define a 404 page for your entire application.
+
+in nextjs. https://t.co/weKLAmBcq1",https://x.com/freshakafrancis/status/1950536603471856108,tweet,Døzie,@freshakafrancis,0,1,1,3,1128,2,2025-07-30 18:09:00,https://pbs.twimg.com/amplify_video_thumb/1950535982945640448/img/2R4lkQglBUYhcvP6.jpg,https://video.twimg.com/amplify_video/1950535982945640448/vid/avc1/1216x720/p865Q_dbWNJ5U1sF.mp4?tag=14
+1950442343087095967,"whats  stopping you from fetching data like this 
+
+in next https://t.co/OFDbz6Rqsz",https://x.com/freshakafrancis/status/1950442343087095967,tweet,Døzie,@freshakafrancis,0,0,0,7,741,2,2025-07-30 11:54:26,https://pbs.twimg.com/media/GxFcvEwXIAAN2Di.jpg,
+1950329537382010936,"typical folder organisation
+
+ in react https://t.co/rgdSXArtxn",https://x.com/freshakafrancis/status/1950329537382010936,tweet,Døzie,@freshakafrancis,2,0,0,6,566,2,2025-07-30 04:26:11,https://pbs.twimg.com/media/GxD1t5QXQAAIRV4.jpg,
+1950303375779910124,"smooth transmission between sidebars menu
+made with next https://t.co/uzzKFs3k9n",https://x.com/freshakafrancis/status/1950303375779910124,tweet,Døzie,@freshakafrancis,0,0,0,4,329,1,2025-07-30 02:42:14,https://pbs.twimg.com/amplify_video_thumb/1950302988817367040/img/q0thJrdjQST_NbBK.jpg,https://video.twimg.com/amplify_video/1950302988817367040/vid/avc1/1216x720/m1C6B8_fKngpOyk1.mp4?tag=14
+1950222790134546624,"cool dropdown 
+
+made with next https://t.co/Ed1hRge6OD",https://x.com/freshakafrancis/status/1950222790134546624,tweet,Døzie,@freshakafrancis,1,0,0,5,359,0,2025-07-29 21:22:01,https://pbs.twimg.com/amplify_video_thumb/1950222635419172864/img/yReAmI9pv0fekka3.jpg,https://video.twimg.com/amplify_video/1950222635419172864/vid/avc1/1676x720/9jwwJMB_Wwq-POwS.mp4?tag=14
+1950141199223820616,"whats your best advice for someone who wants to build in public??
+
+launched a project, it hasn't been too long, someone is already building it and driving crazy traffic, i am just tired",https://x.com/freshakafrancis/status/1950141199223820616,tweet,Døzie,@freshakafrancis,0,0,0,5,102,0,2025-07-29 15:57:48,,
+1950099765582033058,@OnuorahJP @honour_can_code @pxxl_space @grok what tool did honour use to create this video,https://x.com/freshakafrancis/status/1950099765582033058,tweet,Døzie,@freshakafrancis,1,0,0,0,14,0,2025-07-29 13:13:09,,
+1949962619663634507,made with nextjs https://t.co/mYMHwjHCJf,https://x.com/freshakafrancis/status/1949962619663634507,tweet,Døzie,@freshakafrancis,2,0,0,5,479,1,2025-07-29 04:08:11,https://pbs.twimg.com/media/Gw-onnSWYAAr5p7.png,
+1949961861857755460,@honour_can_code @pxxl_space Honour keep pushing Pxxlspace in build in public community,https://x.com/freshakafrancis/status/1949961861857755460,tweet,Døzie,@freshakafrancis,0,0,0,1,19,0,2025-07-29 04:05:11,,
+1949158565903507490,"Another day to refresh your memory on jwt 
+
+Check threads for more https://t.co/lpl0Em7E1v",https://x.com/freshakafrancis/status/1949158565903507490,tweet,Døzie,@freshakafrancis,0,0,0,3,145,1,2025-07-26 22:53:10,"https://pbs.twimg.com/media/GwzNWleXQAAZ6Z0.jpg,https://pbs.twimg.com/media/GwzNWlkW8AEW5CD.jpg,https://pbs.twimg.com/media/GwzNWliXcAAZPAh.jpg,https://pbs.twimg.com/media/GwzNWljXAAEYEXt.jpg",
+1948479207555920116,"Imagine using a fintech app that was vibe coded
+
+Probably wake one day and realize that all your money is gone 
+
+Master secure vibe coding.
+
+I’ll explain 👇",https://x.com/freshakafrancis/status/1948479207555920116,tweet,Døzie,@freshakafrancis,1,0,0,5,142,0,2025-07-25 01:53:38,,
+1948382274459767159,"What do you use to hash passwords??
+
+Leaving bcrypt, it takes time to hash password",https://x.com/freshakafrancis/status/1948382274459767159,tweet,Døzie,@freshakafrancis,1,0,0,3,116,0,2025-07-24 19:28:28,,
+1948375047590039974,Just change the name from next.js to next.ts,https://x.com/freshakafrancis/status/1948375047590039974,tweet,Døzie,@freshakafrancis,0,0,0,5,195,0,2025-07-24 18:59:45,,
+1947917853245772065,"Learn Ai/Ml for free
+
+1. Algorithm -&gt; https://t.co/aILpPO3Am7
+2. Python.    -&gt;  AutomateBoringStuff
+3. Math.        -&gt;  Maths for ml
+4. Machine Learning -&gt; https://t.co/pweIPotGHB
+
+Meta are paying people over $10m per year to work on Ai, You’ve got this",https://x.com/freshakafrancis/status/1947917853245772065,tweet,Døzie,@freshakafrancis,2,0,0,4,135,1,2025-07-23 12:43:01,,
+1947675735486779860,@gabrielmfern Don’t code with it lol,https://x.com/freshakafrancis/status/1947675735486779860,tweet,Døzie,@freshakafrancis,0,0,0,0,49,0,2025-07-22 20:40:56,,
+1947660677117591938,"3 Backend projects that actually make you job ready
+
+1. Smart issue Tracker with Ai summaries 
+2. GitHub commit Analyzer
+3. Secure login api with session management 
+
+More details 👇",https://x.com/freshakafrancis/status/1947660677117591938,tweet,Døzie,@freshakafrancis,4,0,2,5,367,4,2025-07-22 19:41:05,,
+1947659225523753331,@0xmitsurii Arch btw,https://x.com/freshakafrancis/status/1947659225523753331,tweet,Døzie,@freshakafrancis,0,0,0,0,4,0,2025-07-22 19:35:19,,
+1947658999836643514,Been battling with CORS 😭,https://x.com/freshakafrancis/status/1947658999836643514,tweet,Døzie,@freshakafrancis,0,0,0,4,135,0,2025-07-22 19:34:25,,
+1947399122501394749,"@Parthstwt_ @grok Hi @grok 
+based on your analysis, list 15 accounts in order that frequently visit my profile. don’t mention the people, just @.username along with how many times a week they visit the profile.",https://x.com/freshakafrancis/status/1947399122501394749,tweet,Døzie,@freshakafrancis,1,0,0,0,84,0,2025-07-22 02:21:46,,
+1947287241912631670,Backend devs: Portfolio = clean code + minimal design. Leave the CSS to frontend dev,https://x.com/freshakafrancis/status/1947287241912631670,tweet,Døzie,@freshakafrancis,0,0,0,3,122,0,2025-07-21 18:57:11,,
+1947285424373735569,==powerful https://t.co/2TxJdnWNw5,https://x.com/freshakafrancis/status/1947285424373735569,tweet,Døzie,@freshakafrancis,0,0,0,3,50,0,2025-07-21 18:49:58,https://pbs.twimg.com/media/GwYlxEQX0AAZfhM.jpg,
+1947194793643119008,@TimoBuilds_ Cuz  I don’t have it 🤷‍♂️,https://x.com/freshakafrancis/status/1947194793643119008,tweet,Døzie,@freshakafrancis,0,0,0,1,8,0,2025-07-21 12:49:50,,
+1947192404572082206,JS date get and set methods https://t.co/WAWKC37U9W,https://x.com/freshakafrancis/status/1947192404572082206,tweet,Døzie,@freshakafrancis,0,0,2,3,100,0,2025-07-21 12:40:20,https://pbs.twimg.com/media/GwXRKd5XcAAYUog.jpg,
+1947035961977676178,"Spent 6 hours refactoring a software company's code, then stepped outside for a break(i truely deserved that beak cuz what…..). Devs, write maintainable code or I'll haunt your PRs!",https://x.com/freshakafrancis/status/1947035961977676178,tweet,Døzie,@freshakafrancis,0,0,2,5,83,0,2025-07-21 02:18:42,,
+1946841094873870533,JS conversions https://t.co/QCsw5bHXmT,https://x.com/freshakafrancis/status/1946841094873870533,tweet,Døzie,@freshakafrancis,1,0,3,8,616,0,2025-07-20 13:24:22,https://pbs.twimg.com/media/GwSRp2OXoAA7uEr.jpg,
+1946706235505459342,"Learn your basics! was struggling with a filter project, overcomplicating it. Realized I could just use Set() for an easy fix",https://x.com/freshakafrancis/status/1946706235505459342,tweet,Døzie,@freshakafrancis,0,0,0,2,94,0,2025-07-20 04:28:29,,
+1946624938724466806,"Now averaging 100 words per minute 
+
+U??",https://x.com/freshakafrancis/status/1946624938724466806,tweet,Døzie,@freshakafrancis,0,0,0,2,70,0,2025-07-19 23:05:26,,
+1946613918056485218,More Array methods https://t.co/6KNntBcyeH,https://x.com/freshakafrancis/status/1946613918056485218,tweet,Døzie,@freshakafrancis,1,0,1,6,348,2,2025-07-19 22:21:39,https://pbs.twimg.com/media/GwPDBeyXAAA6C4s.jpg,
+1946589385052283262,"JS devs Ditch those old-school named functions! Arrow functions are the vibe, clean, sleek, and ALL DAY EVERY DAY! https://t.co/RR51GRWkQK",https://x.com/freshakafrancis/status/1946589385052283262,tweet,Døzie,@freshakafrancis,1,0,1,3,111,0,2025-07-19 20:44:09,"https://pbs.twimg.com/media/GwOsrQTXAAAoB7I.jpg,https://pbs.twimg.com/media/GwOsrQQXsAAT90F.jpg,https://pbs.twimg.com/media/GwOsrQcXIAAxs4g.jpg,https://pbs.twimg.com/media/GwOsrQRXcAA8e6y.jpg",
+1946316546957017405,array methods in js https://t.co/WnFpraSkLj,https://x.com/freshakafrancis/status/1946316546957017405,tweet,Døzie,@freshakafrancis,5,0,5,16,2892,3,2025-07-19 02:40:00,https://pbs.twimg.com/media/GwK0k7yXcAA8igI.jpg,
+1946230243821330549,"7 hours of coding today 😮‍💨💻 Fueled by 🍿 and pure grit! #codinglife 
+
+ Who else is grinding? 👀",https://x.com/freshakafrancis/status/1946230243821330549,tweet,Døzie,@freshakafrancis,0,0,0,3,79,0,2025-07-18 20:57:03,,
+1945975654786154735,"This is my 3rd time building a CBT web app for a client 
+This time, I’m adding an LLM to help lecturers compare results more intelligently.
+Any suggestions on which LLM I should go for? https://t.co/5JX3k2bihU",https://x.com/freshakafrancis/status/1945975654786154735,tweet,Døzie,@freshakafrancis,0,0,0,3,65,0,2025-07-18 04:05:25,https://pbs.twimg.com/media/GwF91q4WUAE3C70.png,
+1945957333403611543,Still no Docker?  Write a damn Dockerfile &amp; stop being lazy.,https://x.com/freshakafrancis/status/1945957333403611543,tweet,Døzie,@freshakafrancis,0,0,0,5,83,0,2025-07-18 02:52:37,,
+1945798910536036361,"@PutriiiYuanita After all the hype lol , X is still leading them 😂",https://x.com/freshakafrancis/status/1945798910536036361,tweet,Døzie,@freshakafrancis,0,0,0,0,1,0,2025-07-17 16:23:06,,
+1945796495485145310,got alot of goals to accomplish https://t.co/075fFA9kmf,https://x.com/freshakafrancis/status/1945796495485145310,tweet,Døzie,@freshakafrancis,0,0,0,4,78,0,2025-07-17 16:13:30,https://pbs.twimg.com/media/GwDbKU3XMAAsKJd.png,
+1945763977868251401,"Vector embedding semantic search ❤️ 
+
+I designed the system from scratch https://t.co/0fSve95Gqt",https://x.com/freshakafrancis/status/1945763977868251401,tweet,Døzie,@freshakafrancis,0,0,0,2,74,0,2025-07-17 14:04:17,https://pbs.twimg.com/media/GwC-Ba1W4AALHwn.jpg,
+1945569586910200115,Leave that laptop and go have your bath,https://x.com/freshakafrancis/status/1945569586910200115,tweet,Døzie,@freshakafrancis,0,0,0,2,89,0,2025-07-17 01:11:51,,
+1945567631039205844,"Best stack right now
+
+Nextjs for Frontend 
+Nestjs for backend 
+PostgreSQL for database 
+Docker
+Redis for caching",https://x.com/freshakafrancis/status/1945567631039205844,tweet,Døzie,@freshakafrancis,0,0,0,7,131,0,2025-07-17 01:04:04,,
+1944305838941737084,I prefer meta coding to vibe coding,https://x.com/freshakafrancis/status/1944305838941737084,tweet,Døzie,@freshakafrancis,1,0,0,2,129,0,2025-07-13 13:30:10,,
+1943696368205185426,Big tech companies don’t rely 3rd parties???,https://x.com/freshakafrancis/status/1943696368205185426,tweet,Døzie,@freshakafrancis,0,0,0,3,77,0,2025-07-11 21:08:20,,
+1943419306286751963,"@gabrielmfern No fr, even a slug from the title would do wonders. GitHub, take notes.
+Also, love what you are doing in resend, can we connect?? got a alot to learn from you",https://x.com/freshakafrancis/status/1943419306286751963,tweet,Døzie,@freshakafrancis,0,0,0,2,13,0,2025-07-11 02:47:24,,
+1941919596375597554,@aeejazkhan https://t.co/r5oUNKM7d9,https://x.com/freshakafrancis/status/1941919596375597554,tweet,Døzie,@freshakafrancis,0,0,0,0,7,0,2025-07-06 23:28:05,,
+1941557498521301106,"Hey @OpenAI, free GPT-3.5 API for devs could spark a global AI revolution! Let’s unlock creativity, support this now!",https://x.com/freshakafrancis/status/1941557498521301106,tweet,Døzie,@freshakafrancis,1,0,0,3,105,0,2025-07-05 23:29:14,,
+1941411747803562134,"Always focus on the hard part when building a startup to maintain that momentum (forget the landing page, login form etc and build the harder part of the software)",https://x.com/freshakafrancis/status/1941411747803562134,tweet,Døzie,@freshakafrancis,0,0,0,2,138,0,2025-07-05 13:50:05,,
+1940809757641920763,@pceegalaxy Funny how I am also building something like this 😂,https://x.com/freshakafrancis/status/1940809757641920763,tweet,Døzie,@freshakafrancis,1,0,0,1,14,0,2025-07-03 21:57:59,,
+1940793307552272512,Here’s the GitHub: https://t.co/IaX8F2mEJZ,https://x.com/freshakafrancis/status/1940793307552272512,tweet,Døzie,@freshakafrancis,0,0,0,1,57,0,2025-07-03 20:52:37,,
+1940792999715487919,Built a Chrome extension in ONE NIGHT that makes your AI prompts way less mid. Powered by DeepSeek R1 via open router. Check this out  and try it yourself!  #AI https://t.co/Ruv3IjjcHG,https://x.com/freshakafrancis/status/1940792999715487919,tweet,Døzie,@freshakafrancis,1,0,0,4,140,0,2025-07-03 20:51:23,https://pbs.twimg.com/amplify_video_thumb/1940792892991148032/img/ivxzuluf8WKOBKIy.jpg,https://video.twimg.com/amplify_video/1940792892991148032/vid/avc1/784x394/_Z-P7r1tg7YHG5xW.mp4?tag=14
+1940133183514660919,@samuel_abolo Bruhhh cpp for Frontend 😆,https://x.com/freshakafrancis/status/1940133183514660919,tweet,Døzie,@freshakafrancis,0,0,0,0,33,0,2025-07-02 01:09:31,,
+1940132630239879478,Vibe coders are rich frfr… especially the ones building Ai web apps,https://x.com/freshakafrancis/status/1940132630239879478,tweet,Døzie,@freshakafrancis,0,0,0,2,74,0,2025-07-02 01:07:19,,
+1939772155643772932,"Just finished learning Kubernetes.
+Now waiting for the second user so I can actually scale something 😂",https://x.com/freshakafrancis/status/1939772155643772932,tweet,Døzie,@freshakafrancis,1,0,0,4,139,0,2025-07-01 01:14:55,,
+1939771333094559973,@jcubic I saw it in @garrytan recent podcast,https://x.com/freshakafrancis/status/1939771333094559973,tweet,Døzie,@freshakafrancis,0,0,0,0,11,0,2025-07-01 01:11:39,,
+1939654125873967357,"Funny how I actually started coding at the age 14 during the Covid-19 
+
+I feel most people started programming during Covid 🤔",https://x.com/freshakafrancis/status/1939654125873967357,tweet,Døzie,@freshakafrancis,1,0,0,4,85,0,2025-06-30 17:25:55,,
+1939651868365312504,@BenedictNnaoma I was so supprised,https://x.com/freshakafrancis/status/1939651868365312504,tweet,Døzie,@freshakafrancis,0,0,0,1,14,0,2025-06-30 17:16:57,,
+1939553953697484960,@honour_can_code Gm my bro,https://x.com/freshakafrancis/status/1939553953697484960,tweet,Døzie,@freshakafrancis,1,0,0,1,10,0,2025-06-30 10:47:52,,
+1939553886966026523,I just found out that Steve jobs was a hacker,https://x.com/freshakafrancis/status/1939553886966026523,tweet,Døzie,@freshakafrancis,2,0,0,7,888,0,2025-06-30 10:47:36,,
+1938949940966981720,@_julienbrdn True. Nothing like pouring your soul into something… then launching it into the void.,https://x.com/freshakafrancis/status/1938949940966981720,tweet,Døzie,@freshakafrancis,1,0,0,1,18,0,2025-06-28 18:47:44,,
+1938948607761359041,"Founders: What’s the real killer in building a startup in 2025? 
+
+1.Building something no one asked for
+2.Launching to absolute silence
+https://t.co/Qw2GDJqznS with $0 
+4.The slow mental burnout
+
+Be honest, which one nearly broke you?",https://x.com/freshakafrancis/status/1938948607761359041,tweet,Døzie,@freshakafrancis,1,0,0,5,111,0,2025-06-28 18:42:26,,
+1938945561819754669,@PLBompard https://t.co/r5oUNKM7d9,https://x.com/freshakafrancis/status/1938945561819754669,tweet,Døzie,@freshakafrancis,0,0,0,0,11,0,2025-06-28 18:30:20,,
+1938286317755904133,@Eche_codes Why y’all always skipping Trae frfr,https://x.com/freshakafrancis/status/1938286317755904133,tweet,Døzie,@freshakafrancis,0,0,0,0,23,0,2025-06-26 22:50:44,,
+1938285660424835478,@denicmarko Bro just cloned google 404 page,https://x.com/freshakafrancis/status/1938285660424835478,tweet,Døzie,@freshakafrancis,1,0,0,1,146,0,2025-06-26 22:48:07,,
+1938285390349373925,"Imagine having a tech university, all they do is coding for straight 4 years 🤔",https://x.com/freshakafrancis/status/1938285390349373925,tweet,Døzie,@freshakafrancis,0,0,0,3,135,0,2025-06-26 22:47:03,,
+1938281307831705924,@dev_blanco1 💯,https://x.com/freshakafrancis/status/1938281307831705924,tweet,Døzie,@freshakafrancis,0,0,0,1,5,0,2025-06-26 22:30:49,,
+1938281027421475243,"@shivamcodes_ Yh mate, let’s connect what do you think, got some questions??",https://x.com/freshakafrancis/status/1938281027421475243,tweet,Døzie,@freshakafrancis,1,0,0,0,14,0,2025-06-26 22:29:43,,
+1938280818994196513,"@dev_blanco1 I am looking for people that would actually engage with my post, not follow for follow, if you’re down why not??",https://x.com/freshakafrancis/status/1938280818994196513,tweet,Døzie,@freshakafrancis,2,0,0,0,43,0,2025-06-26 22:28:53,,
+1938280383646208478,@shivamcodes_ This is 🔥,https://x.com/freshakafrancis/status/1938280383646208478,tweet,Døzie,@freshakafrancis,1,0,0,1,33,0,2025-06-26 22:27:09,,
+1938276575675314656,@trxpznxl @honour_can_code Yhhh right still working on it,https://x.com/freshakafrancis/status/1938276575675314656,tweet,Døzie,@freshakafrancis,0,0,0,0,14,0,2025-06-26 22:12:01,,
+1937891140239319318,@honour_can_code https://t.co/r5oUNKM7d9,https://x.com/freshakafrancis/status/1937891140239319318,tweet,Døzie,@freshakafrancis,1,0,0,5,106,0,2025-06-25 20:40:26,,
+1937882129209115062,@aayushv_ Yh sure,https://x.com/freshakafrancis/status/1937882129209115062,tweet,Døzie,@freshakafrancis,1,0,0,1,9,0,2025-06-25 20:04:38,,
+1937797781760160135,@ionleu 👋,https://x.com/freshakafrancis/status/1937797781760160135,tweet,Døzie,@freshakafrancis,0,0,0,0,10,0,2025-06-25 14:29:28,,
+1937099216406364418,@star_yutish I need to add this to my schedule,https://x.com/freshakafrancis/status/1937099216406364418,tweet,Døzie,@freshakafrancis,0,0,0,1,17,0,2025-06-23 16:13:37,,
+1937096925985304748,"@rasmickyy Bro this is clean 🔥
+ Let’s link up on X, I’m always down to support real builders",https://x.com/freshakafrancis/status/1937096925985304748,tweet,Døzie,@freshakafrancis,0,0,0,1,111,0,2025-06-23 16:04:31,,
+1936733890456301715,@Manuellabubakar 🔒,https://x.com/freshakafrancis/status/1936733890456301715,tweet,Døzie,@freshakafrancis,0,0,0,0,6,0,2025-06-22 16:01:56,,
+1936668760867229709,@joseppudev Sure man,https://x.com/freshakafrancis/status/1936668760867229709,tweet,Døzie,@freshakafrancis,0,0,0,0,21,0,2025-06-22 11:43:08,,
+1936581642031645038,"90% of dev content online is noise. Building DeepNext; the platform that curates only the 1% of high-signal Next.js content. If you're a serious dev, you're going to want this.
+
+Dropping you something",https://x.com/freshakafrancis/status/1936581642031645038,tweet,Døzie,@freshakafrancis,1,0,0,4,710,0,2025-06-22 05:56:58,,
+1935589763538407424,"We all love semantic search with embeddings…
+But are there any disadvantages no one’s talking about?",https://x.com/freshakafrancis/status/1935589763538407424,tweet,Døzie,@freshakafrancis,0,0,0,5,133,0,2025-06-19 12:15:35,,
+1935084984491974936,@mo_geryy hey mog lets connect mate,https://x.com/freshakafrancis/status/1935084984491974936,tweet,Døzie,@freshakafrancis,0,0,0,0,17,0,2025-06-18 02:49:47,,
+1935021666058518559,@AliHussein_20 hey mate lets connect so we would discuss about nextraddar,https://x.com/freshakafrancis/status/1935021666058518559,tweet,Døzie,@freshakafrancis,0,0,0,0,-,0,2025-06-17 22:38:10,,
+1935018925080686771,@AliHussein_20 hey mate lets connect,https://x.com/freshakafrancis/status/1935018925080686771,tweet,Døzie,@freshakafrancis,0,0,0,0,1,0,2025-06-17 22:27:17,,
+1934256353427456301,https://t.co/9OZHQHbr3V,https://x.com/freshakafrancis/status/1934256353427456301,tweet,Døzie,@freshakafrancis,0,0,0,0,69,0,2025-06-15 19:57:06,"https://pbs.twimg.com/media/Gtfb5V7XcAAT3Tr.jpg,https://pbs.twimg.com/media/Gtfb5XzW8AAxXCM.jpg,https://pbs.twimg.com/media/Gtfb5V8WAAAB6DE.jpg,https://pbs.twimg.com/media/Gtfb5YZXAAAfcyN.jpg",
+1934256033503044058,Vscode extensions ❤️ https://t.co/rJrTZuX3Gl,https://x.com/freshakafrancis/status/1934256033503044058,tweet,Døzie,@freshakafrancis,1,0,0,3,198,1,2025-06-15 19:55:49,"https://pbs.twimg.com/media/GtfbmpKXYAAsLWI.jpg,https://pbs.twimg.com/media/GtfbmpMXwAAlmnb.jpg,https://pbs.twimg.com/media/GtfbmpKXgAA9d1z.jpg,https://pbs.twimg.com/media/GtfbmpJWYAAkqHn.jpg",
+1933605343302443205,"Yo @Microsoft, make Git open source already. Got some features to drop. Imagine an AI handling your commits, just push &amp; chill 😎",https://x.com/freshakafrancis/status/1933605343302443205,tweet,Døzie,@freshakafrancis,0,0,0,1,182,0,2025-06-14 00:50:13,,
+1933452245888286764,"go and learn how to properly construct a good commit,it really pays",https://x.com/freshakafrancis/status/1933452245888286764,tweet,Døzie,@freshakafrancis,0,0,0,5,81,0,2025-06-13 14:41:51,,
+1933294341319242242,More reason why I would never depend on 3rd party platforms 😭,https://x.com/freshakafrancis/status/1933294341319242242,tweet,Døzie,@freshakafrancis,0,0,0,1,133,0,2025-06-13 04:14:24,,
+1932913329754034252,"Indians gotta be the country packed with devs, fr",https://x.com/freshakafrancis/status/1932913329754034252,tweet,Døzie,@freshakafrancis,1,0,0,2,81,0,2025-06-12 03:00:24,,
+1932712873354317955,"Sue GitHub, so easy 😂",https://x.com/freshakafrancis/status/1932712873354317955,tweet,Døzie,@freshakafrancis,0,0,1,2,106,0,2025-06-11 13:43:51,,
+1932535088312422556,"@kuldeepsaini_23 @sudorohan @In_a_giffy Proelevate that’s awesome, pls let’s connect",https://x.com/freshakafrancis/status/1932535088312422556,tweet,Døzie,@freshakafrancis,0,0,0,0,22,0,2025-06-11 01:57:24,,
+1932521589767045460,"@kuldeepsaini_23 @sudorohan @In_a_giffy amazing project, lets connect man",https://x.com/freshakafrancis/status/1932521589767045460,tweet,Døzie,@freshakafrancis,1,0,0,0,24,0,2025-06-11 01:03:46,,
+1932517480846475375,@_MSaaDH @sudorohan @In_a_giffy Hey man let’s connect,https://x.com/freshakafrancis/status/1932517480846475375,tweet,Døzie,@freshakafrancis,0,0,0,0,41,0,2025-06-11 00:47:26,,
+1932516885373083915,@ezeslucky @sudorohan @In_a_giffy Hey man let’s connect,https://x.com/freshakafrancis/status/1932516885373083915,tweet,Døzie,@freshakafrancis,2,0,0,0,9,0,2025-06-11 00:45:04,,
+1932002330636914854,@_devJNS Trae,https://x.com/freshakafrancis/status/1932002330636914854,tweet,Døzie,@freshakafrancis,0,0,0,0,16,0,2025-06-09 14:40:25,,
+1931853538826576174,@ikhaledalsayed I would always go with graphql ngl,https://x.com/freshakafrancis/status/1931853538826576174,tweet,Døzie,@freshakafrancis,0,0,0,0,4,0,2025-06-09 04:49:10,,
+1931852550304620810,"Yh the market is saturated, too many people want jobs. But still, in the recruiters eyes, there isn't enough talent, Because 80% of the people saturating the market are unhireable. So just prepare yourself so when you hit the apply button once,  it’s a win for you 🫶",https://x.com/freshakafrancis/status/1931852550304620810,tweet,Døzie,@freshakafrancis,0,0,1,2,102,0,2025-06-09 04:45:14,,
+1931248993280958599,music + coding = productivity 😮‍💨,https://x.com/freshakafrancis/status/1931248993280958599,tweet,Døzie,@freshakafrancis,1,0,0,7,124,0,2025-06-07 12:46:55,,
+1931118736637071612,CORS in Typescript explained ❤️ https://t.co/7wqVIywmuK,https://x.com/freshakafrancis/status/1931118736637071612,tweet,Døzie,@freshakafrancis,0,0,0,4,179,2,2025-06-07 04:09:19,"https://pbs.twimg.com/media/Gsy2P9KWYAALoXq.jpg,https://pbs.twimg.com/media/Gsy2P9JWMAAT0Tc.jpg,https://pbs.twimg.com/media/Gsy2P9LWsAARA7Z.jpg,https://pbs.twimg.com/media/Gsy2P9IWAAA-nfu.jpg",
+1931108115996664079,Want growth? Build stuff so cool people can’t help but tell their friends. 🤷‍♂️,https://x.com/freshakafrancis/status/1931108115996664079,tweet,Døzie,@freshakafrancis,0,0,0,3,124,0,2025-06-07 03:27:07,,
+1931056827636273449,"@PaulHovley Yh sure, I thought about that too",https://x.com/freshakafrancis/status/1931056827636273449,tweet,Døzie,@freshakafrancis,0,0,0,1,6,0,2025-06-07 00:03:19,,
+1930990420474958059,"cooking a chrome extension that perfects prompts with deepseek-r1
+
+select → hover → click → better prompt https://t.co/PI7LGdVcnt",https://x.com/freshakafrancis/status/1930990420474958059,tweet,Døzie,@freshakafrancis,1,0,0,7,177,0,2025-06-06 19:39:26,https://pbs.twimg.com/media/GsxAviuWcAAFs98.png,
+1930964915298136505,@imshauryansh Thanks man 🫶,https://x.com/freshakafrancis/status/1930964915298136505,tweet,Døzie,@freshakafrancis,0,0,0,1,8,0,2025-06-06 17:58:06,,
+1930964355287261501,@liam_builds I am in brother,https://x.com/freshakafrancis/status/1930964355287261501,tweet,Døzie,@freshakafrancis,0,0,0,0,9,0,2025-06-06 17:55:52,,
+1930963813647479176,"@maoxai_ Hey mate, let’s connect, got a lot to learn from you🫶",https://x.com/freshakafrancis/status/1930963813647479176,tweet,Døzie,@freshakafrancis,0,0,0,1,27,0,2025-06-06 17:53:43,,
+1930963491130585407,"Just sent out my first website business proposal to a company, let’s see how it goes 😮‍💨",https://x.com/freshakafrancis/status/1930963491130585407,tweet,Døzie,@freshakafrancis,1,0,0,5,96,0,2025-06-06 17:52:26,,
+1930903855258014184,Tbh REST API still worth it or GraphQL is just better? 🤷‍♂️,https://x.com/freshakafrancis/status/1930903855258014184,tweet,Døzie,@freshakafrancis,2,0,1,4,207,0,2025-06-06 13:55:28,,
+1930708966126104765,"Got scammed out of a $900 side gig. 😔 But here’s the deal, aspiring devs: treat every failure as a win. Keep pushing forward!",https://x.com/freshakafrancis/status/1930708966126104765,tweet,Døzie,@freshakafrancis,15,2,1,13,2008,0,2025-06-06 01:01:03,,
+1930706872786473171,"@bengabp Okayyy, this sounds convincing enough, let’s connect mate",https://x.com/freshakafrancis/status/1930706872786473171,tweet,Døzie,@freshakafrancis,0,0,0,0,10,0,2025-06-06 00:52:43,,
+1930686056048791837,"Software engineers, let's uphold our craft's reputation! Stop taking cheap gigs that undervalue our skills. Quality work deserves fair pay, let's build trust and excellence in the industry.",https://x.com/freshakafrancis/status/1930686056048791837,tweet,Døzie,@freshakafrancis,1,0,1,5,137,0,2025-06-05 23:30:00,,
+1930601416701178108,https://t.co/GXfPl1Mcv4,https://x.com/freshakafrancis/status/1930601416701178108,tweet,Døzie,@freshakafrancis,0,0,0,0,80,0,2025-06-05 17:53:41,"https://pbs.twimg.com/media/GsrfvQqXQAAX_uU.jpg,https://pbs.twimg.com/media/GsrfvQtWcAAG-bI.jpg,https://pbs.twimg.com/media/GsrfvQqXMAA7I9m.jpg",
+1930601328440389908,https://t.co/p2uBT5hFG8,https://x.com/freshakafrancis/status/1930601328440389908,tweet,Døzie,@freshakafrancis,0,0,0,0,65,0,2025-06-05 17:53:20,"https://pbs.twimg.com/media/GsrfqmdXUAAgNjK.jpg,https://pbs.twimg.com/media/GsrfqnmWkAEwISg.jpg,https://pbs.twimg.com/media/GsrfqnnWEAAks3l.jpg,https://pbs.twimg.com/media/GsrfqnpXoAAfkdp.jpg",
+1930601217379422239,https://t.co/XWgXl7NX1f,https://x.com/freshakafrancis/status/1930601217379422239,tweet,Døzie,@freshakafrancis,0,0,0,0,73,0,2025-06-05 17:52:53,"https://pbs.twimg.com/media/GsrfkK_WIAAzYGN.jpg,https://pbs.twimg.com/media/GsrfkLAWwAEZzl7.jpg,https://pbs.twimg.com/media/GsrfkLHXsAAFH5n.jpg,https://pbs.twimg.com/media/GsrfkN3WkAAcEJ3.jpg",
+1930601012881944933,"All react Hooks explained 
+Check threads 🧵 https://t.co/a4Lyrj4Eob",https://x.com/freshakafrancis/status/1930601012881944933,tweet,Døzie,@freshakafrancis,4,0,0,7,471,4,2025-06-05 17:52:04,"https://pbs.twimg.com/media/GsrfW1yW4AE9Tvz.jpg,https://pbs.twimg.com/media/GsrfW1yW4AA0LSq.jpg,https://pbs.twimg.com/media/GsrfW1yXUAA0qqO.jpg,https://pbs.twimg.com/media/GsrfW11XMAEh6WB.jpg",
+1930565289491538157,"Hello devs
+
+Let’s connect",https://x.com/freshakafrancis/status/1930565289491538157,tweet,Døzie,@freshakafrancis,0,0,0,1,45,0,2025-06-05 15:30:07,,
+1930562701840822645,@sama once said: build stuff users brag about to their friends,https://x.com/freshakafrancis/status/1930562701840822645,tweet,Døzie,@freshakafrancis,0,0,0,1,7,0,2025-06-05 15:19:50,,
+1930364102255214769,@MOSELEY_DEV Connected,https://x.com/freshakafrancis/status/1930364102255214769,tweet,Døzie,@freshakafrancis,0,0,0,2,11,0,2025-06-05 02:10:41,,
+1930014194256183770,"Don't give up on tech!!
+keep building and learning 
+We would all get there someday 💯",https://x.com/freshakafrancis/status/1930014194256183770,tweet,Døzie,@freshakafrancis,0,0,0,6,80,0,2025-06-04 03:00:16,,
+1929978071223763236,I saw hell today 😭 Redditors have to be the meanest people ever. https://t.co/e3W42ckPEm,https://x.com/freshakafrancis/status/1929978071223763236,tweet,Døzie,@freshakafrancis,0,0,0,3,129,0,2025-06-04 00:36:44,https://pbs.twimg.com/media/Gsio0aPXYAAXBy5.jpg,
+1929819319875076394,This the real backend 💯 https://t.co/6D6ml1vBzY,https://x.com/freshakafrancis/status/1929819319875076394,tweet,Døzie,@freshakafrancis,0,0,0,2,77,0,2025-06-03 14:05:54,https://pbs.twimg.com/media/GsgYbuSWgAAMqqB.jpg,
+1929560252430598493,"Vertical vs Horizontal Scaling 💻📈
+One powers up, the other spreads out.
+Knowing when to use each could be what lands you that dream job.
+Just dropped a breakdown on LinkedIn 👇
+🔗 https://t.co/tmuBApZVhs https://t.co/eT8x9BWMKp",https://x.com/freshakafrancis/status/1929560252430598493,tweet,Døzie,@freshakafrancis,0,0,0,3,100,0,2025-06-02 20:56:28,https://pbs.twimg.com/media/Gscsx7GXMAAnyCC.jpg,
+1928384529489703050,@rjnapolitano thanks man,https://x.com/freshakafrancis/status/1928384529489703050,tweet,Døzie,@freshakafrancis,1,0,0,1,7,0,2025-05-30 15:04:34,,
+1928353707499905243,"i built  
+
+ write2env, a handy tool to create, edit, and manage .env files straight from your terminal or Node.js code. No more manual editing! It’s open-source! Feel free to check it out and contribute on GitHub: 👉 https://t.co/fyEcIiLgHG https://t.co/je6FbsMd33",https://x.com/freshakafrancis/status/1928353707499905243,tweet,Døzie,@freshakafrancis,2,0,0,5,229,0,2025-05-30 13:02:05,"https://pbs.twimg.com/amplify_video_thumb/1928353647697506304/img/Hv61Jg6WVpS8y2P2.jpg,https://pbs.twimg.com/media/GsLjbPsXYAAMHGX.jpg",https://video.twimg.com/amplify_video/1928353647697506304/vid/avc1/1200x720/OlvOwBwkEkdTgvs_.mp4?tag=21
+1928351669915472355,"@cjsingg You won’t really get it until you’ve stared at an .env file with 100+ keys, eyes twitching, wondering why life is hard. This tool? It saves you from that mess. But hey, maybe you’ve never written an env file that long… rookie numbers 😄.",https://x.com/freshakafrancis/status/1928351669915472355,tweet,Døzie,@freshakafrancis,1,0,0,0,21,0,2025-05-30 12:53:59,,
+1928348408164618251,@cjsingg use it bro https://t.co/ofKbIfv60Z,https://x.com/freshakafrancis/status/1928348408164618251,tweet,Døzie,@freshakafrancis,1,0,0,1,20,0,2025-05-30 12:41:02,https://pbs.twimg.com/amplify_video_thumb/1928348372403998720/img/U5eusFmg1ylUOKkv.jpg,https://video.twimg.com/amplify_video/1928348372403998720/vid/avc1/1200x720/pokXYrsPwIQoXYhM.mp4?tag=14
+1928348254804091153,@MortadaSarheed aiit sure man,https://x.com/freshakafrancis/status/1928348254804091153,tweet,Døzie,@freshakafrancis,0,0,0,0,8,0,2025-05-30 12:40:25,,
+1928343427864838533,"hey build in public community 
+
+i built  
+
+ write2env, a handy tool to create, edit, and manage .env files straight from your terminal or Node.js code. No more manual editing! It’s open-source! Feel free to check it out and contribute on GitHub: 👉 https://t.co/fyEcIiLgHG
+
+📷 https://t.co/qUbBYEuzQN",https://x.com/freshakafrancis/status/1928343427864838533,tweet,Døzie,@freshakafrancis,2,0,1,7,161,0,2025-05-30 12:21:14,https://pbs.twimg.com/media/GsLaA0oXMAA2P7k.png,
+1927790413462565044,Well said 💯 https://t.co/AqWt4NeVq9,https://x.com/freshakafrancis/status/1927790413462565044,tweet,Døzie,@freshakafrancis,0,0,0,2,113,0,2025-05-28 23:43:45,https://pbs.twimg.com/media/GsDjJSTXAAASi6W.jpg,
+1925627203674345568,"@google stop killing startups !!!!
+Invest in them!!!",https://x.com/freshakafrancis/status/1925627203674345568,tweet,Døzie,@freshakafrancis,0,0,0,0,5,0,2025-05-23 00:27:56,,
+1925285332955643930,"$500b dollars for a data center 🤯, @OpenAI is moving crazy,  Africa when 😭 https://t.co/9egjK1M9ZO",https://x.com/freshakafrancis/status/1925285332955643930,tweet,Døzie,@freshakafrancis,0,0,0,1,86,0,2025-05-22 01:49:28,https://pbs.twimg.com/amplify_video_thumb/1925284896026537985/img/8CeDVUYNnwltbvX6.jpg,https://video.twimg.com/amplify_video/1925284896026537985/vid/avc1/576x1024/3K8XvhJHCM8_7SQ3.mp4?tag=21
+1925270715684602212,"@Google just launched https://t.co/w0MK2MQ8Ys, it’s time to sack my ui/ux designer 😂.",https://x.com/freshakafrancis/status/1925270715684602212,tweet,Døzie,@freshakafrancis,0,0,0,1,33,1,2025-05-22 00:51:23,,
+1924922726260564218,"@Google  always cook, all i need right now is an android XR glasses😭",https://x.com/freshakafrancis/status/1924922726260564218,tweet,Døzie,@freshakafrancis,0,0,0,1,20,0,2025-05-21 01:48:35,,
+1924790521517515040,@badtz_ui Yup!!!!,https://x.com/freshakafrancis/status/1924790521517515040,tweet,Døzie,@freshakafrancis,0,0,0,1,7,0,2025-05-20 17:03:15,,
+1924775166539710929,"🚀 Almost done with MySpaces — a faster way to send 📁 small files(pdfs, docs etc), 🎥 media, and 📝 text.
+
+ For the free trial, users will get:
+🔹 100MB of free storage
+🔹 Up to 3 Spaces to share and organize content
+✨ Fast. Simple. Efficient. #MySpaces 💫",https://x.com/freshakafrancis/status/1924775166539710929,tweet,Døzie,@freshakafrancis,0,0,0,2,121,0,2025-05-20 16:02:14,,
+1924769029870305703,Ai isn’t going to take our job !!!!!!!,https://x.com/freshakafrancis/status/1924769029870305703,tweet,Døzie,@freshakafrancis,1,0,0,3,117,0,2025-05-20 15:37:51,,
+1924483543645712608,@im_roy_lee @im_roy_lee check ur dm,https://x.com/freshakafrancis/status/1924483543645712608,tweet,Døzie,@freshakafrancis,0,0,0,1,168,0,2025-05-19 20:43:26,,
+1922313754861019519,"@badtz_ui 😂 sure why not, launching soon",https://x.com/freshakafrancis/status/1922313754861019519,tweet,Døzie,@freshakafrancis,0,0,0,1,21,0,2025-05-13 21:01:28,,
+1922243558477611294,"🚀 Building Myspace, a personal cross-device vault to send sensitive text, upload files, images, audios, and videos from your phone to your laptop (and vice versa).
+No stress. No cable. Just vibes.
+
+🚀 Build in progress... 
+#buildinpublic https://t.co/Do7SSM3egX",https://x.com/freshakafrancis/status/1922243558477611294,tweet,Døzie,@freshakafrancis,5,0,2,9,885,0,2025-05-13 16:22:32,https://pbs.twimg.com/media/Gq0uPxAWgAEQvKw.jpg,
+1893614647405666623,@FaizanBuilds Done,https://x.com/freshakafrancis/status/1893614647405666623,tweet,Døzie,@freshakafrancis,0,0,0,0,14,0,2025-02-23 16:21:28,,
+1891955267954257980,@web3banger Connected,https://x.com/freshakafrancis/status/1891955267954257980,tweet,Døzie,@freshakafrancis,0,0,0,1,4,0,2025-02-19 02:27:41,,
+1891955225742713208,@me_izz_Osamaa Connected,https://x.com/freshakafrancis/status/1891955225742713208,tweet,Døzie,@freshakafrancis,0,0,0,0,4,0,2025-02-19 02:27:31,,
+1891955197422821544,@The_Great_Tech @X Done,https://x.com/freshakafrancis/status/1891955197422821544,tweet,Døzie,@freshakafrancis,1,0,0,0,7,0,2025-02-19 02:27:24,,
+1891895760926498844,https://t.co/mbwA24Ddlb,https://x.com/freshakafrancis/status/1891895760926498844,tweet,Døzie,@freshakafrancis,0,0,0,1,108,0,2025-02-18 22:31:13,"https://pbs.twimg.com/media/GkFdKXtWUAA0YUZ.jpg,https://pbs.twimg.com/media/GkFdKXuXMAExmc-.jpg",
+1891895668689477899,"List of APIs ❤️ 
+Check threads 🧵 for more 👇👇 https://t.co/lut1v9mrwY",https://x.com/freshakafrancis/status/1891895668689477899,tweet,Døzie,@freshakafrancis,1,0,1,6,922,7,2025-02-18 22:30:51,"https://pbs.twimg.com/media/GkFdEuTWAAAub3w.jpg,https://pbs.twimg.com/media/GkFdEuVXYAAQ2JL.jpg,https://pbs.twimg.com/media/GkFdEuTXQAA7H8B.jpg,https://pbs.twimg.com/media/GkFdEuPXEAAH6zm.jpg",
+1891895214861615498,@OmSharma7444 Done,https://x.com/freshakafrancis/status/1891895214861615498,tweet,Døzie,@freshakafrancis,0,0,0,2,12,0,2025-02-18 22:29:03,,
+1891895132175155497,@Code_DJ_ Done,https://x.com/freshakafrancis/status/1891895132175155497,tweet,Døzie,@freshakafrancis,0,0,0,0,9,0,2025-02-18 22:28:43,,
+1891895089854546121,@mwengi_brian Connected,https://x.com/freshakafrancis/status/1891895089854546121,tweet,Døzie,@freshakafrancis,0,0,0,1,8,0,2025-02-18 22:28:33,,
+1891895055293514078,@stilla1ex @X Connected,https://x.com/freshakafrancis/status/1891895055293514078,tweet,Døzie,@freshakafrancis,0,0,0,0,5,0,2025-02-18 22:28:25,,
+1891895019239362705,@Subham78910 @X Done,https://x.com/freshakafrancis/status/1891895019239362705,tweet,Døzie,@freshakafrancis,0,0,0,0,12,0,2025-02-18 22:28:16,,
+1891894993679258108,@sk_sxhxl @X Done,https://x.com/freshakafrancis/status/1891894993679258108,tweet,Døzie,@freshakafrancis,0,0,0,1,2,0,2025-02-18 22:28:10,,
+1891894966785372326,@Davidmicdan_ Done,https://x.com/freshakafrancis/status/1891894966785372326,tweet,Døzie,@freshakafrancis,1,0,0,1,6,0,2025-02-18 22:28:04,,
+1891894920392184040,@0xkind_creator Connected,https://x.com/freshakafrancis/status/1891894920392184040,tweet,Døzie,@freshakafrancis,0,0,0,0,-,0,2025-02-18 22:27:53,,
+1891894893154345414,@adil_shamim8 @X Connected,https://x.com/freshakafrancis/status/1891894893154345414,tweet,Døzie,@freshakafrancis,0,0,0,0,13,0,2025-02-18 22:27:46,,
+1891894843267309732,@sejjob Connected,https://x.com/freshakafrancis/status/1891894843267309732,tweet,Døzie,@freshakafrancis,1,0,0,0,2,0,2025-02-18 22:27:34,,
+1891894777328603506,@bhaxkar_ Connected,https://x.com/freshakafrancis/status/1891894777328603506,tweet,Døzie,@freshakafrancis,0,0,0,1,4,0,2025-02-18 22:27:19,,
+1891894726791479671,@YashChandan_ Connected,https://x.com/freshakafrancis/status/1891894726791479671,tweet,Døzie,@freshakafrancis,0,0,0,2,16,0,2025-02-18 22:27:07,,
+1891894689432752336,@rajsingh_05_ Connected,https://x.com/freshakafrancis/status/1891894689432752336,tweet,Døzie,@freshakafrancis,1,0,0,1,8,0,2025-02-18 22:26:58,,
+1891772551061213253,https://t.co/ba6u5Ts7BS,https://x.com/freshakafrancis/status/1891772551061213253,tweet,Døzie,@freshakafrancis,0,0,0,1,71,0,2025-02-18 14:21:38,"https://pbs.twimg.com/media/GkDtGlIWEAANLFH.jpg,https://pbs.twimg.com/media/GkDtGlHWkAAxTWP.jpg,https://pbs.twimg.com/media/GkDtGlJWIAAPAgE.jpg",
+1891772449798119834,"Fetch api in js ❤️ 
+Check threads 🧵 for more 👇👇 https://t.co/oF5Rk9FGgH",https://x.com/freshakafrancis/status/1891772449798119834,tweet,Døzie,@freshakafrancis,1,0,0,7,4262,3,2025-02-18 14:21:14,"https://pbs.twimg.com/media/GkDtAjmXAAAh5q4.jpg,https://pbs.twimg.com/media/GkDtAjpWwAA6zVg.jpg,https://pbs.twimg.com/media/GkDtAjjXIAE39Ow.jpg,https://pbs.twimg.com/media/GkDtAjoW4AEe8tP.jpg",
+1890797767900971064,@thecodedchamp Done,https://x.com/freshakafrancis/status/1890797767900971064,tweet,Døzie,@freshakafrancis,0,0,0,0,9,0,2025-02-15 21:48:11,,
+1890022140663251302,https://t.co/CaxxacQ71t,https://x.com/freshakafrancis/status/1890022140663251302,tweet,Døzie,@freshakafrancis,0,0,0,2,78,0,2025-02-13 18:26:07,"https://pbs.twimg.com/media/Gjq1HMiW0AAnWHZ.jpg,https://pbs.twimg.com/media/Gjq1HMZWkAArNxC.jpg",
+1890021994663723177,"Beginners this the meaning of promise I. Js, I know some senior devs have stopped using it 
+
+Check thread for more 👇👇👇 https://t.co/T320AyzmiQ",https://x.com/freshakafrancis/status/1890021994663723177,tweet,Døzie,@freshakafrancis,1,0,1,7,3531,2,2025-02-13 18:25:33,"https://pbs.twimg.com/media/Gjq0-rIXcAAaVoq.jpg,https://pbs.twimg.com/media/Gjq0-rNWgAE8Poi.jpg,https://pbs.twimg.com/media/Gjq0-rNWAAAUFsh.jpg,https://pbs.twimg.com/media/Gjq0-rNWcAARhVK.jpg",
+1889713437866967544,@udaysharma2497 Done,https://x.com/freshakafrancis/status/1889713437866967544,tweet,Døzie,@freshakafrancis,0,0,0,0,7,0,2025-02-12 21:59:27,,
+1889713172786909294,@om_official1 Done,https://x.com/freshakafrancis/status/1889713172786909294,tweet,Døzie,@freshakafrancis,0,0,0,0,3,0,2025-02-12 21:58:24,,
+1889713057762316541,@Rabel_Mervin Connected,https://x.com/freshakafrancis/status/1889713057762316541,tweet,Døzie,@freshakafrancis,1,0,0,1,14,0,2025-02-12 21:57:56,,
+1889713021531918657,@SamuelscruX Fullstack here. Done,https://x.com/freshakafrancis/status/1889713021531918657,tweet,Døzie,@freshakafrancis,0,0,0,0,4,0,2025-02-12 21:57:48,,
+1889712974694125756,@KhushiPatel_27 Connected,https://x.com/freshakafrancis/status/1889712974694125756,tweet,Døzie,@freshakafrancis,0,0,0,0,16,0,2025-02-12 21:57:36,,
+1889712934785360329,"@AkshAI_2030 Mern stack here, connected",https://x.com/freshakafrancis/status/1889712934785360329,tweet,Døzie,@freshakafrancis,0,0,0,2,19,0,2025-02-12 21:57:27,,
+1889712889184850187,@Daniel024055594 @X Connected bro,https://x.com/freshakafrancis/status/1889712889184850187,tweet,Døzie,@freshakafrancis,0,0,0,0,9,0,2025-02-12 21:57:16,,
+1889712857182310595,@coolray09 Done,https://x.com/freshakafrancis/status/1889712857182310595,tweet,Døzie,@freshakafrancis,0,0,0,1,2,0,2025-02-12 21:57:08,,
+1889712820545065134,@AshxshSingh Done,https://x.com/freshakafrancis/status/1889712820545065134,tweet,Døzie,@freshakafrancis,1,0,0,0,6,0,2025-02-12 21:57:00,,
+1889712790069252220,@kp20_suhas Connected,https://x.com/freshakafrancis/status/1889712790069252220,tweet,Døzie,@freshakafrancis,0,0,0,0,2,0,2025-02-12 21:56:52,,
+1889712741318857010,@FrostbytHitsuG Connected,https://x.com/freshakafrancis/status/1889712741318857010,tweet,Døzie,@freshakafrancis,2,0,0,3,77,0,2025-02-12 21:56:41,,
+1889712693298270363,@kumar5005555 Connected,https://x.com/freshakafrancis/status/1889712693298270363,tweet,Døzie,@freshakafrancis,1,0,0,0,8,0,2025-02-12 21:56:29,,
+1889712665926242599,@PeddiJayanth Connected,https://x.com/freshakafrancis/status/1889712665926242599,tweet,Døzie,@freshakafrancis,0,0,0,0,4,0,2025-02-12 21:56:23,,
+1889712632782852397,@devmatiue Done,https://x.com/freshakafrancis/status/1889712632782852397,tweet,Døzie,@freshakafrancis,1,0,0,3,17,0,2025-02-12 21:56:15,,
+1889712563996287359,@krupali07 Done,https://x.com/freshakafrancis/status/1889712563996287359,tweet,Døzie,@freshakafrancis,2,0,0,1,81,0,2025-02-12 21:55:59,,
+1889223004200264124,@JoshCaughtFire Aiit sure,https://x.com/freshakafrancis/status/1889223004200264124,tweet,Døzie,@freshakafrancis,0,0,0,0,10,0,2025-02-11 13:30:38,,
+1889222674788102581,https://t.co/COAPasUeCm,https://x.com/freshakafrancis/status/1889222674788102581,tweet,Døzie,@freshakafrancis,0,0,0,3,77,0,2025-02-11 13:29:20,"https://pbs.twimg.com/media/GjfeAQWXkAAQ1kY.jpg,https://pbs.twimg.com/media/GjfeAQXWQAApnBL.jpg,https://pbs.twimg.com/media/GjfeAQWWgAA0oQ4.jpg,https://pbs.twimg.com/media/GjfeAQVXMAAZ7en.jpg",
+1889222518265028707,"JS Cheatsheet 
+Check threads 🧵 for more 👇👇👇 https://t.co/BlSMzckUKV",https://x.com/freshakafrancis/status/1889222518265028707,tweet,Døzie,@freshakafrancis,2,0,0,10,1583,4,2025-02-11 13:28:43,"https://pbs.twimg.com/media/Gjfd3DbWQAAFPh9.jpg,https://pbs.twimg.com/media/Gjfd3EDXsAAizn0.jpg,https://pbs.twimg.com/media/Gjfd3DbX0AAHpjA.jpg,https://pbs.twimg.com/media/Gjfd3DbWMAA3zJu.jpg",
+1888882356917850376,@AnkitExceler Does,https://x.com/freshakafrancis/status/1888882356917850376,tweet,Døzie,@freshakafrancis,0,0,0,1,9,0,2025-02-10 14:57:02,,
+1888802040521855142,@zakigraphyy Connected,https://x.com/freshakafrancis/status/1888802040521855142,tweet,Døzie,@freshakafrancis,0,0,0,0,5,0,2025-02-10 09:37:53,,
+1888610695282925794,https://t.co/McbbnFVdWG,https://x.com/freshakafrancis/status/1888610695282925794,tweet,Døzie,@freshakafrancis,1,0,0,3,75,0,2025-02-09 20:57:33,"https://pbs.twimg.com/media/GjWxaLuXMAAtn9Z.jpg,https://pbs.twimg.com/media/GjWxaLzXQAEB6Zg.jpg,https://pbs.twimg.com/media/GjWxaLvWAAA-8ro.jpg,https://pbs.twimg.com/media/GjWxaLvXkAAqTg6.jpg",
+1888610532011184479,"JS local storage ❤️ 
+Check threads for more👇👇👇 https://t.co/kvoImSKwQW",https://x.com/freshakafrancis/status/1888610532011184479,tweet,Døzie,@freshakafrancis,1,0,0,3,698,1,2025-02-09 20:56:54,"https://pbs.twimg.com/media/GjWxQtXW0AECD89.jpg,https://pbs.twimg.com/media/GjWxQtaWgAAd6RI.jpg,https://pbs.twimg.com/media/GjWxQtaXEAEWhUS.jpg,https://pbs.twimg.com/media/GjWxQtXXgAETuRy.jpg",
+1888609882108043666,@RohanPatil30831 Connected,https://x.com/freshakafrancis/status/1888609882108043666,tweet,Døzie,@freshakafrancis,0,0,0,1,14,0,2025-02-09 20:54:19,,
+1888297710752534642,@dimpleranax Done,https://x.com/freshakafrancis/status/1888297710752534642,tweet,Døzie,@freshakafrancis,0,0,0,0,6,0,2025-02-09 00:13:51,,
+1888284895731933221,@mjovanc Free Luigi mangione,https://x.com/freshakafrancis/status/1888284895731933221,tweet,Døzie,@freshakafrancis,0,1,0,4,418,0,2025-02-08 23:22:56,,
+1888273171427582358,@dev_zhg Connected,https://x.com/freshakafrancis/status/1888273171427582358,tweet,Døzie,@freshakafrancis,1,0,0,1,8,0,2025-02-08 22:36:21,,
+1888175469440184707,@maisu51340 Done,https://x.com/freshakafrancis/status/1888175469440184707,tweet,Døzie,@freshakafrancis,0,0,0,0,5,0,2025-02-08 16:08:07,,
+1888139797731913730,https://t.co/r6Nk0PYndO,https://x.com/freshakafrancis/status/1888139797731913730,tweet,Døzie,@freshakafrancis,0,0,0,4,101,0,2025-02-08 13:46:22,"https://pbs.twimg.com/media/GjQFGhtWQAArE82.jpg,https://pbs.twimg.com/media/GjQFGhuWUAAZzKv.jpg,https://pbs.twimg.com/media/GjQFGhsWEAAM9UR.jpg,https://pbs.twimg.com/media/GjQFGhvWgAABpZg.jpg",
+1888139634279883053,"React Hook Cheatsheet 
+Check 🧵 for more 👇👇 https://t.co/9xStT5ts44",https://x.com/freshakafrancis/status/1888139634279883053,tweet,Døzie,@freshakafrancis,4,0,1,21,5967,6,2025-02-08 13:45:43,"https://pbs.twimg.com/media/GjQE-kRW8AAMDnR.jpg,https://pbs.twimg.com/media/GjQE-kOX0AAhTEB.jpg,https://pbs.twimg.com/media/GjQE-kNW8AAgbj5.jpg,https://pbs.twimg.com/media/GjQE-kQW8AAjY0s.jpg",
+1888139047513522418,@coding_genius1 Connected,https://x.com/freshakafrancis/status/1888139047513522418,tweet,Døzie,@freshakafrancis,0,0,0,1,11,0,2025-02-08 13:43:23,,
+1887480239866991042,@Amey___14 Done,https://x.com/freshakafrancis/status/1887480239866991042,tweet,Døzie,@freshakafrancis,0,0,0,0,2,0,2025-02-06 18:05:31,,
+1887480230845071727,@Amutehjnr Connected,https://x.com/freshakafrancis/status/1887480230845071727,tweet,Døzie,@freshakafrancis,0,0,0,0,8,0,2025-02-06 18:05:29,,
+1887479779978281427,@Ashishjha4265 Follow back,https://x.com/freshakafrancis/status/1887479779978281427,tweet,Døzie,@freshakafrancis,1,0,0,1,24,0,2025-02-06 18:03:41,,
+1887479729860555252,@Aashim_Limbu Connected,https://x.com/freshakafrancis/status/1887479729860555252,tweet,Døzie,@freshakafrancis,0,0,0,1,8,0,2025-02-06 18:03:29,,
+1887479659912135027,@CHASINGDRE32482 COnnected,https://x.com/freshakafrancis/status/1887479659912135027,tweet,Døzie,@freshakafrancis,1,0,0,0,7,0,2025-02-06 18:03:13,,
+1887478656525644036,https://t.co/zC9uj8feD7,https://x.com/freshakafrancis/status/1887478656525644036,tweet,Døzie,@freshakafrancis,0,0,0,2,67,0,2025-02-06 17:59:14,"https://pbs.twimg.com/media/GjGr0OJXEAERZvp.jpg,https://pbs.twimg.com/media/GjGr0OHXoAA5eTr.jpg",
+1887478568898220287,Check the threads for more https://t.co/3fHtNmTM7w,https://x.com/freshakafrancis/status/1887478568898220287,tweet,Døzie,@freshakafrancis,2,0,0,7,2150,4,2025-02-06 17:58:53,"https://pbs.twimg.com/media/GjGrv0OWQAA1lcF.jpg,https://pbs.twimg.com/media/GjGrv0NXcAAWXIT.jpg,https://pbs.twimg.com/media/GjGrv0PWAAAr_Mb.jpg,https://pbs.twimg.com/media/GjGrv0OWMAA8YuR.jpg",
+1887177495851532310,@joomwebcentral Connected,https://x.com/freshakafrancis/status/1887177495851532310,tweet,Døzie,@freshakafrancis,2,0,0,2,12,0,2025-02-05 22:02:31,,
+1887034361884639467,https://t.co/cZz1uewkAx,https://x.com/freshakafrancis/status/1887034361884639467,tweet,Døzie,@freshakafrancis,0,0,0,0,59,0,2025-02-05 12:33:45,https://pbs.twimg.com/media/GjAXvo-WUAAzEX-.jpg,
+1887034317349527685,https://t.co/X44vdI2Y2a,https://x.com/freshakafrancis/status/1887034317349527685,tweet,Døzie,@freshakafrancis,0,0,0,0,39,0,2025-02-05 12:33:35,"https://pbs.twimg.com/media/GjAXtEOWYAAmUXN.jpg,https://pbs.twimg.com/media/GjAXtEPXMAAZI-n.jpg,https://pbs.twimg.com/media/GjAXtEPWsAA5tX2.jpg,https://pbs.twimg.com/media/GjAXtEOWMAAbGvB.jpg",
+1887034185749020741,Check the threads 🧵 for more https://t.co/5VQQiniH3r,https://x.com/freshakafrancis/status/1887034185749020741,tweet,Døzie,@freshakafrancis,4,0,0,3,285,0,2025-02-05 12:33:03,"https://pbs.twimg.com/media/GjAXlRBW0AA3JQ7.jpg,https://pbs.twimg.com/media/GjAXlRAXIAAB7mZ.jpg,https://pbs.twimg.com/media/GjAXlQ_WYAAzhQx.jpg,https://pbs.twimg.com/media/GjAXlQ-W0AAS1bP.jpg",
+1887033738074136722,@Ashishjha4265 Done,https://x.com/freshakafrancis/status/1887033738074136722,tweet,Døzie,@freshakafrancis,2,0,0,0,14,0,2025-02-05 12:31:17,,
+1887033699302019139,@walidezzat90 Connected,https://x.com/freshakafrancis/status/1887033699302019139,tweet,Døzie,@freshakafrancis,0,0,0,0,4,0,2025-02-05 12:31:07,,
+1887033610865181086,@MotiurRahmandev Connected,https://x.com/freshakafrancis/status/1887033610865181086,tweet,Døzie,@freshakafrancis,1,0,0,1,29,0,2025-02-05 12:30:46,,
+1887033571912688092,@Vikasrajpoot_30 Connected,https://x.com/freshakafrancis/status/1887033571912688092,tweet,Døzie,@freshakafrancis,1,0,0,1,21,0,2025-02-05 12:30:37,,
+1886880585529876594,Tech in js https://t.co/rnbuUswBNd,https://x.com/freshakafrancis/status/1886880585529876594,tweet,Døzie,@freshakafrancis,1,0,1,6,503,3,2025-02-05 02:22:42,https://pbs.twimg.com/media/Gi-L4ZzXMAA918E.jpg,
+1886675624825147551,@devoptrix64941 Connected,https://x.com/freshakafrancis/status/1886675624825147551,tweet,Døzie,@freshakafrancis,1,0,0,1,12,0,2025-02-04 12:48:16,,
+1886444335090085941,@fabioNdev Connected,https://x.com/freshakafrancis/status/1886444335090085941,tweet,Døzie,@freshakafrancis,1,0,0,2,15,0,2025-02-03 21:29:12,,
+1886443818771206167,Check the threads 🧵 👇 for more https://t.co/DQg54bQyrS,https://x.com/freshakafrancis/status/1886443818771206167,tweet,Døzie,@freshakafrancis,2,0,0,4,609,1,2025-02-03 21:27:09,"https://pbs.twimg.com/media/Gi3-pYOWkAAWfzO.jpg,https://pbs.twimg.com/media/Gi3-pYOWcAAF8Mv.jpg,https://pbs.twimg.com/media/Gi3-pYPWEAAlldH.jpg,https://pbs.twimg.com/media/Gi3-pYQWcAAEckU.jpg",
+1886327774668894357,Bruh 💀💀 https://t.co/BxgW6BfkOy,https://x.com/freshakafrancis/status/1886327774668894357,tweet,Døzie,@freshakafrancis,0,0,0,1,139,1,2025-02-03 13:46:02,https://pbs.twimg.com/media/Gi2VGgjWMAAhXvb.jpg,
+1886042000027205894,React Cheatsheet Check the 🧵 https://t.co/8G9o5ilcDA,https://x.com/freshakafrancis/status/1886042000027205894,tweet,Døzie,@freshakafrancis,1,0,0,9,4147,6,2025-02-02 18:50:28,"https://pbs.twimg.com/media/GiyRMUYXwAAZdOh.jpg,https://pbs.twimg.com/media/GiyRMUZW4AAMQNw.jpg,https://pbs.twimg.com/media/GiyRMUYXwAEtgCo.jpg,https://pbs.twimg.com/media/GiyRMUZWAAAoZc6.jpg",
+1886041656891166804,@misbahuddin23_ Connected,https://x.com/freshakafrancis/status/1886041656891166804,tweet,Døzie,@freshakafrancis,0,0,0,1,10,0,2025-02-02 18:49:06,,
+1885636338679943503,https://t.co/CM0ySCGhdT,https://x.com/freshakafrancis/status/1885636338679943503,tweet,Døzie,@freshakafrancis,0,0,0,0,44,0,2025-02-01 15:58:31,"https://pbs.twimg.com/media/GisgP5sXMAAlCjP.jpg,https://pbs.twimg.com/media/GisgP5tXQAAqIaQ.jpg",
+1885636200368644489,Check thread for the remaining two https://t.co/7opJ4xw65a,https://x.com/freshakafrancis/status/1885636200368644489,tweet,Døzie,@freshakafrancis,1,0,0,1,69,0,2025-02-01 15:57:58,"https://pbs.twimg.com/media/GisgHyPXEAEtFjM.jpg,https://pbs.twimg.com/media/GisgHyRWEAAQNMg.jpg,https://pbs.twimg.com/media/GisgHyQX0AA-_0h.jpg,https://pbs.twimg.com/media/GisgHyQWQAAENZO.jpg",
+1885210277492191270,Js methods https://t.co/QesR6iSZiy,https://x.com/freshakafrancis/status/1885210277492191270,tweet,Døzie,@freshakafrancis,0,0,0,1,49,0,2025-01-31 11:45:30,"https://pbs.twimg.com/media/Gimcv9GXAAA1aMJ.jpg,https://pbs.twimg.com/media/Gimcv9GWQAAbweA.jpg,https://pbs.twimg.com/media/Gimcv9HWYAA-RhH.jpg,https://pbs.twimg.com/media/Gimcv9FXwAAQrjK.jpg",
+1885210085116273070,@parui_pratap Connected,https://x.com/freshakafrancis/status/1885210085116273070,tweet,Døzie,@freshakafrancis,0,0,0,0,10,0,2025-01-31 11:44:44,,
+1885087891585486918,VSCODE shortcut https://t.co/y72AQ7pYb1,https://x.com/freshakafrancis/status/1885087891585486918,tweet,Døzie,@freshakafrancis,0,0,1,2,93,1,2025-01-31 03:39:11,"https://pbs.twimg.com/media/Giktb-BWIAA7Aau.jpg,https://pbs.twimg.com/media/Giktb-FWcAAc0K1.jpg,https://pbs.twimg.com/media/Giktb-DW8AAGZhK.jpg,https://pbs.twimg.com/media/Giktb-CWkAAcbZn.jpg",
+1884321357384802736,@sane_aalam1 Connected,https://x.com/freshakafrancis/status/1884321357384802736,tweet,Døzie,@freshakafrancis,1,0,0,2,16,0,2025-01-29 00:53:15,,
+1884280893965230556,@safdarali___ Follow back,https://x.com/freshakafrancis/status/1884280893965230556,tweet,Døzie,@freshakafrancis,0,0,0,1,8,0,2025-01-28 22:12:28,,
+1884280824662745362,@PratikR61035 Connected,https://x.com/freshakafrancis/status/1884280824662745362,tweet,Døzie,@freshakafrancis,1,0,0,1,10,0,2025-01-28 22:12:11,,
+1884267727747174584,@claw_zord @X Connected,https://x.com/freshakafrancis/status/1884267727747174584,tweet,Døzie,@freshakafrancis,0,0,0,1,7,0,2025-01-28 21:20:08,,
+1884267686840177077,@ritik62042 Connected,https://x.com/freshakafrancis/status/1884267686840177077,tweet,Døzie,@freshakafrancis,0,0,0,1,6,0,2025-01-28 21:19:59,,
+1884267600261308560,@FarhanKhan_twt @X Connected,https://x.com/freshakafrancis/status/1884267600261308560,tweet,Døzie,@freshakafrancis,0,0,0,1,16,0,2025-01-28 21:19:38,,
+1884247033969795541,"Chinese are on fire
+2 crazy AI
+Is wild https://t.co/G5fgWmYMsb",https://x.com/freshakafrancis/status/1884247033969795541,tweet,Døzie,@freshakafrancis,0,0,0,1,104,0,2025-01-28 19:57:55,https://pbs.twimg.com/media/GiYwrsJX0AA7WxW.jpg,
+1884245352779505972,@thekhan__ Connected,https://x.com/freshakafrancis/status/1884245352779505972,tweet,Døzie,@freshakafrancis,1,0,0,1,11,0,2025-01-28 19:51:14,,
+1884163395760586871,"i just had to 😂😂, buh  thats the fact tho https://t.co/q2WuLtrPK1",https://x.com/freshakafrancis/status/1884163395760586871,tweet,Døzie,@freshakafrancis,1,0,1,2,100,0,2025-01-28 14:25:34,https://pbs.twimg.com/media/GiXkjrbXoAAJXzb.png,
+1884159036171620554,@Ashishjha4265 Connected,https://x.com/freshakafrancis/status/1884159036171620554,tweet,Døzie,@freshakafrancis,0,0,0,0,6,0,2025-01-28 14:08:14,,
+1884141472724967564,"Who else has tried Deepseek Ai
+
+What’s your feedback",https://x.com/freshakafrancis/status/1884141472724967564,tweet,Døzie,@freshakafrancis,0,0,0,1,68,0,2025-01-28 12:58:27,,
+1884102125770379545,@SandeepRout8797 @X Follow back,https://x.com/freshakafrancis/status/1884102125770379545,tweet,Døzie,@freshakafrancis,1,0,0,1,22,0,2025-01-28 10:22:06,,
+1884102021252538558,@NaimHossen72305 @X Follow back,https://x.com/freshakafrancis/status/1884102021252538558,tweet,Døzie,@freshakafrancis,0,0,0,0,18,0,2025-01-28 10:21:41,,
+1884101938666692799,@axaamd Connected,https://x.com/freshakafrancis/status/1884101938666692799,tweet,Døzie,@freshakafrancis,1,0,0,3,46,0,2025-01-28 10:21:21,,
+1884101812263039416,@Roshesh_DevX Connected,https://x.com/freshakafrancis/status/1884101812263039416,tweet,Døzie,@freshakafrancis,0,0,0,0,9,0,2025-01-28 10:20:51,,
+1884022881342136456,@digitalapriko Connected,https://x.com/freshakafrancis/status/1884022881342136456,tweet,Døzie,@freshakafrancis,1,0,0,1,4,0,2025-01-28 05:07:13,,
+1884022837708742805,@shivamcodes_ @X Connected,https://x.com/freshakafrancis/status/1884022837708742805,tweet,Døzie,@freshakafrancis,0,0,0,1,18,0,2025-01-28 05:07:02,,
+1883965009933574426,"@nikhilnagar29 @X Just followed you, do same",https://x.com/freshakafrancis/status/1883965009933574426,tweet,Døzie,@freshakafrancis,1,0,0,0,11,0,2025-01-28 01:17:15,,
+1883964919403655562,"@imnomandigital @X Web design here, connected",https://x.com/freshakafrancis/status/1883964919403655562,tweet,Døzie,@freshakafrancis,1,0,0,0,14,0,2025-01-28 01:16:53,,
+1883964830253736124,@NaimHossen72305 @X Done ✅,https://x.com/freshakafrancis/status/1883964830253736124,tweet,Døzie,@freshakafrancis,0,0,0,0,1,0,2025-01-28 01:16:32,,
+1883964766135410722,"@Parthstwt_ @X Web dev here, let’s connect",https://x.com/freshakafrancis/status/1883964766135410722,tweet,Døzie,@freshakafrancis,1,0,0,1,14,0,2025-01-28 01:16:17,,
+1883964702600081434,@DnyandeoShekade Connected,https://x.com/freshakafrancis/status/1883964702600081434,tweet,Døzie,@freshakafrancis,0,0,0,1,5,0,2025-01-28 01:16:02,,
+1883964629384298621,@AppLogiQ Connected,https://x.com/freshakafrancis/status/1883964629384298621,tweet,Døzie,@freshakafrancis,1,0,0,4,26,0,2025-01-28 01:15:44,,
+1883964561965080895,@donwolfonline Connected,https://x.com/freshakafrancis/status/1883964561965080895,tweet,Døzie,@freshakafrancis,1,0,0,0,14,0,2025-01-28 01:15:28,,
+1883964519950782729,"@afor_aman Developer here, connected",https://x.com/freshakafrancis/status/1883964519950782729,tweet,Døzie,@freshakafrancis,0,0,0,0,5,0,2025-01-28 01:15:18,,
+1883964445170503757,@nikitavijay2006 @X Follow back,https://x.com/freshakafrancis/status/1883964445170503757,tweet,Døzie,@freshakafrancis,0,0,0,0,14,0,2025-01-28 01:15:00,,
+1883964359929627037,"@izeng_mac Connected, do same too",https://x.com/freshakafrancis/status/1883964359929627037,tweet,Døzie,@freshakafrancis,0,0,0,1,12,0,2025-01-28 01:14:40,,
+1883964241486700610,@itsniharsharma @X Follow back,https://x.com/freshakafrancis/status/1883964241486700610,tweet,Døzie,@freshakafrancis,0,0,0,1,3,0,2025-01-28 01:14:12,,
+1883964184674861356,"@MdKhalidAl11992 @X @kirat_tw Fullstack here, let’s connect",https://x.com/freshakafrancis/status/1883964184674861356,tweet,Døzie,@freshakafrancis,0,0,0,0,10,0,2025-01-28 01:13:58,,
+1883964124750831949,@Anshchoudhary_1 Done ✅,https://x.com/freshakafrancis/status/1883964124750831949,tweet,Døzie,@freshakafrancis,1,0,0,0,7,0,2025-01-28 01:13:44,,
+1883964050079642000,"@itsniharsharma @X Ai and ML, connected",https://x.com/freshakafrancis/status/1883964050079642000,tweet,Døzie,@freshakafrancis,0,0,0,0,9,0,2025-01-28 01:13:26,,
+1883963978394788242,@cybervikash_ Connected follow back bro,https://x.com/freshakafrancis/status/1883963978394788242,tweet,Døzie,@freshakafrancis,0,0,0,1,6,0,2025-01-28 01:13:09,,
+1883963915018928275,@integer2string Connected,https://x.com/freshakafrancis/status/1883963915018928275,tweet,Døzie,@freshakafrancis,0,0,0,0,10,0,2025-01-28 01:12:54,,
+1883963811826393577,"@nikitavijay2006 @X Ai here, connected",https://x.com/freshakafrancis/status/1883963811826393577,tweet,Døzie,@freshakafrancis,0,0,0,1,12,0,2025-01-28 01:12:29,,
+1883963631110611066,@Ashusahoo_1 Connected,https://x.com/freshakafrancis/status/1883963631110611066,tweet,Døzie,@freshakafrancis,0,0,0,0,12,0,2025-01-28 01:11:46,,
+1883813879983280417,@timchengb connected,https://x.com/freshakafrancis/status/1883813879983280417,tweet,Døzie,@freshakafrancis,0,0,0,0,8,0,2025-01-27 15:16:43,,
+1883474058433773746,What Dey would never teach you in college 😂 https://t.co/1UrF7vJ4tQ,https://x.com/freshakafrancis/status/1883474058433773746,tweet,Døzie,@freshakafrancis,1,0,0,5,1789,0,2025-01-26 16:46:23,https://pbs.twimg.com/media/GiNxqvzWAAAZDUq.jpg,
+1883473027926815215,@ab_salam82 @X Follow back,https://x.com/freshakafrancis/status/1883473027926815215,tweet,Døzie,@freshakafrancis,1,0,0,0,11,0,2025-01-26 16:42:17,,
+1883472892459090119,@Iyke0x Connected,https://x.com/freshakafrancis/status/1883472892459090119,tweet,Døzie,@freshakafrancis,1,0,0,1,8,0,2025-01-26 16:41:45,,
+1882964768560218518,@ab_salam82 Connected,https://x.com/freshakafrancis/status/1882964768560218518,tweet,Døzie,@freshakafrancis,1,0,0,1,19,0,2025-01-25 07:02:39,,
+1882882342223847474,@imharshsr Connected,https://x.com/freshakafrancis/status/1882882342223847474,tweet,Døzie,@freshakafrancis,1,0,0,1,8,0,2025-01-25 01:35:07,,
+1882342829336535200,@sonam_murarkar Fullstack,https://x.com/freshakafrancis/status/1882342829336535200,tweet,Døzie,@freshakafrancis,0,0,0,0,8,0,2025-01-23 13:51:17,,
+1882342764974920120,@SandeepRout8797 @X Follow back,https://x.com/freshakafrancis/status/1882342764974920120,tweet,Døzie,@freshakafrancis,0,0,0,1,30,0,2025-01-23 13:51:02,,
+1882342599547306421,@Not_LokeshSingh @X Connected,https://x.com/freshakafrancis/status/1882342599547306421,tweet,Døzie,@freshakafrancis,1,0,0,1,18,0,2025-01-23 13:50:22,,
+1882193381662863393,@Prajwald012 Connected,https://x.com/freshakafrancis/status/1882193381662863393,tweet,Døzie,@freshakafrancis,1,0,0,1,10,0,2025-01-23 03:57:26,,
+1882184759578951715,"used daisy ui for the chat bubble, try out daisy ui next devs https://t.co/DLHSgOkmd3",https://x.com/freshakafrancis/status/1882184759578951715,tweet,Døzie,@freshakafrancis,0,0,0,4,808,0,2025-01-23 03:23:10,https://pbs.twimg.com/media/Gh7dCQSX0AAQiSO.jpg,
+1882114543931044059,@mxdhxn13 Connected,https://x.com/freshakafrancis/status/1882114543931044059,tweet,Døzie,@freshakafrancis,0,0,0,0,36,0,2025-01-22 22:44:09,,
+1882076686000463944,@AyushSingh1738 @X Connected,https://x.com/freshakafrancis/status/1882076686000463944,tweet,Døzie,@freshakafrancis,0,0,0,0,34,0,2025-01-22 20:13:43,,

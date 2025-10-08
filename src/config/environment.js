@@ -30,6 +30,10 @@ const config = {
     EMAIL_USER : process.env.EMAIL_USER || "",
     EMAIL_PASS : process.env.EMAIL_PASS || "",
 
+    //oauth
+    GOOGLE_CLIENT_ID : process.env.GOOGLE_CLIENT_ID || "",
+    GOOGLE_CLIENT_SECRET : process.env.GOOGLE_CLIENT_SECRET || ""
+
 }
 const requriedEnvVars = ["JWT_SECRET"]
 
@@ -39,8 +43,8 @@ if (config.NODE_ENV === "production") {
 
 requriedEnvVars.forEach((varName) => {
     if (!process.env[varName]) {
-        console.log("Required Environment variable is not present", varName)
-        process.exitCode = 1
+        console.error(`❌ ERROR: Required environment variable '${varName}' is not set!`)
+        process.exit(1)
     }
 })
 

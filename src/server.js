@@ -8,10 +8,11 @@ dotenv.config()
 
 const config = require("./config/environment")
 const logger = require("./utils/logger")
-connectToDatabase = require("./models/connectDatabase")
+const connectToDatabase = require("./models/connectDatabase")
 
 
 // routes
+const oauthRoutes = require("./routes/oauth.routes")
 const authRoutes = require("./routes/auth.routes")
 const exerciseRoutes = require("./routes/exercise.routes")
 const {requestContextMiddleware} = require("./middleware/error.middleware")
@@ -24,11 +25,10 @@ const app = express()
 
 connectToDatabase()
 
-
 //middlewares
 app.use(helmet())
 app.use(cors({
-    origin: config.FRONTEND_URL,
+    origin: [config.FRONTEND_URL,"http://localhost:5173"],
     allowedHeaders: ["Content-Type", "Authorization"],
     methods: ["GET", "PUT", "POST", "DELETE", "OPTIONS"],
     credentials: true
@@ -65,6 +65,7 @@ app.get("/health", (req, res) => {
         version: "1.0.0"
     })
 })
+app.use("/api/v1/auth",oauthRoutes)
 app.use("/api/v1/auth", authRoutes)
 app.use("/api/v1/exercises", verifyToken,verifyEmailWithGrace, exerciseRoutes)
 
