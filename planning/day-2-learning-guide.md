@@ -1,4 +1,4 @@
-# Day 2 Learning Guide: The Login & JWT Challenge
+      # Day 2 Learning Guide: The Login & JWT Challenge
 ## Problem Discovery & Requirements
 
 ### 🔥 **The Story: The Trust Crisis**

@@ -9,8 +9,8 @@ const userSchema = mongoose.Schema(
     },
     password: {
       type: String,
-      required: true,
     },
+    emailVerified: { type: Boolean, default: false },
     oauthProviders: [{
     provider: { type: String, enum: ['google', 'github', 'apple'] },
     providerId: String, // User's ID in that provider
@@ -23,8 +23,8 @@ const userSchema = mongoose.Schema(
   }],
     emailVerified: {type :Boolean,default : false}, 
     emailVerifiedAt: {type : Date},
-    emailVerificationToken: {type : String,require:true},
-    emailVerificationExpiry: {type : Date,required : true},
+    emailVerificationToken: {type : String},
+    emailVerificationExpiry: {type : Date},
     verificationReminderSent: {type : Boolean,default :false}, // Track reminders
     verificationReminderSentAt: {type : Date},
   },

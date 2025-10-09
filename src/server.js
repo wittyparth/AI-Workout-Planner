@@ -1,3 +1,17 @@
+// Global error handlers - catch ALL errors including module loading errors
+process.on('uncaughtException', (error) => {
+    console.error('❌ UNCAUGHT EXCEPTION - Server crashed during startup!');
+    console.error('Error:', error.message);
+    console.error('Stack:', error.stack);
+    process.exit(1);
+});
+
+process.on('unhandledRejection', (reason, promise) => {
+    console.error('❌ UNHANDLED REJECTION - Async error during startup!');
+    console.error('Reason:', reason);
+    process.exit(1);
+});
+
 const express = require("express")
 const helmet = require("helmet")
 const dotenv = require("dotenv")
@@ -21,8 +35,7 @@ const { rateLimiter } = require("./middleware/ratelimit.middleware")
 
 const app = express()
 
-
-
+try {
 connectToDatabase()
 
 //middlewares
@@ -97,3 +110,6 @@ process.on("SIGTERM", async () => {
 })
 
 module.exports = app
+} catch (error) {
+    logger.error("Error occurred while starting the server", error);
+}
