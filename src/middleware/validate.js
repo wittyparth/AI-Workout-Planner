@@ -5,7 +5,7 @@ const ResponseUtil = require("../utils/response")
 const validate = (schema) => {
     return (req, res, next) => {
         try {
-            const sanitizedBody = zod.parse(schema, req.body)
+            const sanitizedBody = schema.parse(req.body)
             req.body = sanitizedBody
             next()
         }

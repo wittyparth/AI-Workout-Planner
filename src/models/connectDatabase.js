@@ -12,7 +12,7 @@ async function connectToDatabase() {
         }
     } catch (error) {
         logger.error(`Error connecting to database: ${error.message}`, error);
-        return error
+        throw error
     }
 }
 

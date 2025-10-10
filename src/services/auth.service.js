@@ -40,7 +40,6 @@ class authService {
                     userId: userData._id,
                     expiresAt: new Date(Date.now() + 30 * 60 * 1000),
                 }
-                console.log(tokenObj)
 
                 try {
                     await RefreshTokenModel.create(tokenObj)

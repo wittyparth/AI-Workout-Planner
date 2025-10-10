@@ -23,6 +23,7 @@
   "author": "Partha Saradhi Munakala",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.12.2",
     "bcryptjs": "^3.0.2",
     "bullmq": "^5.61.0",
     "compression": "^1.8.1",
@@ -32,6 +33,7 @@
     "express": "^5.1.0",
     "express-rate-limit": "^8.1.0",
     "express-validator": "^7.2.1",
+    "google-auth-library": "^10.4.0",
     "helmet": "^8.1.0",
     "ioredis": "^5.8.0",
     "joi": "^18.0.1",

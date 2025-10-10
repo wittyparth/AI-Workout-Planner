@@ -1,3 +1,17 @@
+// Global error handlers - catch ALL errors including module loading errors
+process.on('uncaughtException', (error) => {
+    console.error('❌ UNCAUGHT EXCEPTION - Server crashed during startup!');
+    console.error('Error:', error.message);
+    console.error('Stack:', error.stack);
+    process.exit(1);
+});
+
+process.on('unhandledRejection', (reason, promise) => {
+    console.error('❌ UNHANDLED REJECTION - Async error during startup!');
+    console.error('Reason:', reason);
+    process.exit(1);
+});
+
 const express = require("express")
 const helmet = require("helmet")
 const dotenv = require("dotenv")
@@ -8,10 +22,11 @@ dotenv.config()
 
 const config = require("./config/environment")
 const logger = require("./utils/logger")
-connectToDatabase = require("./models/connectDatabase")
+const connectToDatabase = require("./models/connectDatabase")
 
 
 // routes
+const oauthRoutes = require("./routes/oauth.routes")
 const authRoutes = require("./routes/auth.routes")
 const exerciseRoutes = require("./routes/exercise.routes")
 const {requestContextMiddleware} = require("./middleware/error.middleware")
@@ -20,15 +35,13 @@ const { rateLimiter } = require("./middleware/ratelimit.middleware")
 
 const app = express()
 
-
-
+try {
 connectToDatabase()
-
 
 //middlewares
 app.use(helmet())
 app.use(cors({
-    origin: config.FRONTEND_URL,
+    origin: [config.FRONTEND_URL,"http://localhost:5173"],
     allowedHeaders: ["Content-Type", "Authorization"],
     methods: ["GET", "PUT", "POST", "DELETE", "OPTIONS"],
     credentials: true
@@ -65,6 +78,7 @@ app.get("/health", (req, res) => {
         version: "1.0.0"
     })
 })
+app.use("/api/v1/auth",oauthRoutes)
 app.use("/api/v1/auth", authRoutes)
 app.use("/api/v1/exercises", verifyToken,verifyEmailWithGrace, exerciseRoutes)
 
@@ -96,3 +110,6 @@ process.on("SIGTERM", async () => {
 })
 
 module.exports = app
+} catch (error) {
+    logger.error("Error occurred while starting the server", error);
+}
