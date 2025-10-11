@@ -26,12 +26,14 @@ const connectToDatabase = require("./models/connectDatabase")
 
 
 // routes
+const securityRouter = require("./routes/security.routes")
 const oauthRoutes = require("./routes/oauth.routes")
-const authRoutes = require("./routes/auth.routes")
+const authRoutes = require("./routes/auth.routes")s
 const exerciseRoutes = require("./routes/exercise.routes")
 const {requestContextMiddleware} = require("./middleware/error.middleware")
-const {verifyToken,verifyEmailWithGrace, verifyEmail} = require("./middleware/auth.middleware")
-const { rateLimiter } = require("./middleware/ratelimit.middleware")
+const {verifyToken,verifyEmailWithGrace, verifyEmail, getHelmetMiddleware} = require("./middleware/auth.middleware")
+const { rateLimiter } = require("./middleware/ratelimit.middleware");
+const { swaggerUi, openApiDoc } = require("./config/swagger");
 
 const app = express()
 
@@ -39,7 +41,7 @@ try {
 connectToDatabase()
 
 //middlewares
-app.use(helmet())
+app.use(helmet(getHelmetMiddleware))
 app.use(cors({
     origin: [config.FRONTEND_URL,"http://localhost:5173"],
     allowedHeaders: ["Content-Type", "Authorization"],
@@ -78,6 +80,7 @@ app.get("/health", (req, res) => {
         version: "1.0.0"
     })
 })
+app.use("/api/v1/security",securityRouter)
 app.use("/api/v1/auth",oauthRoutes)
 app.use("/api/v1/auth", authRoutes)
 app.use("/api/v1/exercises", verifyToken,verifyEmailWithGrace, exerciseRoutes)
@@ -91,7 +94,7 @@ app.use("/:path", (req, res) => {
     })
 })
 
-// app.use(errorHandler)
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(openApiDoc));
 
 
 

@@ -1,4 +1,5 @@
-const { JWT_SECRET } = require("../config/environment")
+const { JWT_SECRET, NODE_ENV } = require("../config/environment")
+const securityConfig = require("../config/security")
 const User = require("../models/user.models")
 const logger = require("../utils/logger")
 const ResponseUtil = require("../utils/response")
@@ -74,6 +75,21 @@ const verifyEmailWithGrace = (graceDays = 7) => {
       action: 'verify_email'
     });
   };
+
+}
+const getHelmetMiddleware = (env="production") => {
+  try {
+    if(env === "development"){
+      return {
+        ...securityConfig,
+        hsts : false,
+        contentScurityPolicy : false
+      }
+    }
+    return securityConfig
+  } catch (error) {
+    logger.error(`Error while getting the middlewares`,error)
+  }
 }
 
-module.exports = {verifyToken,verifyEmail,verifyEmailWithGrace}
+module.exports = {verifyToken,verifyEmail,verifyEmailWithGrace,getHelmetMiddleware}
