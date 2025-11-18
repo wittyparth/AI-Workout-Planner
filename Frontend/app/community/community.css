@@ -1,0 +1,153 @@
+/* Community Workouts Enhancements */
+
+.workout-card {
+  transition: all 0.3s ease;
+  border: 1px solid hsl(var(--border));
+  background: hsl(var(--card));
+}
+
+.workout-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+  border-color: hsl(var(--primary) / 0.2);
+}
+
+.workout-thumbnail {
+  transition: transform 0.3s ease;
+}
+
+.workout-card:hover .workout-thumbnail {
+  transform: scale(1.05);
+}
+
+.creator-badge {
+  background: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(var(--primary) / 0.8) 100%);
+  color: hsl(var(--primary-foreground));
+}
+
+.difficulty-badge {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.difficulty-beginner {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  color: white;
+}
+
+.difficulty-intermediate {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+  color: white;
+}
+
+.difficulty-advanced {
+  background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+  color: white;
+}
+
+.action-button {
+  transition: all 0.2s ease;
+}
+
+.action-button:hover {
+  transform: translateY(-1px);
+}
+
+.like-button.liked {
+  background: linear-gradient(135deg, #f87171 0%, #ef4444 100%);
+  border-color: #ef4444;
+  color: white;
+}
+
+.bookmark-button.bookmarked {
+  background: linear-gradient(135deg, #60a5fa 0%, #3b82f6 100%);
+  border-color: #3b82f6;
+  color: white;
+}
+
+.stats-card {
+  background: linear-gradient(135deg, hsl(var(--background)) 0%, hsl(var(--muted) / 0.5) 100%);
+  border: 1px solid hsl(var(--border));
+}
+
+.workout-grid {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.search-input:focus {
+  border-color: hsl(var(--primary));
+  box-shadow: 0 0 0 3px hsl(var(--primary) / 0.1);
+}
+
+.filter-select:focus {
+  border-color: hsl(var(--primary));
+  box-shadow: 0 0 0 3px hsl(var(--primary) / 0.1);
+}
+
+.creator-avatar {
+  border: 2px solid hsl(var(--primary) / 0.2);
+  transition: border-color 0.2s ease;
+}
+
+.workout-card:hover .creator-avatar {
+  border-color: hsl(var(--primary));
+}
+
+.tag-badge {
+  background: hsl(var(--secondary));
+  color: hsl(var(--secondary-foreground));
+  transition: all 0.2s ease;
+}
+
+.tag-badge:hover {
+  background: hsl(var(--primary));
+  color: hsl(var(--primary-foreground));
+  transform: scale(1.05);
+}
+
+.pulse-animation {
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .workout-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .filters-container {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+}

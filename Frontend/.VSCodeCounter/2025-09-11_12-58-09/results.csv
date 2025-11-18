@@ -1,0 +1,148 @@
+"filename", "language", "JSON with Comments", "TypeScript", "Markdown", "JSON", "JavaScript", "PostCSS", "YAML", "XML", "TypeScript JSX", "comment", "blank", "total"
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\.github\copoilot-instrctions.md", "Markdown", 0, 0, 75, 0, 0, 0, 0, 0, 0, 0, 32, 107
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\COMMUNITY_WORKOUTS_README.md", "Markdown", 0, 0, 92, 0, 0, 0, 0, 0, 0, 0, 16, 108
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\ELITE-REACT-MASTERY-PLAN.md", "Markdown", 0, 0, 938, 0, 0, 0, 0, 0, 0, 0, 180, 1118
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\PREMIUM-LANDING-PAGE-PLAN.md", "Markdown", 0, 0, 337, 0, 0, 0, 0, 0, 0, 0, 68, 405
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\PROJECT_DESCRIPTION.md", "Markdown", 0, 0, 243, 0, 0, 0, 0, 0, 0, 0, 53, 296
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\REACT-OPTIMIZATION-ROADMAP.md", "Markdown", 0, 0, 395, 0, 0, 0, 0, 0, 0, 0, 116, 511
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\README.md", "Markdown", 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 13, 31
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\STATE-ARCHITECTURE.md", "Markdown", 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\TEMPLATE-PLAN.md", "Markdown", 0, 0, 365, 0, 0, 0, 0, 0, 0, 0, 66, 431
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\ai-coach\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 853, 16, 37, 906
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\ai-routines\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 661, 15, 35, 711
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\components\AnalyticsHeader.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 73, 1, 10, 84
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\components\AnalyticsOverview.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 220, 13, 17, 250
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\components\ExerciseSelector.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 79, 2, 8, 89
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\components\ProgressPhotos.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 229, 7, 15, 251
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\components\charts\BodyWeightChart.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 188, 4, 12, 204
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\components\charts\CaloriesBurnedChart.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 270, 7, 19, 296
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\components\charts\ConsistencyHeatmap.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 234, 12, 27, 273
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\components\charts\PersonalRecordsChart.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 123, 3, 9, 135
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\components\charts\StrengthProgressionChart.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 121, 1, 9, 131
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\components\charts\VolumeProgressionChart.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 241, 6, 13, 260
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\components\charts\WorkoutFrequencyChart.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 271, 7, 23, 301
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\data\mockData.ts", "TypeScript", 0, 163, 0, 0, 0, 0, 0, 0, 0, 12, 17, 192
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 150, 5, 18, 173
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\analytics\types\index.ts", "TypeScript", 0, 95, 0, 0, 0, 0, 0, 0, 0, 0, 11, 106
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\auth\forgot-password\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 146, 3, 13, 162
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\auth\login\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 232, 2, 18, 252
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\auth\register\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 355, 2, 26, 383
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\community\community.css", "PostCSS", 0, 0, 0, 0, 0, 123, 0, 0, 0, 2, 29, 154
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\community\loading.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\community\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 927, 13, 38, 978
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\globals.css", "PostCSS", 0, 0, 0, 0, 0, 624, 0, 0, 0, 110, 116, 850
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\goals\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 476, 2, 28, 506
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\landing\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 19, 0, 3, 22
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 59, 0, 3, 62
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\linear-overrides.css", "PostCSS", 0, 0, 0, 0, 0, 234, 0, 0, 0, 23, 51, 308
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\page-new.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 513, 10, 39, 562
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 503, 11, 37, 551
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\privacy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 233, 3, 14, 250
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\progress\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 777, 6, 37, 820
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\README.md", "Markdown", 0, 0, 118, 0, 0, 0, 0, 0, 0, 0, 28, 146
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\components\ExerciseBuilderStep.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 334, 8, 31, 373
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\components\ExerciseSelectionModal.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 360, 26, 36, 422
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\components\ReviewStep.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 272, 7, 21, 300
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\components\StepNavigation.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 196, 5, 16, 217
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\components\TemplateInfoStep.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 202, 6, 14, 222
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\components\WeeklyStructureStep.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 254, 6, 24, 284
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\components\index.ts", "TypeScript", 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 1, 8
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\constants\index.ts", "TypeScript", 0, 156, 0, 0, 0, 0, 0, 0, 0, 0, 6, 162
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\context\TemplateBuilderContext.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 205, 13, 38, 256
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\data\exercises.ts", "TypeScript", 0, 388, 0, 0, 0, 0, 0, 0, 0, 7, 8, 403
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\hooks\useTemplateBuilder.ts", "TypeScript", 0, 86, 0, 0, 0, 0, 0, 0, 0, 5, 15, 106
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\hooks\useTemplateBuilderOptimized.ts", "TypeScript", 0, 275, 0, 0, 0, 0, 0, 0, 0, 22, 52, 349
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\page-new.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 197, 13, 22, 232
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\page-old.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 995, 33, 78, 1106
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\builder\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 173, 40, 22, 235
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\templates\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 432, 13, 37, 482
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\terms\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 172, 3, 13, 188
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\timer\components\ExerciseHeader.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 133, 0, 4, 137
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\timer\components\RestTimer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 90, 0, 5, 95
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\timer\components\SetInput.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 647, 30, 29, 706
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\timer\components\WorkoutProgress.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 56, 0, 4, 60
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\timer\data\sampleWorkout.ts", "TypeScript", 0, 176, 0, 0, 0, 0, 0, 0, 0, 0, 2, 178
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\timer\hooks\useWorkoutTimer.ts", "TypeScript", 0, 355, 0, 0, 0, 0, 0, 0, 0, 17, 49, 421
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\timer\page-new-timer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 732, 19, 38, 789
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\timer\page-old.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 1034, 29, 48, 1111
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\timer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 654, 19, 38, 711
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\timer\types\workout.ts", "TypeScript", 0, 64, 0, 0, 0, 0, 0, 0, 0, 0, 5, 69
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\workouts\create\loading.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 115, 4, 12, 131
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\workouts\create\page-optimized.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 378, 19, 44, 441
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\workouts\create\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 425, 12, 41, 478
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\workouts\loading.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\app\workouts\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 906, 10, 62, 978
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components.json", "JSON", 0, 0, 0, 21, 0, 0, 0, 0, 0, 0, 1, 22
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\app-header.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 74, 0, 11, 85
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\landing\bento-grid.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 67, 0, 10, 77
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\landing\cta-section.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 52, 0, 7, 59
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\landing\features-section.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 151, 0, 11, 162
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\landing\footer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 117, 3, 7, 127
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\landing\header.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 111, 5, 10, 126
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\landing\hero-section.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 79, 1, 8, 88
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\landing\testimonials-section.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 112, 1, 9, 122
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\animated-beam.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 167, 6, 15, 188
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\animated-gradient-text.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 35, 0, 3, 38
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\animated-shiny-text.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 32, 2, 8, 42
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\animated-subscribe-button.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 96, 0, 7, 103
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\animated-theme-toggler.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 46, 0, 8, 54
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\aurora-text.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 68, 0, 8, 76
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\blur-fade.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 77, 0, 5, 82
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\border-beam.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 75, 0, 5, 80
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\dock.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 81, 0, 17, 98
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\globe.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 115, 0, 14, 129
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\interactive-hover-button.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 32, 0, 4, 36
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\magic-card.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 97, 0, 12, 109
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\marquee.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 52, 0, 5, 57
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\meteors.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 53, 2, 6, 61
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\neon-gradient-card.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 98, 36, 16, 150
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\number-ticker.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 8, 68
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\particles.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 273, 5, 36, 314
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\shimmer-button.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 78, 8, 11, 97
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\shine-border.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 41, 17, 5, 63
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\magicui\text-animate.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 369, 37, 13, 419
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\shared\Header.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\theme-provider.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 4, 16
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\theme-toggle.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 32, 0, 7, 39
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\accordion.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 59, 0, 8, 67
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\alert.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 60, 0, 7, 67
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\avatar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 7, 54
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\badge.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 41, 0, 6, 47
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\button.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 54, 0, 6, 60
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\card.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 83, 0, 10, 93
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\chart.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 315, 2, 37, 354
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\checkbox.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 28, 0, 5, 33
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\dialog.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 130, 0, 14, 144
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\input.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 4, 22
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\label.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 20, 0, 5, 25
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\progress.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 27, 0, 5, 32
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\radio-group.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 40, 0, 6, 46
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\select.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 172, 0, 14, 186
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\separator.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 24, 0, 5, 29
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\sheet.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 126, 0, 14, 140
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\sidebar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 660, 12, 55, 727
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\skeleton.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 3, 14
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\switch.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 27, 0, 5, 32
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\tabs.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 59, 0, 8, 67
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\textarea.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 15, 0, 4, 19
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\components\ui\tooltip.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 54, 0, 8, 62
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\data\exercises\sample-exercises.ts", "TypeScript", 0, 305, 0, 0, 0, 0, 0, 0, 0, 0, 3, 308
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\data\templates\sample-templates.ts", "TypeScript", 0, 557, 0, 0, 0, 0, 0, 0, 0, 2, 3, 562
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\data\workouts\created-workouts.ts", "TypeScript", 0, 164, 0, 0, 0, 0, 0, 0, 0, 4, 9, 177
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\data\workouts\workout-data.ts", "TypeScript", 0, 230, 0, 0, 0, 0, 0, 0, 0, 0, 4, 234
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\emergency-fix.css", "PostCSS", 0, 0, 0, 0, 0, 41, 0, 0, 0, 5, 8, 54
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\hooks\use-mobile.ts", "TypeScript", 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 5, 20
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\lib\lighthouse-audit.ts", "TypeScript", 0, 56, 0, 0, 0, 0, 0, 0, 0, 1, 12, 69
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\lib\types\template.ts", "TypeScript", 0, 140, 0, 0, 0, 0, 0, 0, 0, 1, 13, 154
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\lib\types\workout-history.ts", "TypeScript", 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 4, 59
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\lib\utils.ts", "TypeScript", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\next.config.mjs", "JavaScript", 0, 0, 0, 0, 12, 0, 0, 0, 0, 1, 2, 15
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\package.json", "JSON", 0, 0, 0, 86, 0, 0, 0, 0, 0, 0, 0, 86
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\pnpm-lock.yaml", "YAML", 0, 0, 0, 0, 0, 0, 5626, 0, 0, 0, 1200, 6826
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\postcss.config.mjs", "JavaScript", 0, 0, 0, 0, 6, 0, 0, 0, 0, 1, 2, 9
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\public\placeholder-logo.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\public\placeholder.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\styles\globals.css", "PostCSS", 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 6, 126
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\tailwind.config.ts", "TypeScript", 0, 207, 0, 0, 0, 0, 0, 0, 0, 4, 3, 214
+"c:\Users\MunakalaParthaSaradh\Desktop\development\ReactJs-Advanced-Topics-Gemini\Fit-AI\tsconfig.json", "JSON with Comments", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 28
+"Total", "-", 27, 3498, 2590, 107, 18, 1142, 5626, 2, 21743, 821, 3929, 39503

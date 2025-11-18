@@ -1,0 +1,308 @@
+/* Linear Design System - Complete Override */
+
+/* Override Tailwind with Linear-specific styles */
+* {
+    font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
+    letter-spacing: -0.011em !important;
+}
+
+/* Linear Body Styling */
+body {
+    background: #0F0F10 !important;
+    color: #EEEFF1 !important;
+    line-height: 1.5 !important;
+    font-size: 14px !important;
+}
+
+/* Linear Sidebar Specific */
+[data-sidebar="sidebar"] {
+    background: #151516 !important;
+    border-right: 1px solid #2D3339 !important;
+    width: 260px !important;
+}
+
+/* Linear Navigation Items */
+[data-sidebar="sidebar"] a,
+[data-sidebar="sidebar"] button {
+    padding: 8px 12px !important;
+    border-radius: 6px !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    color: #9BA3B0 !important;
+    transition: all 0.15s ease !important;
+}
+
+[data-sidebar="sidebar"] a:hover,
+[data-sidebar="sidebar"] button:hover {
+    background: #1D1F23 !important;
+    color: #EEEFF1 !important;
+}
+
+[data-sidebar="sidebar"] a[data-active="true"],
+[data-sidebar="sidebar"] button[data-active="true"] {
+    background: #5E6AD2 !important;
+    color: #FFFFFF !important;
+}
+
+/* Linear Main Content */
+main {
+    background: #0F0F10 !important;
+    padding: 24px !important;
+}
+
+/* Linear Cards */
+[data-slot="card"] {
+    background: #151516 !important;
+    border: 1px solid #2D3339 !important;
+    border-radius: 8px !important;
+    padding: 16px !important;
+    box-shadow: none !important;
+}
+
+[data-slot="card"]:hover {
+    border-color: #3A404B !important;
+    transform: none !important;
+}
+
+/* Linear Buttons */
+[data-slot="button"] {
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    border-radius: 6px !important;
+    padding: 8px 16px !important;
+    transition: all 0.15s ease !important;
+}
+
+/* Primary Button - Linear Style */
+[data-slot="button"][data-variant="default"] {
+    background: #5E6AD2 !important;
+    color: #FFFFFF !important;
+    border: none !important;
+}
+
+[data-slot="button"][data-variant="default"]:hover {
+    background: #4E5BC7 !important;
+    transform: none !important;
+    box-shadow: none !important;
+}
+
+/* Secondary Button - Linear Style */
+[data-slot="button"][data-variant="outline"] {
+    background: transparent !important;
+    border: 1px solid #2D3339 !important;
+    color: #EEEFF1 !important;
+}
+
+[data-slot="button"][data-variant="outline"]:hover {
+    background: #1D1F23 !important;
+    border-color: #3A404B !important;
+}
+
+/* Ghost Button - Linear Style */
+[data-slot="button"][data-variant="ghost"] {
+    background: transparent !important;
+    color: #9BA3B0 !important;
+}
+
+[data-slot="button"][data-variant="ghost"]:hover {
+    background: #1D1F23 !important;
+    color: #EEEFF1 !important;
+}
+
+/* Linear Typography */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 600 !important;
+    letter-spacing: -0.025em !important;
+    color: #EEEFF1 !important;
+}
+
+h1 {
+    font-size: 28px !important;
+    line-height: 1.3 !important;
+}
+
+h2 {
+    font-size: 24px !important;
+    line-height: 1.4 !important;
+}
+
+h3 {
+    font-size: 20px !important;
+    line-height: 1.4 !important;
+}
+
+h4 {
+    font-size: 16px !important;
+    line-height: 1.5 !important;
+}
+
+p {
+    color: #9BA3B0 !important;
+    font-size: 14px !important;
+    line-height: 1.5 !important;
+}
+
+/* Linear Header */
+header {
+    background: #0F0F10 !important;
+    border-bottom: 1px solid #2D3339 !important;
+    padding: 12px 24px !important;
+    height: 60px !important;
+}
+
+/* Linear Stats Cards */
+.card-linear {
+    background: #151516 !important;
+    border: 1px solid #2D3339 !important;
+    border-radius: 8px !important;
+    padding: 20px !important;
+}
+
+.card-linear h3 {
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    color: #9BA3B0 !important;
+    margin-bottom: 8px !important;
+}
+
+.card-linear .text-2xl {
+    font-size: 28px !important;
+    font-weight: 700 !important;
+    color: #EEEFF1 !important;
+    line-height: 1.2 !important;
+}
+
+/* Linear Badge */
+[data-slot="badge"] {
+    background: #2D3339 !important;
+    color: #9BA3B0 !important;
+    border: none !important;
+    border-radius: 12px !important;
+    padding: 4px 8px !important;
+    font-size: 12px !important;
+    font-weight: 500 !important;
+}
+
+/* Linear Progress Bar */
+[data-slot="progress"] {
+    background: #2D3339 !important;
+    height: 6px !important;
+    border-radius: 3px !important;
+}
+
+[data-slot="progress"]>div {
+    background: #5E6AD2 !important;
+    border-radius: 3px !important;
+}
+
+/* Linear Input */
+[data-slot="input"] {
+    background: #151516 !important;
+    border: 1px solid #2D3339 !important;
+    color: #EEEFF1 !important;
+    border-radius: 6px !important;
+    padding: 8px 12px !important;
+    font-size: 14px !important;
+}
+
+[data-slot="input"]:focus {
+    border-color: #5E6AD2 !important;
+    box-shadow: 0 0 0 3px rgba(94, 106, 210, 0.15) !important;
+    outline: none !important;
+}
+
+[data-slot="input"]::placeholder {
+    color: #6B7380 !important;
+}
+
+/* Linear Scrollbar */
+::-webkit-scrollbar {
+    width: 6px !important;
+    height: 6px !important;
+}
+
+::-webkit-scrollbar-track {
+    background: #1D1F23 !important;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #5E6AD2 !important;
+    border-radius: 3px !important;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #4E5BC7 !important;
+}
+
+/* Linear specific overrides for gradients */
+.gradient-primary {
+    background: linear-gradient(135deg, #5E6AD2 0%, #8B5CF6 100%) !important;
+}
+
+/* Force Linear spacing */
+.p-3 {
+    padding: 12px !important;
+}
+
+.p-4 {
+    padding: 16px !important;
+}
+
+.p-6 {
+    padding: 24px !important;
+}
+
+.gap-2 {
+    gap: 8px !important;
+}
+
+.gap-3 {
+    gap: 12px !important;
+}
+
+.gap-4 {
+    gap: 16px !important;
+}
+
+.gap-6 {
+    gap: 24px !important;
+}
+
+/* Linear Text Colors */
+.text-muted-foreground {
+    color: #9BA3B0 !important;
+}
+
+.text-foreground {
+    color: #EEEFF1 !important;
+}
+
+.text-primary {
+    color: #5E6AD2 !important;
+}
+
+/* Linear Border Radius */
+.rounded-lg {
+    border-radius: 8px !important;
+}
+
+.rounded-md {
+    border-radius: 6px !important;
+}
+
+.rounded {
+    border-radius: 4px !important;
+}
+
+/* Remove transforms and shadows that don't match Linear */
+.hover\:transform:hover,
+.hover\:-translate-y-0\.5:hover,
+.hover\:shadow-md:hover {
+    transform: none !important;
+    box-shadow: none !important;
+}
